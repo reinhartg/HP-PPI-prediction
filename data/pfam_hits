@@ -15044,5 +15044,5 @@ FumaraseC_C          PF10415.9  tr|Q5NHY7|Q5NHY7_FRATT -            1.4e-20   73
 # Target file:     /home/rei/hmmer-3.2.1/pfam/Pfam-A.hmm
 # Option settings: hmmscan --tblout data/pfam_hits --acc --noali -E 0.00001 --domE 0.00001 --cpu 7 /home/rei/hmmer-3.2.1/pfam/Pfam-A.hmm data/uniprot_sequences.fasta 
 # Current dir:     /home/rei/Documents/Thesis/HP-PPI-prediction
-# Date:            Fri Jun 14 17:11:59 2019
+# Date:            Fri Jun 14 19:19:55 2019
 # [ok]
