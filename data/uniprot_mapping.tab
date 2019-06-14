@@ -1590,10 +1590,9 @@ P24863	P24863	CCNC_HUMAN	Homo sapiens (Human)	9606	283	reviewed
 O60583	O60583	CCNT2_HUMAN	Homo sapiens (Human)	9606	730	reviewed
 Q9ULG6	Q9ULG6	CCPG1_HUMAN	Homo sapiens (Human)	9606	757	reviewed
 Q6IQ19	Q6IQ19	CCSAP_HUMAN	Homo sapiens (Human)	9606	270	reviewed
-P86790	O95766,P86790	CCZ1B_HUMAN	Homo sapiens (Human)	9606	482	reviewed
+P86790	P86790	CCZ1B_HUMAN	Homo sapiens (Human)	9606	482	reviewed
 Q8WVX3	Q8WVX3	CD003_HUMAN	Homo sapiens (Human)	9606	66	reviewed
 Q96DX5	Q96DX5	ASB9_HUMAN	Homo sapiens (Human)	9606	294	reviewed
-P0DP25	P62158	CALM3_HUMAN	Homo sapiens (Human)	9606	149	reviewed
 P27824	P27824	CALX_HUMAN	Homo sapiens (Human)	9606	592	reviewed
 P49069	P49069	CAMLG_HUMAN	Homo sapiens (Human)	9606	296	reviewed
 Q5T5Y3	Q5T5Y3	CAMP1_HUMAN	Homo sapiens (Human)	9606	1602	reviewed
@@ -1968,7 +1967,6 @@ Q9BV19	Q9BV19	CA050_HUMAN	Homo sapiens (Human)	9606	199	reviewed
 P15289	P15289	ARSA_HUMAN	Homo sapiens (Human)	9606	507	reviewed
 Q9HBK9	Q9HBK9	AS3MT_HUMAN	Homo sapiens (Human)	9606	375	reviewed
 P0DP23	P62158	CALM1_HUMAN	Homo sapiens (Human)	9606	149	reviewed
-P0DP24	P62158	CALM2_HUMAN	Homo sapiens (Human)	9606	149	reviewed
 Q81KV7	Q81KV7	ASSY_BACAN	Bacillus anthracis	1392	401	reviewed
 P00966	P00966	ASSY_HUMAN	Homo sapiens (Human)	9606	412	reviewed
 Q9ZC68	Q9ZC68	ASTD_YERPE	Yersinia pestis	632	505	reviewed
@@ -2975,7 +2973,6 @@ Q81JX0	Q81JX0	KITH_BACAN	Bacillus anthracis	1392	194	reviewed
 P01834	P01834	IGKC_HUMAN	Homo sapiens (Human)	9606	107	reviewed
 Q81LS0	Q81LS0	HRCA_BACAN	Bacillus anthracis	1392	338	reviewed
 Q6ZMT4	Q6ZMT4	KDM7A_HUMAN	Homo sapiens (Human)	9606	941	reviewed
-P0DMV9	P08107	HS71B_HUMAN	Homo sapiens (Human)	9606	641	reviewed
 Q3SXM5	Q3SXM5	HSDL1_HUMAN	Homo sapiens (Human)	9606	330	reviewed
 P34932	P34932	HSP74_HUMAN	Homo sapiens (Human)	9606	840	reviewed
 Q8ZA10	Q8ZA10	HUTH_YERPE	Yersinia pestis	632	510	reviewed
@@ -3671,7 +3668,7 @@ P51606	P51606	RENBP_HUMAN	Homo sapiens (Human)	9606	427	reviewed
 Q9BXF6	Q9BXF6	RFIP5_HUMAN	Homo sapiens (Human)	9606	653	reviewed
 Q5NIA8	Q5NIA8	RF1_FRATT	Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4)	177416	361	reviewed
 P37867	P37867	RECX_YERPE	Yersinia pestis	632	187	reviewed
-P0DJD1	Q68DN6,P0DJD1	RGPD2_HUMAN	Homo sapiens (Human)	9606	1756	reviewed
+P0DJD1	P0DJD1	RGPD2_HUMAN	Homo sapiens (Human)	9606	1756	reviewed
 O14827	O14827	RGRF2_HUMAN	Homo sapiens (Human)	9606	1237	reviewed
 Q9RMZ4	Q9RMZ4	REPS_BACAN	Bacillus anthracis	1392	512	reviewed
 Q6PCD5	Q6PCD5	RFWD3_HUMAN	Homo sapiens (Human)	9606	774	reviewed
@@ -3984,8 +3981,7 @@ Q01130	Q01130	SRSF2_HUMAN	Homo sapiens (Human)	9606	221	reviewed
 Q9UQ35	Q9UQ35	SRRM2_HUMAN	Homo sapiens (Human)	9606	2752	reviewed
 Q9Y2M2	Q9Y2M2	SSUH2_HUMAN	Homo sapiens (Human)	9606	353	reviewed
 P0CL83	Q6NXR2	ST3L1_HUMAN	Homo sapiens (Human)	9606	205	reviewed
-P0CL84	P0CL84,Q6NXR2	ST3L2_HUMAN	Homo sapiens (Human)	9606	134	reviewed
-P0CL85	Q6NXR2	ST3L3_HUMAN	Homo sapiens (Human)	9606	134	reviewed
+P0CL84	P0CL84	ST3L2_HUMAN	Homo sapiens (Human)	9606	134	reviewed
 Q9NY15	Q9NY15	STAB1_HUMAN	Homo sapiens (Human)	9606	2570	reviewed
 Q8N3U4	Q8N3U4	STAG2_HUMAN	Homo sapiens (Human)	9606	1231	reviewed
 Q9UJ98	Q9UJ98	STAG3_HUMAN	Homo sapiens (Human)	9606	1225	reviewed
@@ -4597,7 +4593,6 @@ P26010	P26010	ITB7_HUMAN	Homo sapiens (Human)	9606	798	reviewed
 Q8IYS2	Q8IYS2	K2013_HUMAN	Homo sapiens (Human)	9606	634	reviewed
 Q81U22	Q81U22	HEMH1_BACAN	Bacillus anthracis	1392	311	reviewed
 O94992	O94992	HEXI1_HUMAN	Homo sapiens (Human)	9606	359	reviewed
-A0A0B4J2D5	P30042	GAL3B_HUMAN	Homo sapiens (Human)	9606	268	reviewed
 O60318	O60318	GANP_HUMAN	Homo sapiens (Human)	9606	1980	reviewed
 P23769	P23769	GATA2_HUMAN	Homo sapiens (Human)	9606	480	reviewed
 O60861	O60861	GAS7_HUMAN	Homo sapiens (Human)	9606	476	reviewed
