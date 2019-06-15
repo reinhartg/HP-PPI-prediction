@@ -22,10 +22,12 @@ def domain_features(protein, domain_dict, domain_set):
         Feature vector of domain occurences in `protein` (1 for presence and 0 for absence)
     '''
     
-    domain_counts = []
+    domain_profile = []
     for domain in domain_set:
-        c = domain_dict[protein].count(domain)
-        domain_counts.append(c)
+        if domain in domain_dict[protein]:
+            domain_profile.append(1)
+        else:
+            domain_profile.append(0)
     
-    features = np.array(domain_counts)
+    features = np.array(domain_profile)
     return features
