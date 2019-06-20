@@ -1,0 +1,1092 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+V-set                PF07686.17 sp|P01833|PIGR_HUMAN -            3.6e-60  200.9   4.5   1.5e-14   54.1   0.1   5.5   5   0   0   5   5   5   5 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01833|PIGR_HUMAN -            7.2e-17   61.8   7.3    0.0017   18.9   0.5   5.8   5   0   0   5   5   1   5 Immunoglobulin domain
+ig                   PF00047.25 sp|P01833|PIGR_HUMAN -              3e-15   56.2   4.8     0.046   13.9   0.0   6.9   6   2   0   6   6   0   5 Immunoglobulin domain
+I-set                PF07679.16 sp|P01833|PIGR_HUMAN -              2e-12   47.0   0.1     0.025   14.7   0.0   5.6   6   0   0   6   6   1   4 Immunoglobulin I-set domain
+Ig_2                 PF13895.6  sp|P24071|FCAR_HUMAN -            2.7e-11   43.7   0.0   0.00022   21.5   0.0   2.2   2   0   0   2   2   2   2 Immunoglobulin domain
+ig                   PF00047.25 sp|P24071|FCAR_HUMAN -            6.7e-09   35.8   0.0   0.00033   20.8   0.0   2.3   2   0   0   2   2   1   2 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P24071|FCAR_HUMAN -              4e-08   33.8   0.0   0.00092   19.8   0.0   2.4   2   0   0   2   2   1   2 Immunoglobulin domain
+C2-set_2             PF08205.12 sp|Q8TD46|MO2R1_HUMAN -            6.8e-07   29.3   2.3   6.8e-07   29.3   2.3   1.8   2   0   0   2   2   1   1 CD80-like C2-set immunoglobulin domain
+V-set                PF07686.17 sp|Q8TD46|MO2R1_HUMAN -            4.3e-06   26.8   0.4     1e-05   25.6   0.0   1.8   2   0   0   2   2   1   1 Immunoglobulin V-set domain
+Ig_2                 PF13895.6  sp|P31994|FCG2B_HUMAN -            2.8e-26   91.7   2.9   4.1e-12   46.3   0.1   2.2   2   0   0   2   2   2   2 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P31994|FCG2B_HUMAN -            1.8e-18   66.9   1.7   1.2e-09   38.6   0.4   2.6   3   0   0   3   3   2   2 Immunoglobulin domain
+ig                   PF00047.25 sp|P31994|FCG2B_HUMAN -              6e-12   45.6   4.9   3.4e-05   23.9   0.1   3.0   2   1   0   2   2   2   2 Immunoglobulin domain
+Ig_4                 PF16680.5  sp|P31994|FCG2B_HUMAN -            4.5e-08   33.2   0.1   0.00013   22.1   0.0   2.2   2   0   0   2   2   1   2 T-cell surface glycoprotein CD3 delta chain
+I-set                PF07679.16 sp|P31994|FCG2B_HUMAN -              7e-08   32.4   1.2    0.0066   16.5   0.5   3.3   2   2   0   2   2   1   2 Immunoglobulin I-set domain
+V-set                PF07686.17 sp|P31994|FCG2B_HUMAN -            1.4e-07   31.6   6.2      0.69   10.1   0.1   4.1   2   2   2   4   4   0   4 Immunoglobulin V-set domain
+Ig_5                 PF16681.5  sp|P31994|FCG2B_HUMAN -              1e-06   29.0   0.2   0.00021   21.7   0.0   2.2   2   0   0   2   2   1   1 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+TCR_zetazeta         PF11628.8  sp|P30273|FCERG_HUMAN -            1.5e-16   59.8   3.6   2.3e-16   59.1   3.6   1.3   1   0   0   1   1   1   1 T-cell surface glycoprotein CD3 zeta chain
+ITAM                 PF02189.15 sp|P30273|FCERG_HUMAN -            2.9e-06   27.4   0.1   4.8e-06   26.7   0.1   1.4   1   0   0   1   1   1   1 Immunoreceptor tyrosine-based activation motif
+Ig_2                 PF13895.6  sp|Q92637|FCGRB_HUMAN -            9.2e-22   77.2   0.8   5.3e-10   39.5   0.0   2.2   2   0   0   2   2   2   2 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|Q92637|FCGRB_HUMAN -            8.9e-17   61.5   1.0   3.5e-10   40.3   0.7   2.4   2   0   0   2   2   2   2 Immunoglobulin domain
+V-set                PF07686.17 sp|Q92637|FCGRB_HUMAN -            7.3e-08   32.6   5.6     0.094   12.9   0.1   3.9   2   2   2   4   4   0   3 Immunoglobulin V-set domain
+Clusterin            PF01093.17 sp|P10909|CLUS_HUMAN -           3.8e-158  527.0  11.1  4.4e-158  526.8  11.1   1.0   1   0   0   1   1   1   1 Clusterin
+Hemopexin            PF00045.19 sp|P04004|VTNC_HUMAN -            1.3e-53  178.7  12.6   5.5e-16   58.2   0.2   5.0   5   0   0   5   5   4   4 Hemopexin
+Somatomedin_B        PF01033.17 sp|P04004|VTNC_HUMAN -            1.3e-09   38.2  19.7   2.5e-09   37.4  19.7   1.5   1   0   0   1   1   1   1 Somatomedin B domain
+Tetraspanin          PF00335.20 sp|P60033|CD81_HUMAN -            5.4e-49  167.0  13.6   6.3e-49  166.8  13.6   1.0   1   0   0   1   1   1   1 Tetraspanin family
+TED_complement       PF07678.14 sp|P01023|A2MG_HUMAN -           3.3e-122  407.4   1.6    5e-122  406.8   1.6   1.3   1   0   0   1   1   1   1 A-macroglobulin TED domain
+A2M_BRD              PF07703.14 sp|P01023|A2MG_HUMAN -            2.3e-33  115.5   0.2   2.1e-28   99.4   0.0   3.7   3   0   0   3   3   1   2 Alpha-2-macroglobulin bait region domain
+A2M                  PF00207.22 sp|P01023|A2MG_HUMAN -            9.1e-31  105.6   0.1   3.5e-30  103.7   0.1   2.1   1   0   0   1   1   1   1 Alpha-2-macroglobulin family
+MG3                  PF17791.1  sp|P01023|A2MG_HUMAN -              8e-29   99.8   1.2   8.2e-28   96.5   0.6   2.9   2   0   0   2   2   1   1 Macroglobulin domain MG3
+MG4                  PF17789.1  sp|P01023|A2MG_HUMAN -              1e-26   92.9   0.5   5.5e-26   90.6   0.0   2.6   2   1   1   3   3   1   1 Macroglobulin domain MG4
+A2M_recep            PF07677.14 sp|P01023|A2MG_HUMAN -            4.7e-26   91.3   0.7   1.3e-25   89.9   0.7   1.9   1   0   0   1   1   1   1 A-macroglobulin receptor binding domain
+MG2                  PF01835.19 sp|P01023|A2MG_HUMAN -            2.4e-20   72.8   0.1   2.1e-19   69.7   0.0   2.6   2   0   0   2   2   1   1 MG2 domain
+7tm_1                PF00001.21 sp|P21730|C5AR1_HUMAN -            5.4e-46  157.0  18.2   7.3e-46  156.6  18.2   1.2   1   0   0   1   1   1   1 7 transmembrane receptor (rhodopsin family)
+7TM_GPCR_Srsx        PF10320.9  sp|P21730|C5AR1_HUMAN -            1.8e-06   27.5   9.5   2.2e-06   27.2   9.5   1.1   1   0   0   1   1   1   1 Serpentine type 7TM GPCR chemoreceptor Srsx
+7tm_1                PF00001.21 sp|Q16581|C3AR_HUMAN -            4.1e-44  150.9  19.7   6.6e-28   97.8   8.8   2.1   2   0   0   2   2   2   2 7 transmembrane receptor (rhodopsin family)
+7TM_GPCR_Srsx        PF10320.9  sp|Q16581|C3AR_HUMAN -            2.3e-10   40.3  13.1   4.6e-07   29.5   0.3   2.1   2   0   0   2   2   2   2 Serpentine type 7TM GPCR chemoreceptor Srsx
+Peptidase_M14        PF00246.24 sp|Q96IY4|CBPB2_HUMAN -            1.7e-91  307.0   0.1   2.2e-91  306.7   0.1   1.1   1   0   0   1   1   1   1 Zinc carboxypeptidase
+Propep_M14           PF02244.16 sp|Q96IY4|CBPB2_HUMAN -            9.3e-14   51.6   0.4   2.2e-13   50.4   0.4   1.6   1   0   0   1   1   1   1 Carboxypeptidase activation peptide
+Ig_3                 PF13927.6  sp|P15391|CD19_HUMAN -            1.1e-06   29.1   0.0     0.067   13.8   0.0   2.7   2   1   0   2   2   1   2 Immunoglobulin domain
+V-set                PF07686.17 sp|P15391|CD19_HUMAN -              2e-06   27.9   0.0      0.18   12.0   0.0   3.9   3   1   0   3   3   0   2 Immunoglobulin V-set domain
+VWA                  PF00092.28 sp|P06681|CO2_HUMAN  -            9.8e-36  123.6   0.4   1.3e-35  123.2   0.4   1.2   1   0   0   1   1   1   1 von Willebrand factor type A domain
+Trypsin              PF00089.26 sp|P06681|CO2_HUMAN  -              3e-30  105.7   0.0     2e-29  103.0   0.0   2.0   1   1   0   1   1   1   1 Trypsin
+Sushi                PF00084.20 sp|P06681|CO2_HUMAN  -            1.1e-19   70.7   8.8   1.8e-08   34.9   0.4   3.6   3   0   0   3   3   2   3 Sushi repeat (SCR repeat)
+VWA_2                PF13519.6  sp|P06681|CO2_HUMAN  -            2.7e-10   40.9   0.2   4.8e-10   40.0   0.2   1.4   1   0   0   1   1   1   1 von Willebrand factor type A domain
+TED_complement       PF07678.14 sp|P01024|CO3_HUMAN  -            8.4e-76  255.0   0.1   5.5e-75  252.3   0.1   2.1   1   1   0   1   1   1   1 A-macroglobulin TED domain
+A2M_recep            PF07677.14 sp|P01024|CO3_HUMAN  -            6.6e-30  103.7   0.3   3.5e-29  101.3   0.1   2.5   2   0   0   2   2   1   1 A-macroglobulin receptor binding domain
+MG1                  PF17790.1  sp|P01024|CO3_HUMAN  -              2e-29  102.0   0.6   8.6e-29   99.9   0.6   2.2   1   0   0   1   1   1   1 Macroglobulin domain MG1
+A2M                  PF00207.22 sp|P01024|CO3_HUMAN  -            2.8e-29  100.8   0.1   9.9e-29   99.1   0.1   2.1   1   0   0   1   1   1   1 Alpha-2-macroglobulin family
+MG4                  PF17789.1  sp|P01024|CO3_HUMAN  -            8.3e-28   96.4   3.4   3.5e-27   94.4   0.3   2.9   3   0   0   3   3   1   1 Macroglobulin domain MG4
+NTR                  PF01759.21 sp|P01024|CO3_HUMAN  -            1.7e-27   95.3   0.2     5e-27   93.8   0.2   1.9   1   0   0   1   1   1   1 UNC-6/NTR/C345C module
+A2M_BRD              PF07703.14 sp|P01024|CO3_HUMAN  -            1.4e-26   93.5   2.8   3.7e-24   85.7   0.0   4.2   4   0   0   4   4   1   1 Alpha-2-macroglobulin bait region domain
+MG2                  PF01835.19 sp|P01024|CO3_HUMAN  -            8.3e-18   64.6   0.5     8e-15   55.1   0.0   3.8   4   0   0   4   4   1   1 MG2 domain
+MG3                  PF17791.1  sp|P01024|CO3_HUMAN  -            3.3e-14   52.9   0.1   2.1e-13   50.3   0.1   2.5   1   0   0   1   1   1   1 Macroglobulin domain MG3
+ANATO                PF01821.18 sp|P01024|CO3_HUMAN  -              4e-11   43.6   8.5   1.1e-10   42.2   8.5   1.8   1   0   0   1   1   1   1 Anaphylotoxin-like domain
+TED_complement       PF07678.14 sp|P01031|CO5_HUMAN  -            8.8e-87  291.0   0.1   1.3e-86  290.5   0.1   1.3   1   0   0   1   1   1   1 A-macroglobulin TED domain
+MG1                  PF17790.1  sp|P01031|CO5_HUMAN  -            3.7e-28   97.9   0.6   5.6e-27   94.1   0.1   2.9   3   0   0   3   3   1   1 Macroglobulin domain MG1
+A2M_BRD              PF07703.14 sp|P01031|CO5_HUMAN  -            2.6e-27   95.9   0.4     7e-26   91.2   0.0   3.0   2   1   1   3   3   1   1 Alpha-2-macroglobulin bait region domain
+A2M                  PF00207.22 sp|P01031|CO5_HUMAN  -              8e-27   92.9   0.8   1.9e-26   91.7   0.1   2.1   2   0   0   2   2   1   1 Alpha-2-macroglobulin family
+NTR                  PF01759.21 sp|P01031|CO5_HUMAN  -            2.2e-24   85.3   0.2   5.2e-24   84.1   0.2   1.7   1   0   0   1   1   1   1 UNC-6/NTR/C345C module
+MG4                  PF17789.1  sp|P01031|CO5_HUMAN  -              3e-24   85.0   1.7   2.2e-23   82.2   0.0   3.3   4   0   0   4   4   1   1 Macroglobulin domain MG4
+A2M_recep            PF07677.14 sp|P01031|CO5_HUMAN  -            1.4e-23   83.4   0.0   4.5e-22   78.5   0.0   2.9   2   0   0   2   2   1   1 A-macroglobulin receptor binding domain
+MG2                  PF01835.19 sp|P01031|CO5_HUMAN  -            4.9e-15   55.7   0.0   6.4e-13   49.0   0.0   3.1   3   0   0   3   3   1   1 MG2 domain
+MG3                  PF17791.1  sp|P01031|CO5_HUMAN  -            1.3e-12   47.8   0.6   5.6e-12   45.8   0.6   2.2   1   0   0   1   1   1   1 Macroglobulin domain MG3
+ANATO                PF01821.18 sp|P01031|CO5_HUMAN  -            2.1e-08   34.8  11.2   6.1e-08   33.4  11.2   1.9   1   0   0   1   1   1   1 Anaphylotoxin-like domain
+MACPF                PF01823.19 sp|P02748|CO9_HUMAN  -            6.9e-33  114.5   0.1   1.2e-32  113.7   0.1   1.4   1   0   0   1   1   1   1 MAC/Perforin domain
+Ldl_recept_a         PF00057.18 sp|P02748|CO9_HUMAN  -            1.5e-09   37.9  16.0   1.5e-09   37.9  16.0   2.7   1   1   1   2   2   1   1 Low-density lipoprotein receptor domain class A
+7tm_1                PF00001.21 sp|Q9P296|C5AR2_HUMAN -            8.3e-25   87.6   7.7   4.7e-19   68.7   2.0   2.0   1   1   1   2   2   2   2 7 transmembrane receptor (rhodopsin family)
+Sushi                PF00084.20 sp|P08174|DAF_HUMAN  -            5.1e-40  135.9  19.2   9.5e-13   48.5   1.0   4.3   4   0   0   4   4   4   4 Sushi repeat (SCR repeat)
+Trypsin              PF00089.26 sp|P05156|CFAI_HUMAN -            2.7e-62  210.5   0.5   5.2e-62  209.5   0.5   1.5   1   0   0   1   1   1   1 Trypsin
+Ldl_recept_a         PF00057.18 sp|P05156|CFAI_HUMAN -            1.4e-16   60.4  22.4   4.3e-12   46.0   6.8   4.3   3   0   0   3   3   2   2 Low-density lipoprotein receptor domain class A
+SRCR                 PF00530.18 sp|P05156|CFAI_HUMAN -            1.2e-12   48.2   0.9   1.2e-12   48.2   0.9   3.2   3   0   0   3   3   1   1 Scavenger receptor cysteine-rich domain
+Trypsin_2            PF13365.6  sp|P05156|CFAI_HUMAN -            4.8e-06   27.5   0.0   9.4e-06   26.6   0.0   1.4   1   0   0   1   1   1   1 Trypsin-like peptidase domain
+Sushi                PF00084.20 sp|P08603|CFAH_HUMAN -           4.7e-160  520.3 146.3   3.6e-11   43.5   0.5  20.2  19   1   1  20  20  19  20 Sushi repeat (SCR repeat)
+IL1                  PF00340.19 sp|P01584|IL1B_HUMAN -            6.2e-46  154.9   0.5   1.2e-45  154.0   0.5   1.5   1   0   0   1   1   1   1 Interleukin-1 / 18
+IL1_propep           PF02394.16 sp|P01584|IL1B_HUMAN -              1e-39  135.8   0.4   6.5e-39  133.2   0.0   2.1   2   0   0   2   2   1   1 Interleukin-1 propeptide
+Serpin               PF00079.20 sp|P05155|IC1_HUMAN  -            2.4e-78  264.0   7.1   2.9e-78  263.8   7.1   1.1   1   0   0   1   1   1   1 Serpin (serine protease inhibitor)
+Trypsin              PF00089.26 sp|P00734|THRB_HUMAN -              5e-68  229.2   0.0   7.7e-68  228.6   0.0   1.3   1   0   0   1   1   1   1 Trypsin
+Kringle              PF00051.18 sp|P00734|THRB_HUMAN -            3.5e-49  165.0  11.3   1.6e-25   89.2   3.0   2.5   2   0   0   2   2   2   2 Kringle domain
+Thrombin_light       PF09396.10 sp|P00734|THRB_HUMAN -            5.4e-27   93.3   1.0     1e-26   92.4   1.0   1.5   1   0   0   1   1   1   1 Thrombin light chain
+Gla                  PF00594.20 sp|P00734|THRB_HUMAN -            3.3e-18   65.6   5.0   6.9e-18   64.6   5.0   1.6   1   0   0   1   1   1   1 Vitamin K-dependent carboxylation/gamma-carboxyglutamic (GLA) domain
+Peptidase_M14        PF00246.24 sp|P15169|CBPN_HUMAN -            6.5e-83  278.9   0.0   7.8e-83  278.6   0.0   1.1   1   0   0   1   1   1   1 Zinc carboxypeptidase
+CarboxypepD_reg      PF13620.6  sp|P15169|CBPN_HUMAN -            2.1e-13   50.3   0.1   4.1e-13   49.4   0.1   1.5   1   0   0   1   1   1   1 Carboxypeptidase regulatory-like domain
+CarbopepD_reg_2      PF13715.6  sp|P15169|CBPN_HUMAN -            5.1e-07   29.6   0.0   7.8e-07   29.0   0.0   1.3   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+TED_complement       PF07678.14 sp|P0C0L4|CO4A_HUMAN -           4.7e-105  351.1   0.0  6.4e-105  350.6   0.0   1.2   1   0   0   1   1   1   1 A-macroglobulin TED domain
+A2M_recep            PF07677.14 sp|P0C0L4|CO4A_HUMAN -            7.3e-29  100.3   0.0   2.5e-28   98.6   0.0   2.0   1   0   0   1   1   1   1 A-macroglobulin receptor binding domain
+A2M                  PF00207.22 sp|P0C0L4|CO4A_HUMAN -            6.3e-27   93.3   0.0   1.7e-25   88.7   0.0   2.6   2   0   0   2   2   1   1 Alpha-2-macroglobulin family
+A2M_BRD              PF07703.14 sp|P0C0L4|CO4A_HUMAN -            4.7e-23   82.1   0.1   3.9e-20   72.6   0.0   3.2   3   0   0   3   3   1   1 Alpha-2-macroglobulin bait region domain
+NTR                  PF01759.21 sp|P0C0L4|CO4A_HUMAN -            9.3e-21   73.6   0.0   2.2e-20   72.4   0.0   1.7   1   0   0   1   1   1   1 UNC-6/NTR/C345C module
+MG3                  PF17791.1  sp|P0C0L4|CO4A_HUMAN -              7e-18   64.7   0.1   3.3e-17   62.5   0.0   2.3   2   0   0   2   2   1   1 Macroglobulin domain MG3
+MG2                  PF01835.19 sp|P0C0L4|CO4A_HUMAN -            9.9e-18   64.4   0.0   3.4e-16   59.5   0.0   3.0   2   0   0   2   2   1   1 MG2 domain
+ANATO                PF01821.18 sp|P0C0L4|CO4A_HUMAN -            7.6e-10   39.5   9.4   1.7e-09   38.3   9.4   1.7   1   0   0   1   1   1   1 Anaphylotoxin-like domain
+MG4                  PF17789.1  sp|P0C0L4|CO4A_HUMAN -            3.2e-09   36.8   0.0   2.8e-08   33.8   0.0   2.5   2   0   0   2   2   1   1 Macroglobulin domain MG4
+TED_complement       PF07678.14 sp|P0C0L5|CO4B_HUMAN -           3.5e-105  351.5   0.0  4.7e-105  351.1   0.0   1.2   1   0   0   1   1   1   1 A-macroglobulin TED domain
+A2M_recep            PF07677.14 sp|P0C0L5|CO4B_HUMAN -            7.3e-29  100.3   0.0   2.5e-28   98.6   0.0   2.0   1   0   0   1   1   1   1 A-macroglobulin receptor binding domain
+A2M                  PF00207.22 sp|P0C0L5|CO4B_HUMAN -            6.3e-27   93.3   0.0   1.7e-25   88.7   0.0   2.6   2   0   0   2   2   1   1 Alpha-2-macroglobulin family
+A2M_BRD              PF07703.14 sp|P0C0L5|CO4B_HUMAN -            4.7e-23   82.1   0.1   3.9e-20   72.6   0.0   3.2   3   0   0   3   3   1   1 Alpha-2-macroglobulin bait region domain
+NTR                  PF01759.21 sp|P0C0L5|CO4B_HUMAN -            9.3e-21   73.6   0.0   2.2e-20   72.4   0.0   1.7   1   0   0   1   1   1   1 UNC-6/NTR/C345C module
+MG3                  PF17791.1  sp|P0C0L5|CO4B_HUMAN -              7e-18   64.7   0.1   3.3e-17   62.5   0.0   2.3   2   0   0   2   2   1   1 Macroglobulin domain MG3
+MG2                  PF01835.19 sp|P0C0L5|CO4B_HUMAN -              1e-17   64.3   0.0   3.4e-16   59.5   0.0   2.9   2   0   0   2   2   1   1 MG2 domain
+ANATO                PF01821.18 sp|P0C0L5|CO4B_HUMAN -            7.6e-10   39.5   9.4   1.7e-09   38.3   9.4   1.7   1   0   0   1   1   1   1 Anaphylotoxin-like domain
+MG4                  PF17789.1  sp|P0C0L5|CO4B_HUMAN -            3.2e-09   36.8   0.0   2.8e-08   33.8   0.0   2.5   2   0   0   2   2   1   1 Macroglobulin domain MG4
+MACPF                PF01823.19 sp|P07357|CO8A_HUMAN -            1.8e-45  155.6   0.6   3.8e-44  151.3   0.1   2.1   2   0   0   2   2   1   1 MAC/Perforin domain
+Ldl_recept_a         PF00057.18 sp|P07357|CO8A_HUMAN -            1.9e-08   34.3  13.2   1.9e-08   34.3  13.2   2.8   1   1   1   2   2   1   1 Low-density lipoprotein receptor domain class A
+TSP_1                PF00090.19 sp|P07357|CO8A_HUMAN -            3.4e-07   30.4  28.3   2.2e-05   24.6  11.2   3.5   2   0   0   2   2   1   2 Thrombospondin type 1 domain
+MACPF                PF01823.19 sp|P07358|CO8B_HUMAN -            2.6e-35  122.4   0.0     5e-35  121.5   0.0   1.4   1   0   0   1   1   1   1 MAC/Perforin domain
+Ldl_recept_a         PF00057.18 sp|P07358|CO8B_HUMAN -            3.4e-08   33.6  12.2   3.4e-08   33.6  12.2   2.5   2   0   0   2   2   1   1 Low-density lipoprotein receptor domain class A
+Trypsin              PF00089.26 sp|P00751|CFAB_HUMAN -            1.3e-47  162.5   0.1   2.1e-47  161.8   0.1   1.4   1   0   0   1   1   1   1 Trypsin
+VWA                  PF00092.28 sp|P00751|CFAB_HUMAN -            1.3e-39  136.2   0.0   2.1e-39  135.6   0.0   1.3   1   0   0   1   1   1   1 von Willebrand factor type A domain
+Sushi                PF00084.20 sp|P00751|CFAB_HUMAN -            4.9e-26   91.1  18.3     9e-11   42.2   2.6   4.4   4   0   0   4   4   3   3 Sushi repeat (SCR repeat)
+VWA_2                PF13519.6  sp|P00751|CFAB_HUMAN -            6.1e-11   42.9   0.0   2.6e-10   40.9   0.0   2.0   1   1   0   1   1   1   1 von Willebrand factor type A domain
+C1q                  PF00386.21 sp|P02747|C1QC_HUMAN -            2.8e-36  124.5   0.1   3.4e-36  124.3   0.1   1.1   1   0   0   1   1   1   1 C1q domain
+Collagen             PF01391.18 sp|P02747|C1QC_HUMAN -            2.2e-14   52.9  37.2   8.8e-09   35.0  23.1   2.3   1   1   1   2   2   2   2 Collagen triple helix repeat (20 copies)
+Trypsin              PF00089.26 sp|P00736|C1R_HUMAN  -            2.8e-49  167.9   0.0   4.3e-49  167.3   0.0   1.3   1   0   0   1   1   1   1 Trypsin
+CUB                  PF00431.20 sp|P00736|C1R_HUMAN  -            3.8e-49  165.6   0.0   2.3e-28   98.7   0.0   2.4   2   0   0   2   2   2   2 CUB domain
+Sushi                PF00084.20 sp|P00736|C1R_HUMAN  -            1.8e-20   73.3  17.6   3.2e-13   50.1   0.5   3.6   3   0   0   3   3   2   2 Sushi repeat (SCR repeat)
+FXa_inhibition       PF14670.6  sp|P00736|C1R_HUMAN  -            2.8e-10   40.3   9.3   5.4e-10   39.4   6.9   2.6   2   0   0   2   2   1   1 Coagulation Factor Xa inhibitory site
+cEGF                 PF12662.7  sp|P00736|C1R_HUMAN  -            3.6e-07   30.0   6.4   4.8e-05   23.2   3.8   3.1   2   0   0   2   2   1   2 Complement Clr-like EGF-like
+Sushi                PF00084.20 sp|P20023|CR2_HUMAN  -           1.4e-134  438.7  88.1   2.8e-12   47.1   0.4  15.4  15   0   0  15  15  14  15 Sushi repeat (SCR repeat)
+V-set                PF07686.17 sp|P01614|KVD40_HUMAN -            2.5e-15   56.6   0.0     3e-15   56.3   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01611|KVD12_HUMAN -            1.7e-17   63.5   0.0     2e-17   63.3   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01611|KVD12_HUMAN -            8.4e-10   39.1   0.1   1.3e-09   38.5   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01611|KVD12_HUMAN -            5.8e-07   29.5   0.0   9.2e-07   28.9   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|P01611|KVD12_HUMAN -              2e-06   27.9   0.0   3.6e-06   27.1   0.0   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+C1-set               PF07654.15 sp|P0DOY2|IGLC2_HUMAN -            6.1e-31  106.7   0.3   7.1e-31  106.4   0.3   1.1   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+C1-set               PF07654.15 sp|P01834|IGKC_HUMAN -            6.3e-25   87.4   0.5   7.4e-25   87.2   0.5   1.0   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+Ig_3                 PF13927.6  sp|P01834|IGKC_HUMAN -            1.8e-06   28.4   0.3   2.5e-06   28.0   0.3   1.1   1   0   0   1   1   1   1 Immunoglobulin domain
+C1-set               PF07654.15 sp|P01860|IGHG3_HUMAN -            3.6e-70  232.4   5.7   1.6e-29  102.1   0.1   3.1   3   0   0   3   3   3   3 Immunoglobulin C1-set domain
+C2-set_2             PF08205.12 sp|P01860|IGHG3_HUMAN -            5.1e-18   64.9   3.1   1.2e-07   31.7   0.0   3.2   3   0   0   3   3   2   3 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01860|IGHG3_HUMAN -            2.7e-13   50.3   4.4   0.00065   20.3   0.1   3.3   3   0   0   3   3   2   3 Immunoglobulin domain
+ig                   PF00047.25 sp|P01860|IGHG3_HUMAN -            7.5e-12   45.3   5.1    0.0014   18.8   0.2   3.5   3   1   0   3   3   2   3 Immunoglobulin domain
+V-set                PF07686.17 sp|P01764|HV323_HUMAN -            2.4e-14   53.4   0.0     3e-14   53.1   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Laminin_G_1          PF00054.23 sp|P07225|PROS_HUMAN -            1.4e-31  109.5   0.0   6.7e-28   97.5   0.0   2.4   2   0   0   2   2   1   2 Laminin G domain
+Laminin_G_2          PF02210.24 sp|P07225|PROS_HUMAN -            1.7e-20   73.9   0.0   5.8e-11   43.1   0.0   2.3   2   0   0   2   2   2   2 Laminin G domain
+EGF_CA               PF07645.15 sp|P07225|PROS_HUMAN -              3e-19   68.9  55.4   2.1e-08   34.3   5.5   4.9   4   0   0   4   4   3   4 Calcium-binding EGF domain
+FXa_inhibition       PF14670.6  sp|P07225|PROS_HUMAN -            7.8e-19   67.7  52.6   2.1e-08   34.3   9.4   4.7   4   0   0   4   4   3   3 Coagulation Factor Xa inhibitory site
+Gla                  PF00594.20 sp|P07225|PROS_HUMAN -            1.5e-18   66.7   7.0   1.5e-18   66.7   7.0   2.4   3   0   0   3   3   1   1 Vitamin K-dependent carboxylation/gamma-carboxyglutamic (GLA) domain
+cEGF                 PF12662.7  sp|P07225|PROS_HUMAN -            2.5e-17   62.5  37.6   9.2e-08   31.9   0.5   5.6   5   0   0   5   5   3   4 Complement Clr-like EGF-like
+EGF                  PF00008.27 sp|P07225|PROS_HUMAN -            2.1e-10   40.7  49.7   1.9e-05   24.9   5.7   4.7   4   0   0   4   4   2   4 EGF-like domain
+Sushi                PF00084.20 sp|P15529|MCP_HUMAN  -            4.8e-36  123.1  18.4   6.8e-12   45.8   0.7   4.4   4   0   0   4   4   4   4 Sushi repeat (SCR repeat)
+C1-set               PF07654.15 sp|P01857|IGHG1_HUMAN -            3.4e-71  235.7   5.3   2.7e-30  104.6   0.1   3.1   3   0   0   3   3   3   3 Immunoglobulin C1-set domain
+C2-set_2             PF08205.12 sp|P01857|IGHG1_HUMAN -            6.1e-17   61.5   1.4   4.1e-07   30.0   0.0   3.1   3   0   0   3   3   2   3 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01857|IGHG1_HUMAN -            6.4e-14   52.3   5.1   0.00011   22.7   0.1   3.3   3   0   0   3   3   2   3 Immunoglobulin domain
+ig                   PF00047.25 sp|P01857|IGHG1_HUMAN -            9.6e-11   41.7   6.0    0.0016   18.6   0.2   3.5   3   1   0   3   3   1   3 Immunoglobulin domain
+C1-set               PF07654.15 sp|P01859|IGHG2_HUMAN -            4.7e-71  235.2   8.5   3.4e-31  107.5   0.1   3.1   3   0   0   3   3   3   3 Immunoglobulin C1-set domain
+C2-set_2             PF08205.12 sp|P01859|IGHG2_HUMAN -              4e-18   65.3   3.1     7e-08   32.4   0.1   3.2   3   0   0   3   3   2   3 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01859|IGHG2_HUMAN -            1.1e-13   51.6   5.8   3.9e-05   24.2   0.2   3.4   3   0   0   3   3   2   3 Immunoglobulin domain
+ig                   PF00047.25 sp|P01859|IGHG2_HUMAN -              4e-10   39.7   8.4    0.0038   17.4   0.1   3.7   3   1   0   3   3   1   3 Immunoglobulin domain
+C1-set               PF07654.15 sp|P0CG04|IGLC1_HUMAN -            1.4e-31  108.7   0.2   1.6e-31  108.5   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+C2-set_2             PF08205.12 sp|P0CG04|IGLC1_HUMAN -            4.4e-06   26.7   0.3   5.4e-06   26.4   0.3   1.2   1   0   0   1   1   1   1 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P0CG04|IGLC1_HUMAN -            5.8e-06   26.8   0.7   7.1e-06   26.5   0.7   1.1   1   0   0   1   1   1   1 Immunoglobulin domain
+C1-set               PF07654.15 sp|P0DOY3|IGLC3_HUMAN -            2.6e-31  107.8   0.4     3e-31  107.6   0.4   1.1   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+C1-set               PF07654.15 sp|P01861|IGHG4_HUMAN -            2.2e-70  233.1   7.4   2.5e-30  104.7   0.1   3.1   3   0   0   3   3   3   3 Immunoglobulin C1-set domain
+C2-set_2             PF08205.12 sp|P01861|IGHG4_HUMAN -            2.6e-17   62.6   4.1   1.4e-07   31.5   0.1   3.1   3   0   0   3   3   2   3 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01861|IGHG4_HUMAN -            1.6e-13   51.1   5.5   4.6e-05   23.9   0.1   3.3   3   0   0   3   3   2   3 Immunoglobulin domain
+ig                   PF00047.25 sp|P01861|IGHG4_HUMAN -            3.1e-10   40.1   7.6     0.018   15.2   0.1   3.6   3   1   0   3   3   2   3 Immunoglobulin domain
+V-set                PF07686.17 sp|P04433|KV311_HUMAN -            7.9e-17   61.4   0.0   9.6e-17   61.1   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P04433|KV311_HUMAN -            2.8e-08   34.2   0.0   3.9e-08   33.8   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.25 sp|P04433|KV311_HUMAN -            6.7e-06   26.2   0.0   1.5e-05   25.1   0.0   1.6   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01602|KV105_HUMAN -            5.1e-17   62.0   0.2   5.9e-17   61.8   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01602|KV105_HUMAN -            5.5e-09   36.5   0.2   9.1e-09   35.8   0.2   1.3   1   1   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01602|KV105_HUMAN -            8.4e-07   29.0   0.1   1.3e-06   28.4   0.1   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|P01602|KV105_HUMAN -            7.1e-06   26.1   0.1   1.1e-05   25.5   0.1   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01597|KV139_HUMAN -              3e-18   66.0   0.2   3.5e-18   65.8   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01597|KV139_HUMAN -            4.9e-09   36.7   0.2     8e-09   36.0   0.2   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.25 sp|P01597|KV139_HUMAN -            4.9e-07   29.8   0.1   7.4e-07   29.3   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01597|KV139_HUMAN -            1.8e-06   28.0   0.0   2.7e-06   27.3   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+V-set                PF07686.17 sp|P01599|KV117_HUMAN -            9.1e-16   58.0   0.0   1.1e-15   57.8   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01599|KV117_HUMAN -              2e-09   37.9   0.0   2.9e-09   37.4   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.25 sp|P01599|KV117_HUMAN -            1.1e-06   28.7   0.0   1.6e-06   28.2   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01599|KV117_HUMAN -            1.7e-06   28.0   0.0   2.3e-06   27.6   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin I-set domain
+V-set                PF07686.17 sp|P06310|KV230_HUMAN -            6.7e-17   61.6   0.0   8.4e-17   61.3   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01619|KV320_HUMAN -            7.4e-17   61.5   0.0   8.4e-17   61.3   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01619|KV320_HUMAN -            5.9e-08   33.2   0.0   8.6e-08   32.7   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01615|KVD28_HUMAN -            6.4e-16   58.5   0.0   8.1e-16   58.2   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01593|KVD33_HUMAN -            2.1e-17   63.3   0.1   2.6e-17   63.0   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01593|KVD33_HUMAN -            3.5e-08   33.9   0.2   6.1e-08   33.2   0.2   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01593|KVD33_HUMAN -            1.6e-06   28.0   0.0   2.6e-06   27.4   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|P01593|KVD33_HUMAN -            2.6e-06   27.5   0.1   4.1e-06   26.9   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P80748|LV321_HUMAN -            8.6e-17   61.3   0.0   1.1e-16   61.0   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+I-set                PF07679.16 sp|P80748|LV321_HUMAN -            3.6e-09   36.6   0.1   5.5e-09   36.0   0.1   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+Ig_3                 PF13927.6  sp|P80748|LV321_HUMAN -            7.2e-09   36.1   0.1   1.3e-08   35.3   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.25 sp|P80748|LV321_HUMAN -            7.3e-07   29.3   0.1   1.4e-06   28.4   0.1   1.5   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01704|LV214_HUMAN -            2.8e-19   69.3   0.5   3.2e-19   69.1   0.5   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01704|LV214_HUMAN -            8.6e-07   29.5   0.4   1.4e-06   28.8   0.4   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01714|LV319_HUMAN -            8.6e-17   61.3   0.1   9.8e-17   61.1   0.1   1.0   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01714|LV319_HUMAN -            2.8e-07   31.0   0.1   5.1e-07   30.2   0.1   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01701|LV151_HUMAN -            5.3e-17   62.0   0.1   6.7e-17   61.6   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01701|LV151_HUMAN -            9.4e-06   26.1   0.4     2e-05   25.1   0.4   1.5   1   1   0   1   1   1   1 Immunoglobulin domain
+MACPF                PF01823.19 sp|P13671|CO6_HUMAN  -            1.2e-46  159.5   2.3   1.3e-46  159.4   0.8   1.8   2   0   0   2   2   1   1 MAC/Perforin domain
+TSP_1                PF00090.19 sp|P13671|CO6_HUMAN  -            2.3e-13   50.1  20.0   1.7e-09   37.7   0.5   5.6   6   0   0   6   6   2   3 Thrombospondin type 1 domain
+Sushi                PF00084.20 sp|P13671|CO6_HUMAN  -            2.3e-13   50.5   4.7   1.4e-08   35.2   0.8   3.7   4   0   0   4   4   2   2 Sushi repeat (SCR repeat)
+Ldl_recept_a         PF00057.18 sp|P13671|CO6_HUMAN  -            2.6e-10   40.3  15.6   2.6e-10   40.3  15.6   5.2   5   0   0   5   5   1   1 Low-density lipoprotein receptor domain class A
+MACPF                PF01823.19 sp|P10643|CO7_HUMAN  -            3.1e-44  151.6   0.6   3.1e-44  151.6   0.6   1.9   2   0   0   2   2   1   1 MAC/Perforin domain
+Kazal_3              PF18434.1  sp|P10643|CO7_HUMAN  -            4.7e-23   80.7  11.2   4.7e-23   80.7  11.2   4.0   4   0   0   4   4   1   2 Kazal-type serine protease inhibitor domain
+Sushi                PF00084.20 sp|P10643|CO7_HUMAN  -            6.8e-19   68.2   2.0   3.3e-09   37.2   0.2   3.3   2   0   0   2   2   2   2 Sushi repeat (SCR repeat)
+SRCR                 PF00530.18 sp|O43866|CD5L_HUMAN -            5.1e-85  280.4  41.1   2.5e-30  104.9   8.2   3.0   3   0   0   3   3   3   3 Scavenger receptor cysteine-rich domain
+SRCR_2               PF15494.6  sp|O43866|CD5L_HUMAN -            1.2e-14   54.6  17.9   2.3e-05   24.8   3.8   3.5   3   0   0   3   3   3   3 Scavenger receptor cysteine-rich domain
+C1q                  PF00386.21 sp|P02746|C1QB_HUMAN -              9e-37  126.1   0.2   1.1e-36  125.9   0.2   1.1   1   0   0   1   1   1   1 C1q domain
+Collagen             PF01391.18 sp|P02746|C1QB_HUMAN -            1.4e-14   53.5  57.3   1.8e-08   34.0  19.3   2.3   1   1   1   2   2   2   2 Collagen triple helix repeat (20 copies)
+Trypsin              PF00089.26 sp|P09871|C1S_HUMAN  -            2.7e-54  184.3   0.0   3.8e-54  183.8   0.0   1.2   1   0   0   1   1   1   1 Trypsin
+CUB                  PF00431.20 sp|P09871|C1S_HUMAN  -            6.8e-46  155.1   0.1   3.6e-25   88.4   0.0   2.3   2   0   0   2   2   2   2 CUB domain
+Sushi                PF00084.20 sp|P09871|C1S_HUMAN  -            3.5e-18   65.9   7.7   8.8e-09   35.8   0.9   2.9   2   0   0   2   2   2   2 Sushi repeat (SCR repeat)
+FXa_inhibition       PF14670.6  sp|P09871|C1S_HUMAN  -            1.6e-08   34.7   5.1   1.6e-08   34.7   5.1   2.2   2   0   0   2   2   1   1 Coagulation Factor Xa inhibitory site
+Sushi                PF00084.20 sp|P20851|C4BPB_HUMAN -            8.7e-24   83.9  13.5   1.8e-09   38.0   1.9   3.3   3   0   0   3   3   3   3 Sushi repeat (SCR repeat)
+MAM33                PF02330.16 sp|Q07021|C1QBP_HUMAN -            1.8e-41  142.4   3.1   2.1e-41  142.2   3.1   1.0   1   0   0   1   1   1   1 Mitochondrial glycoprotein
+C1q                  PF00386.21 sp|P02745|C1QA_HUMAN -            5.9e-36  123.5   0.0   7.1e-36  123.2   0.0   1.1   1   0   0   1   1   1   1 C1q domain
+Collagen             PF01391.18 sp|P02745|C1QA_HUMAN -            5.7e-13   48.4  37.8   2.3e-08   33.7  17.0   2.3   1   1   1   2   2   2   2 Collagen triple helix repeat (20 copies)
+Sushi                PF00084.20 sp|P04003|C4BPA_HUMAN -            8.1e-75  247.3  56.5   1.5e-12   47.9   0.4   8.2   8   0   0   8   8   8   8 Sushi repeat (SCR repeat)
+C4bp_oligo           PF18453.1  sp|P04003|C4BPA_HUMAN -            1.1e-29  102.4   1.6   1.9e-29  101.6   1.6   1.4   1   0   0   1   1   1   1 Oligomerization domain of C4b-binding protein alpha
+Sushi                PF00084.20 sp|P17927|CR1_HUMAN  -           3.4e-269  869.8 171.7   2.9e-12   47.0   1.3  30.5  30   0   0  30  30  30  30 Sushi repeat (SCR repeat)
+Invas_SpaK           PF03519.14 sp|P17927|CR1_HUMAN  -            1.8e-07   31.1   0.0       5.3    7.2   0.0   4.4   4   0   0   4   4   0   4 Invasion protein B family
+V-set                PF07686.17 sp|P01624|KV315_HUMAN -            3.5e-16   59.3   0.1   4.2e-16   59.1   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01624|KV315_HUMAN -            2.3e-09   37.7   0.1   3.1e-09   37.3   0.1   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.25 sp|P01624|KV315_HUMAN -            1.8e-06   28.0   0.1   4.3e-06   26.8   0.1   1.5   1   1   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01624|KV315_HUMAN -            2.1e-06   27.7   0.0   3.3e-06   27.1   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+Sushi                PF00084.20 sp|Q03591|FHR1_HUMAN -              7e-41  138.6  36.0   1.3e-10   41.7   1.9   5.1   5   0   0   5   5   5   5 Sushi repeat (SCR repeat)
+C1-set               PF07654.15 sp|P0CF74|IGLC6_HUMAN -            1.3e-31  108.8   0.2   1.5e-31  108.6   0.2   1.0   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+C2-set_2             PF08205.12 sp|P0CF74|IGLC6_HUMAN -            1.3e-06   28.3   0.4   1.7e-06   28.0   0.4   1.2   1   0   0   1   1   1   1 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P0CF74|IGLC6_HUMAN -            6.8e-06   26.6   0.8   8.4e-06   26.3   0.8   1.1   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01780|HV307_HUMAN -            1.4e-14   54.2   0.0   1.7e-14   53.9   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01782|HV309_HUMAN -            4.3e-12   46.2   0.0   5.5e-12   45.8   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01766|HV313_HUMAN -            1.1e-12   48.1   0.0   1.3e-12   47.8   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01768|HV330_HUMAN -            3.4e-14   52.9   0.0   4.2e-14   52.6   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01709|LV208_HUMAN -            6.3e-18   65.0   0.1   7.1e-18   64.8   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01709|LV208_HUMAN -            1.4e-06   28.8   0.2   2.3e-06   28.1   0.2   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01703|LV140_HUMAN -            1.1e-18   67.3   0.0   1.4e-18   67.0   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01703|LV140_HUMAN -            5.9e-06   26.8   0.1   1.1e-05   26.0   0.1   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01699|LV144_HUMAN -              1e-16   61.1   0.1   1.2e-16   60.8   0.1   1.0   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01699|LV144_HUMAN -            1.4e-07   32.0   0.6   2.5e-07   31.2   0.6   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+TSP_1                PF00090.19 sp|P27918|PROP_HUMAN -            1.4e-60  201.3  94.2   2.2e-16   59.8  15.3   6.9   7   0   0   7   7   6   6 Thrombospondin type 1 domain
+TSR                  PF18487.1  sp|P27918|PROP_HUMAN -              7e-24   83.8   5.3   4.2e-23   81.3   5.3   2.5   1   0   0   1   1   1   1 Thrombospondin type 1 repeat
+V-set                PF07686.17 sp|P01715|LV301_HUMAN -            5.6e-15   55.5   0.2   6.3e-15   55.3   0.2   1.0   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01715|LV301_HUMAN -            1.1e-06   29.1   0.7   2.1e-06   28.3   0.7   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01715|LV301_HUMAN -            2.7e-06   27.3   0.1   4.1e-06   26.8   0.1   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+V-set                PF07686.17 sp|P01705|LV223_HUMAN -            1.2e-17   64.0   0.2   1.4e-17   63.8   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01705|LV223_HUMAN -            1.8e-06   28.5   0.5     3e-06   27.7   0.5   1.3   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01706|LV211_HUMAN -            2.1e-19   69.7   0.2   2.4e-19   69.5   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01706|LV211_HUMAN -            4.5e-07   30.4   0.3   7.5e-07   29.7   0.3   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01700|LV147_HUMAN -            2.6e-17   62.9   0.1   3.2e-17   62.7   0.1   1.0   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01700|LV147_HUMAN -            6.5e-07   29.9   0.3   1.1e-06   29.1   0.3   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+Trypsin              PF00089.26 sp|P48740|MASP1_HUMAN -            4.1e-74  249.1   0.0   6.3e-74  248.5   0.0   1.3   1   0   0   1   1   1   1 Trypsin
+CUB                  PF00431.20 sp|P48740|MASP1_HUMAN -            6.7e-53  177.7   0.2   2.1e-31  108.5   0.0   2.6   2   0   0   2   2   2   2 CUB domain
+Sushi                PF00084.20 sp|P48740|MASP1_HUMAN -            2.5e-16   60.0  13.8   1.4e-10   41.6   0.5   3.1   3   0   0   3   3   2   2 Sushi repeat (SCR repeat)
+FXa_inhibition       PF14670.6  sp|P48740|MASP1_HUMAN -            4.1e-09   36.6  11.6   5.4e-08   33.0   9.1   3.0   2   0   0   2   2   1   1 Coagulation Factor Xa inhibitory site
+V-set                PF07686.17 sp|P04430|KV116_HUMAN -            1.4e-16   60.6   0.1   1.6e-16   60.4   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P04430|KV116_HUMAN -            3.2e-09   37.2   0.1   4.8e-09   36.7   0.1   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.25 sp|P04430|KV116_HUMAN -              2e-07   31.1   0.0   2.7e-07   30.7   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P04430|KV116_HUMAN -            5.5e-07   29.6   0.0   6.9e-07   29.2   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin I-set domain
+V-set                PF07686.17 sp|P06315|KV502_HUMAN -            3.2e-13   49.8   0.0   4.3e-13   49.4   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+ig                   PF00047.25 sp|P06315|KV502_HUMAN -            2.3e-06   27.7   0.1     2e-05   24.7   0.1   2.0   1   1   0   1   1   1   1 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P06315|KV502_HUMAN -            3.4e-06   27.6   0.0   5.6e-06   26.9   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01594|KV133_HUMAN -            2.1e-17   63.3   0.1   2.6e-17   63.0   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01594|KV133_HUMAN -            3.5e-08   33.9   0.2   6.1e-08   33.2   0.2   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01594|KV133_HUMAN -            1.6e-06   28.0   0.0   2.6e-06   27.4   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|P01594|KV133_HUMAN -            2.6e-06   27.5   0.1   4.1e-06   26.9   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P06312|KV401_HUMAN -            2.4e-18   66.3   0.3   2.8e-18   66.1   0.3   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P06312|KV401_HUMAN -            2.9e-06   27.8   0.2   1.5e-05   25.5   0.2   1.9   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01717|LV325_HUMAN -              5e-17   62.1   0.1   5.6e-17   61.9   0.1   1.0   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01717|LV325_HUMAN -            9.6e-10   38.9   0.4     2e-09   37.9   0.4   1.5   1   1   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01717|LV325_HUMAN -            4.5e-07   29.9   0.1   7.5e-07   29.1   0.1   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|P01717|LV325_HUMAN -            6.9e-06   26.2   0.0   1.3e-05   25.3   0.0   1.5   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01721|LV657_HUMAN -            9.4e-19   67.6   0.8   1.1e-18   67.4   0.8   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01721|LV657_HUMAN -            5.3e-08   33.3   2.4   1.2e-07   32.2   2.4   1.5   1   1   0   1   1   1   1 Immunoglobulin domain
+LRR_8                PF13855.6  sp|P22792|CPN2_HUMAN -            2.1e-63  210.0  65.3   9.2e-15   54.2   1.4   7.2   1   1   6   7   7   7   7 Leucine rich repeat
+LRR_5                PF13306.6  sp|P22792|CPN2_HUMAN -            2.1e-24   85.9   0.0   2.2e-07   30.9   0.0   3.3   1   1   2   3   3   3   3 BspA type Leucine rich repeat region (6 copies)
+LRR_4                PF12799.7  sp|P22792|CPN2_HUMAN -            6.2e-22   77.3  42.9   3.5e-05   24.1   2.3   8.1   1   1   8  11  11   6   9 Leucine Rich repeats (2 copies)
+LRR_9                PF14580.6  sp|P22792|CPN2_HUMAN -            6.9e-12   45.2  13.1    0.0012   18.4   0.6   4.2   1   1   2   4   4   3   4 Leucine-rich repeat
+LRR_1                PF00560.33 sp|P22792|CPN2_HUMAN -              1e-06   28.4  37.6       3.6    8.5   0.1  11.5  11   1   0  11  11   0   3 Leucine Rich Repeat
+V-set                PF07686.17 sp|P01718|LV327_HUMAN -            8.8e-15   54.8   0.1     1e-14   54.6   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01718|LV327_HUMAN -            3.2e-07   30.9   0.3   8.8e-07   29.4   0.3   1.6   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01601|KVD16_HUMAN -            6.9e-17   61.6   0.1     8e-17   61.4   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01601|KVD16_HUMAN -            1.2e-09   38.6   0.2   1.7e-09   38.1   0.2   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P01601|KVD16_HUMAN -            6.7e-07   29.3   0.0   8.6e-07   28.9   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|P01601|KVD16_HUMAN -            3.4e-06   27.1   0.1   5.3e-06   26.5   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P04211|LV743_HUMAN -            2.6e-14   53.3   0.0   3.4e-14   52.9   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P04211|LV743_HUMAN -            1.2e-06   29.0   0.1   2.3e-06   28.1   0.1   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+Sushi                PF00084.20 sp|Q9BXR6|FHR5_HUMAN -            5.5e-64  212.6  61.4   2.1e-10   41.1   1.1   9.1   9   0   0   9   9   7   9 Sushi repeat (SCR repeat)
+Band_7               PF01145.25 sp|P35232|PHB_HUMAN  -            5.1e-27   95.0   1.5     7e-27   94.6   1.5   1.2   1   0   0   1   1   1   1 SPFH domain / Band 7 family
+C1-set               PF07654.15 sp|A0M8Q6|IGLC7_HUMAN -            2.1e-30  105.0   0.2   2.4e-30  104.8   0.2   1.0   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+Ig_3                 PF13927.6  sp|A0M8Q6|IGLC7_HUMAN -              1e-06   29.2   0.6   1.3e-06   28.9   0.6   1.1   1   0   0   1   1   1   1 Immunoglobulin domain
+C2-set_2             PF08205.12 sp|A0M8Q6|IGLC7_HUMAN -            3.2e-06   27.1   0.3   4.1e-06   26.8   0.3   1.2   1   0   0   1   1   1   1 CD80-like C2-set immunoglobulin domain
+ig                   PF00047.25 sp|A0M8Q6|IGLC7_HUMAN -              9e-06   25.8   0.3   1.2e-05   25.4   0.3   1.2   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01772|HV333_HUMAN -            1.9e-14   53.7   0.0   2.4e-14   53.4   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P06331|HV434_HUMAN -            6.2e-13   48.9   0.1   8.1e-13   48.5   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01824|HV439_HUMAN -            7.1e-16   58.3   0.2   8.4e-16   58.1   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01825|HV459_HUMAN -            1.7e-16   60.3   0.2     2e-16   60.1   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P01825|HV459_HUMAN -            5.2e-07   30.2   1.0   1.4e-06   28.8   1.0   1.6   1   1   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|P01742|HV169_HUMAN -            1.4e-11   44.6   0.0   1.8e-11   44.2   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01814|HV270_HUMAN -            3.9e-14   52.7   0.1   4.5e-14   52.6   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01762|HV311_HUMAN -            7.6e-15   55.0   0.0   9.4e-15   54.7   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01763|HV348_HUMAN -            1.2e-14   54.4   0.0   1.5e-14   54.1   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P23083|HV102_HUMAN -              2e-11   44.0   0.2   2.5e-11   43.7   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01743|HV146_HUMAN -            5.8e-14   52.2   0.2   7.2e-14   51.9   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01817|HV205_HUMAN -            1.1e-15   57.7   0.1   1.2e-15   57.6   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|P01767|HV353_HUMAN -            4.1e-15   55.9   0.0   5.4e-15   55.5   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|Q9Y279|VSIG4_HUMAN -            2.4e-19   69.5   2.0   4.5e-12   46.1   0.2   3.3   2   1   1   3   3   2   3 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|Q9Y279|VSIG4_HUMAN -            6.3e-16   58.7   0.4   4.3e-10   40.0   0.1   2.6   2   0   0   2   2   2   2 Immunoglobulin domain
+Ig_2                 PF13895.6  sp|Q9Y279|VSIG4_HUMAN -            6.7e-14   52.0   0.2   1.6e-08   34.8   0.1   2.8   2   1   0   2   2   1   2 Immunoglobulin domain
+I-set                PF07679.16 sp|Q9Y279|VSIG4_HUMAN -            6.3e-13   48.6   0.0   2.9e-08   33.7   0.0   2.5   2   0   0   2   2   1   2 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|Q9Y279|VSIG4_HUMAN -            4.8e-11   42.7   0.5   9.1e-06   25.8   0.0   2.6   2   0   0   2   2   2   2 Immunoglobulin domain
+Sushi                PF00084.20 sp|P36980|FHR2_HUMAN -            1.3e-29  102.6  26.5   4.6e-12   46.3   1.6   4.1   4   0   0   4   4   4   4 Sushi repeat (SCR repeat)
+V-set                PF07686.17 sp|P04432|KVD39_HUMAN -              3e-18   66.0   0.2   3.5e-18   65.8   0.2   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|P04432|KVD39_HUMAN -            4.9e-09   36.7   0.2     8e-09   36.0   0.2   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.25 sp|P04432|KVD39_HUMAN -            4.9e-07   29.8   0.1   7.4e-07   29.3   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|P04432|KVD39_HUMAN -            1.8e-06   28.0   0.0   2.7e-06   27.3   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+Lipocalin            PF00061.23 sp|P07360|CO8G_HUMAN -            7.8e-18   65.1   0.0   9.2e-18   64.8   0.0   1.1   1   0   0   1   1   1   1 Lipocalin / cytosolic fatty-acid binding protein family
+V-set                PF07686.17 sp|A2NJV5|KV229_HUMAN -            9.8e-18   64.3   0.0   1.2e-17   64.0   0.0   1.0   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|A2NJV5|KV229_HUMAN -            6.4e-06   26.7   0.1   1.3e-05   25.7   0.1   1.5   1   1   0   1   1   1   1 Immunoglobulin domain
+Sushi                PF00084.20 sp|Q2VPA4|CR1L_HUMAN -            1.1e-68  227.6  39.2   1.8e-13   50.9   1.9   8.8   8   1   0   8   8   8   8 Sushi repeat (SCR repeat)
+Sushi                PF00084.20 sp|Q92496|FHR4_HUMAN -            4.3e-62  206.5  63.3   4.5e-09   36.8   4.0   9.1   7   2   2   9   9   8   9 Sushi repeat (SCR repeat)
+V-set                PF07686.17 sp|A0A075B6P5|KV228_HUMAN -            6.4e-16   58.5   0.0   8.1e-16   58.2   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|A0A0C4DH25|KVD20_HUMAN -            1.3e-15   57.5   0.0   1.5e-15   57.3   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|A0A0C4DH25|KVD20_HUMAN -            3.1e-07   30.9   0.0   4.8e-07   30.3   0.0   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+V-set                PF07686.17 sp|A0A075B6S6|KVD30_HUMAN -            1.6e-16   60.4   0.1     2e-16   60.1   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+V-set                PF07686.17 sp|A0A0C4DH73|KV112_HUMAN -            1.7e-17   63.5   0.0     2e-17   63.3   0.0   1.1   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ig_3                 PF13927.6  sp|A0A0C4DH73|KV112_HUMAN -            8.4e-10   39.1   0.1   1.3e-09   38.5   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin domain
+I-set                PF07679.16 sp|A0A0C4DH73|KV112_HUMAN -            5.7e-07   29.5   0.0   9.2e-07   28.9   0.0   1.3   1   1   0   1   1   1   1 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|A0A0C4DH73|KV112_HUMAN -            1.9e-06   27.9   0.0   3.6e-06   27.1   0.0   1.4   1   1   0   1   1   1   1 Immunoglobulin domain
+Sushi                PF00084.20 sp|Q5VX71|SUSD4_HUMAN -            1.5e-34  118.3  17.0   2.9e-10   40.6   0.1   4.3   4   0   0   4   4   4   4 Sushi repeat (SCR repeat)
+Serpin               PF00079.20 tr|H9KV48|H9KV48_HUMAN -            1.8e-64  218.4   6.5   2.3e-41  142.4   2.1   2.1   1   1   1   2   2   2   2 Serpin (serine protease inhibitor)
+Serpin               PF00079.20 tr|E9PGN7|E9PGN7_HUMAN -            2.3e-73  247.6   6.8     3e-73  247.3   6.8   1.1   1   0   0   1   1   1   1 Serpin (serine protease inhibitor)
+Serpin               PF00079.20 tr|H0YCA1|H0YCA1_HUMAN -            4.8e-06   26.1   0.8   5.6e-06   25.9   0.8   1.1   1   0   0   1   1   1   1 Serpin (serine protease inhibitor)
+Pkinase              PF00069.25 sp|P28482|MK01_HUMAN -            4.8e-69  232.6   0.0   5.7e-69  232.4   0.0   1.0   1   0   0   1   1   1   1 Protein kinase domain
+Pkinase_Tyr          PF07714.17 sp|P28482|MK01_HUMAN -            2.5e-35  122.0   0.0     4e-35  121.4   0.0   1.2   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|P27361|MK03_HUMAN -            7.2e-70  235.4   0.0   8.5e-70  235.1   0.0   1.1   1   0   0   1   1   1   1 Protein kinase domain
+Pkinase_Tyr          PF07714.17 sp|P27361|MK03_HUMAN -            2.6e-34  118.7   0.0   3.2e-34  118.4   0.0   1.2   1   0   0   1   1   1   1 Protein tyrosine kinase
+TSP_C                PF05735.12 sp|P07996|TSP1_HUMAN -            3.3e-97  324.2   0.8   4.6e-97  323.7   0.8   1.2   1   0   0   1   1   1   1 Thrombospondin C-terminal region
+TSP_3                PF02412.18 sp|P07996|TSP1_HUMAN -            2.3e-60  200.0 143.3   1.6e-12   46.9  12.3  10.1   7   2   2   9   9   7   9 Thrombospondin type 3 repeat
+TSP_1                PF00090.19 sp|P07996|TSP1_HUMAN -            8.4e-42  141.2  47.5   1.7e-17   63.3   9.7   5.1   6   0   0   6   6   3   3 Thrombospondin type 1 domain
+VWC                  PF00093.18 sp|P07996|TSP1_HUMAN -            2.6e-12   46.9  19.5   2.6e-12   46.9  19.5   6.7   4   3   1   5   5   1   1 von Willebrand factor type C domain
+EGF_3                PF12947.7  sp|P07996|TSP1_HUMAN -            2.3e-06   27.7  11.2   2.3e-06   27.7  11.2   5.4   4   0   0   4   4   1   1 EGF domain
+EGF_CA               PF07645.15 sp|P07996|TSP1_HUMAN -            9.7e-06   25.7   3.6   9.7e-06   25.7   3.6   5.7   5   0   0   5   5   1   3 Calcium-binding EGF domain
+Annexin              PF00191.20 sp|P04083|ANXA1_HUMAN -            7.5e-94  307.8  12.5   1.8e-25   88.8   0.3   4.1   4   0   0   4   4   4   4 Annexin
+HMG_box              PF00505.19 sp|P09429|HMGB1_HUMAN -            3.9e-42  142.5  13.1   2.9e-27   94.9   0.7   2.9   3   0   0   3   3   2   2 HMG (high mobility group) box
+HMG_box_2            PF09011.10 sp|P09429|HMGB1_HUMAN -            1.4e-41  140.9  21.1   3.4e-27   94.8   8.3   2.8   2   1   1   3   3   2   2 HMG-box domain
+Integrin_alpha2      PF08441.12 sp|P06756|ITAV_HUMAN -           6.3e-125  417.7   0.0  7.6e-125  417.4   0.0   1.1   1   0   0   1   1   1   1 Integrin alpha
+FG-GAP               PF01839.23 sp|P06756|ITAV_HUMAN -            1.3e-27   95.6  27.9   1.1e-07   31.8   3.0   5.0   5   0   0   5   5   4   4 FG-GAP repeat
+VCBS                 PF13517.6  sp|P06756|ITAV_HUMAN -            1.6e-14   54.2  14.1   4.5e-05   23.9   0.2   4.9   4   1   1   5   5   3   4 Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
+7tm_2                PF00002.24 sp|O14514|AGRB1_HUMAN -            3.7e-62  209.8  17.7     5e-62  209.4  17.7   1.1   1   0   0   1   1   1   1 7 transmembrane receptor (Secretin family)
+TSP_1                PF00090.19 sp|O14514|AGRB1_HUMAN -            4.7e-47  158.0  88.6   6.4e-13   48.7   7.1   6.0   6   0   0   6   6   5   5 Thrombospondin type 1 domain
+GAIN                 PF16489.5  sp|O14514|AGRB1_HUMAN -            9.7e-41  139.5   0.0   1.9e-40  138.6   0.0   1.5   1   0   0   1   1   1   1 GPCR-Autoproteolysis INducing (GAIN) domain
+GPS                  PF01825.21 sp|O14514|AGRB1_HUMAN -            2.3e-12   47.2   0.2   9.3e-12   45.3   0.2   2.2   1   0   0   1   1   1   1 GPCR proteolysis site, GPS, motif
+HRM                  PF02793.22 sp|O14514|AGRB1_HUMAN -            4.3e-08   33.3   0.1   4.3e-08   33.3   0.1   3.2   4   0   0   4   4   1   1 Hormone receptor domain
+Integrin_beta        PF00362.18 sp|P05106|ITB3_HUMAN -           3.6e-113  377.3   0.1    5e-113  376.8   0.1   1.2   1   0   0   1   1   1   1 Integrin beta chain VWA domain
+Integrin_b_cyt       PF08725.11 sp|P05106|ITB3_HUMAN -            1.1e-22   79.4   1.3   2.9e-22   78.0   1.3   1.8   1   0   0   1   1   1   1 Integrin beta cytoplasmic domain
+Integrin_B_tail      PF07965.12 sp|P05106|ITB3_HUMAN -            1.8e-21   76.4  11.2   1.8e-21   76.4  11.2   4.5   3   1   1   4   4   1   1 Integrin beta tail domain
+PSI_integrin         PF17205.3  sp|P05106|ITB3_HUMAN -            3.6e-13   49.0   7.5   3.6e-13   49.0   7.5   5.0   5   1   0   5   5   1   1 Integrin plexin domain
+I-EGF_1              PF18372.1  sp|P05106|ITB3_HUMAN -            9.3e-13   48.0  11.4   9.3e-13   48.0  11.4   5.8   6   0   0   6   6   1   4 Integrin beta epidermal growth factor like domain 1
+EGF_2                PF07974.13 sp|P05106|ITB3_HUMAN -            4.5e-09   36.5  99.9   2.9e-05   24.3  15.0   6.1   6   2   0   6   6   3   4 EGF-like domain
+V-set_CD47           PF08204.11 sp|Q08722|CD47_HUMAN -            7.7e-54  181.2   1.0   1.1e-53  180.6   1.0   1.3   1   0   0   1   1   1   1 CD47 immunoglobulin-like domain
+CD47                 PF04549.14 sp|Q08722|CD47_HUMAN -            6.9e-53  178.8  25.3   9.4e-53  178.4  25.3   1.2   1   0   0   1   1   1   1 CD47 transmembrane region
+Integrin_beta        PF00362.18 sp|P05107|ITB2_HUMAN -             1e-116  388.9   0.0  1.5e-116  388.3   0.0   1.2   1   0   0   1   1   1   1 Integrin beta chain VWA domain
+Integrin_B_tail      PF07965.12 sp|P05107|ITB2_HUMAN -            1.6e-16   60.5   2.5   1.6e-16   60.5   2.5   3.8   4   1   0   4   4   1   1 Integrin beta tail domain
+Integrin_b_cyt       PF08725.11 sp|P05107|ITB2_HUMAN -            1.7e-16   59.6   0.5   2.9e-16   58.8   0.5   1.4   1   0   0   1   1   1   1 Integrin beta cytoplasmic domain
+PSI_integrin         PF17205.3  sp|P05107|ITB2_HUMAN -            2.8e-14   52.6   6.7   2.8e-14   52.6   6.7   4.4   4   0   0   4   4   1   2 Integrin plexin domain
+Trypsin              PF00089.26 sp|P08246|ELNE_HUMAN -            3.2e-57  193.9   0.1   3.7e-57  193.7   0.1   1.0   1   0   0   1   1   1   1 Trypsin
+Nramp                PF01566.18 sp|P49279|NRAM1_HUMAN -           7.8e-117  390.2  14.0  1.3e-116  389.5  14.0   1.4   1   0   0   1   1   1   1 Natural resistance-associated macrophage protein
+EMP70                PF02990.16 sp|Q92544|TM9S4_HUMAN -           1.8e-207  690.1  13.7  2.5e-207  689.6  13.7   1.2   1   0   0   1   1   1   1 Endomembrane protein 70
+Pkinase_Tyr          PF07714.17 sp|P30530|UFO_HUMAN  -            3.3e-90  301.9   0.0   4.3e-90  301.5   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|P30530|UFO_HUMAN  -              2e-37  129.0   0.0   2.7e-37  128.6   0.0   1.1   1   0   0   1   1   1   1 Protein kinase domain
+fn3                  PF00041.21 sp|P30530|UFO_HUMAN  -            1.3e-18   67.1   0.1   1.6e-08   34.8   0.0   2.9   3   0   0   3   3   2   2 Fibronectin type III domain
+Ig_3                 PF13927.6  sp|P30530|UFO_HUMAN  -            2.6e-15   56.8   0.4   2.3e-07   31.3   0.0   3.0   3   0   0   3   3   2   2 Immunoglobulin domain
+Ig_2                 PF13895.6  sp|P30530|UFO_HUMAN  -            6.4e-13   48.8   0.0   5.3e-06   26.7   0.0   2.6   2   0   0   2   2   2   2 Immunoglobulin domain
+I-set                PF07679.16 sp|P30530|UFO_HUMAN  -            2.5e-09   37.1   0.0   1.9e-05   24.6   0.0   2.7   2   1   0   2   2   1   2 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|P30530|UFO_HUMAN  -            1.9e-07   31.1   0.3   0.00016   21.8   0.0   2.9   2   1   0   2   2   1   2 Immunoglobulin domain
+V-set                PF07686.17 sp|P30530|UFO_HUMAN  -              6e-07   29.6   0.0   6.7e-06   26.2   0.0   2.4   2   0   0   2   2   1   1 Immunoglobulin V-set domain
+Collagen             PF01391.18 sp|Q5KU26|COL12_HUMAN -            8.8e-24   83.0 100.5   1.4e-09   37.5  30.2   3.3   1   1   2   3   3   3   3 Collagen triple helix repeat (20 copies)
+Lectin_C             PF00059.21 sp|Q5KU26|COL12_HUMAN -              1e-21   77.7   3.0     1e-21   77.7   3.0   2.1   2   0   0   2   2   1   1 Lectin C-type domain
+Filament             PF00038.21 sp|Q5KU26|COL12_HUMAN -            2.2e-06   27.5  31.7   4.3e-06   26.5  26.4   2.1   1   1   1   2   2   1   2 Intermediate filament protein
+Integrin_beta        PF00362.18 sp|P05556|ITB1_HUMAN -           1.1e-115  385.6   0.0  1.5e-115  385.1   0.0   1.2   1   0   0   1   1   1   1 Integrin beta chain VWA domain
+Integrin_b_cyt       PF08725.11 sp|P05556|ITB1_HUMAN -            4.4e-23   80.7   0.4   7.8e-23   79.9   0.4   1.4   1   0   0   1   1   1   1 Integrin beta cytoplasmic domain
+Integrin_B_tail      PF07965.12 sp|P05556|ITB1_HUMAN -            2.5e-21   76.0  10.2   2.5e-21   76.0  10.2   5.0   5   1   0   5   5   1   1 Integrin beta tail domain
+PSI_integrin         PF17205.3  sp|P05556|ITB1_HUMAN -            7.8e-13   47.9   8.0   7.8e-13   47.9   8.0   4.7   4   1   0   4   4   1   1 Integrin plexin domain
+I-EGF_1              PF18372.1  sp|P05556|ITB1_HUMAN -            1.9e-12   47.0  30.0   6.5e-12   45.3  10.6   6.7   7   0   0   7   7   2   4 Integrin beta epidermal growth factor like domain 1
+EGF_2                PF07974.13 sp|P05556|ITB1_HUMAN -            8.1e-08   32.5  61.4   1.9e-05   24.9  16.5   7.2   7   1   0   7   7   3   3 EGF-like domain
+7tm_1                PF00001.21 sp|Q15077|P2RY6_HUMAN -            1.1e-45  156.0   8.3   1.4e-45  155.7   8.3   1.0   1   0   0   1   1   1   1 7 transmembrane receptor (rhodopsin family)
+Lectin_C             PF00059.21 sp|Q8IWL2|SFTA1_HUMAN -            9.2e-24   84.3   0.0   1.2e-23   83.9   0.0   1.1   1   0   0   1   1   1   1 Lectin C-type domain
+Collagen             PF01391.18 sp|Q8IWL2|SFTA1_HUMAN -            4.5e-11   42.3  33.0   4.5e-06   26.3  14.5   2.4   1   1   1   2   2   2   2 Collagen triple helix repeat (20 copies)
+F5_F8_type_C         PF00754.25 sp|Q08431|MFGM_HUMAN -            4.8e-63  210.9   3.7   1.1e-34  119.3   1.6   2.1   2   0   0   2   2   2   2 F5/8 type C domain
+EGF                  PF00008.27 sp|Q08431|MFGM_HUMAN -            4.9e-08   33.1   6.3   1.2e-07   31.8   6.3   1.7   1   0   0   1   1   1   1 EGF-like domain
+7tm_1                PF00001.21 sp|P29274|AA2AR_HUMAN -            6.3e-59  199.4  13.1   7.5e-59  199.2  13.1   1.1   1   0   0   1   1   1   1 7 transmembrane receptor (rhodopsin family)
+7TM_GPCR_Srsx        PF10320.9  sp|P29274|AA2AR_HUMAN -            1.4e-13   50.8  13.4   1.2e-12   47.8  13.4   2.0   1   1   0   1   1   1   1 Serpentine type 7TM GPCR chemoreceptor Srsx
+7tm_4                PF13853.6  sp|P29274|AA2AR_HUMAN -            1.8e-09   37.8  12.4   5.5e-09   36.2  12.4   1.7   1   1   0   1   1   1   1 Olfactory receptor
+7TM_GPCR_Srx         PF10328.9  sp|P29274|AA2AR_HUMAN -            6.6e-06   25.9  15.6   6.6e-06   25.9  15.6   2.3   2   1   0   2   2   1   1 Serpentine type 7TM GPCR chemoreceptor Srx
+ABC2_membrane_3      PF12698.7  sp|Q8IZY2|ABCA7_HUMAN -            1.3e-61  208.7  21.5   4.3e-44  151.1   5.2   3.0   3   0   0   3   3   2   2 ABC-2 family transporter protein
+ABC_tran             PF00005.27 sp|Q8IZY2|ABCA7_HUMAN -            7.4e-46  156.1   0.0     7e-25   88.1   0.0   2.4   2   0   0   2   2   2   2 ABC transporter
+AAA_21               PF13304.6  sp|Q8IZY2|ABCA7_HUMAN -            4.5e-22   79.2   0.6   5.2e-07   29.8   0.0   4.3   4   0   0   4   4   2   3 AAA domain, putative AbiEii toxin, Type IV TA system
+7tm_1                PF00001.21 sp|P30542|AA1R_HUMAN -            4.9e-51  173.6  15.6   5.7e-51  173.4  15.6   1.0   1   0   0   1   1   1   1 7 transmembrane receptor (rhodopsin family)
+7TM_GPCR_Srsx        PF10320.9  sp|P30542|AA1R_HUMAN -            1.1e-12   47.9  14.3   7.7e-12   45.1  14.3   1.9   1   1   0   1   1   1   1 Serpentine type 7TM GPCR chemoreceptor Srsx
+7tm_4                PF13853.6  sp|P30542|AA1R_HUMAN -            2.8e-09   37.1  11.2   2.1e-08   34.3  11.2   2.1   1   1   0   1   1   1   1 Olfactory receptor
+7TM_GPCR_Srx         PF10328.9  sp|P30542|AA1R_HUMAN -            7.5e-06   25.8   9.5   7.5e-06   25.8   9.5   2.4   1   1   1   2   2   1   1 Serpentine type 7TM GPCR chemoreceptor Srx
+Fibrinogen_C         PF00147.18 sp|O00602|FCN1_HUMAN -            1.7e-75  253.6   4.7     2e-75  253.4   4.7   1.1   1   0   0   1   1   1   1 Fibrinogen beta and gamma chains, C-terminal globular domain
+Collagen             PF01391.18 sp|O00602|FCN1_HUMAN -            1.3e-10   40.8  23.0   2.5e-10   40.0  23.0   1.4   1   0   0   1   1   1   1 Collagen triple helix repeat (20 copies)
+Integrin_alpha2      PF08441.12 sp|P11215|ITAM_HUMAN -              1e-42  146.6   3.4   1.5e-42  146.0   3.4   1.2   1   0   0   1   1   1   1 Integrin alpha
+VWA                  PF00092.28 sp|P11215|ITAM_HUMAN -            6.2e-39  134.0   0.1     1e-38  133.4   0.1   1.3   1   0   0   1   1   1   1 von Willebrand factor type A domain
+FG-GAP               PF01839.23 sp|P11215|ITAM_HUMAN -            4.8e-20   71.3   2.4     1e-07   31.9   1.6   3.9   3   0   0   3   3   2   3 FG-GAP repeat
+VWA_2                PF13519.6  sp|P11215|ITAM_HUMAN -            6.4e-13   49.3   0.0   1.6e-12   48.0   0.0   1.7   1   0   0   1   1   1   1 von Willebrand factor type A domain
+Integrin_alpha       PF00357.20 sp|P11215|ITAM_HUMAN -            8.5e-06   25.4   0.6   1.7e-05   24.4   0.6   1.5   1   0   0   1   1   1   1 Integrin alpha cytoplasmic region
+P2X_receptor         PF00864.19 sp|Q99572|P2RX7_HUMAN -           3.6e-159  529.8   8.5  4.3e-159  529.5   8.5   1.1   1   0   0   1   1   1   1 ATP P2X receptor
+HSP90                PF00183.18 sp|P08238|HS90B_HUMAN -             7e-236  784.1  28.0    9e-236  783.7  28.0   1.1   1   0   0   1   1   1   1 Hsp90 protein
+HATPase_c            PF02518.26 sp|P08238|HS90B_HUMAN -            8.3e-14   52.0   0.0   1.7e-13   51.0   0.0   1.6   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c_3          PF13589.6  sp|P08238|HS90B_HUMAN -            2.2e-10   40.5   0.1     7e-10   38.9   0.1   1.9   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Ldl_recept_a         PF00057.18 sp|Q07954|LRP1_HUMAN -           7.2e-294  947.7 601.7   1.7e-12   47.3   7.5  34.3  34   0   0  34  34  31  31 Low-density lipoprotein receptor domain class A
+Ldl_recept_b         PF00058.17 sp|Q07954|LRP1_HUMAN -           1.3e-212  688.1  83.1     5e-14   52.5   0.1  36.5  37   0   0  37  37  22  30 Low-density lipoprotein receptor repeat class B
+FXa_inhibition       PF14670.6  sp|Q07954|LRP1_HUMAN -            4.8e-57  189.9 401.1   1.8e-10   40.9  10.7  27.8  24   1   3  27  27  12  15 Coagulation Factor Xa inhibitory site
+DUF5050              PF16472.5  sp|Q07954|LRP1_HUMAN -            1.1e-31  110.1   0.0   1.9e-10   40.4   0.0   8.0   8   0   0   8   8   3   7 Domain of unknown function (DUF5050)
+SGL                  PF08450.12 sp|Q07954|LRP1_HUMAN -            3.3e-25   89.1  36.0    0.0023   17.5   0.0  16.2  10   7   3  14  14   2   8 SMP-30/Gluconolactonase/LRE-like region
+cEGF                 PF12662.7  sp|Q07954|LRP1_HUMAN -            1.1e-13   50.9 127.2   8.8e-09   35.1   1.2  17.1  15   0   0  15  15   3   8 Complement Clr-like EGF-like
+EGF_CA               PF07645.15 sp|Q07954|LRP1_HUMAN -            1.6e-09   37.8  21.8   2.1e-07   31.0   6.2  34.5  28  12  12  41  41   4   4 Calcium-binding EGF domain
+Ig_2                 PF13895.6  sp|P16284|PECA1_HUMAN -            1.6e-46  156.5  11.9   6.7e-18   64.8   0.1   6.3   6   0   0   6   6   5   6 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P16284|PECA1_HUMAN -            9.9e-33  112.6   7.2     7e-07   29.8   0.1   6.7   6   0   0   6   6   3   6 Immunoglobulin domain
+ig                   PF00047.25 sp|P16284|PECA1_HUMAN -            1.3e-21   76.5  10.8   0.00025   21.1   0.1   7.4   6   1   0   6   6   2   5 Immunoglobulin domain
+Ig_C17orf99          PF17736.1  sp|P16284|PECA1_HUMAN -            1.8e-20   72.7   4.6   5.9e-08   32.6   0.1   5.6   5   1   0   5   5   2   3 C17orf99 Ig domain
+I-set                PF07679.16 sp|P16284|PECA1_HUMAN -            1.5e-12   47.4  16.6    0.0011   18.9   0.1   7.2   6   3   2   8   8   2   4 Immunoglobulin I-set domain
+Izumo-Ig             PF16706.5  sp|P16284|PECA1_HUMAN -            1.3e-09   38.0   3.6    0.0012   18.8   0.0   4.6   4   0   0   4   4   1   2 Izumo-like Immunoglobulin domain
+V-set                PF07686.17 sp|P16284|PECA1_HUMAN -            1.4e-08   34.8  12.0      0.17   12.1   0.7   7.8   6   3   1   7   7   0   3 Immunoglobulin V-set domain
+Trypsin              PF00089.26 sp|P24158|PRTN3_HUMAN -            4.1e-61  206.6   0.0   4.9e-61  206.3   0.0   1.1   1   0   0   1   1   1   1 Trypsin
+DUF1986              PF09342.11 sp|P24158|PRTN3_HUMAN -            6.1e-07   29.8   0.0   1.2e-06   28.9   0.0   1.4   1   0   0   1   1   1   1 Domain of unknown function (DUF1986)
+Trypsin_2            PF13365.6  sp|P24158|PRTN3_HUMAN -            9.8e-06   26.5   0.1   1.4e-05   26.0   0.1   1.2   1   0   0   1   1   1   1 Trypsin-like peptidase domain
+Pentaxin             PF00354.17 sp|P26022|PTX3_HUMAN -            1.1e-29  103.5   0.0   1.5e-29  103.0   0.0   1.1   1   0   0   1   1   1   1 Pentaxin family
+Laminin_G_3          PF13385.6  sp|P26022|PTX3_HUMAN -            9.7e-20   71.3   0.0   1.4e-19   70.7   0.0   1.2   1   0   0   1   1   1   1 Concanavalin A-like lectin/glucanases superfamily
+Spond_N              PF06468.13 sp|Q9BUD6|SPON2_HUMAN -            1.2e-77  260.5   0.1   1.4e-77  260.2   0.1   1.1   1   0   0   1   1   1   1 Spondin_N
+Lectin_C             PF00059.21 sp|P11226|MBL2_HUMAN -            2.7e-19   69.9   0.1   2.7e-19   69.9   0.1   1.4   2   0   0   2   2   1   1 Lectin C-type domain
+Collagen             PF01391.18 sp|P11226|MBL2_HUMAN -            1.5e-08   34.3  30.4   6.2e-08   32.3  30.4   2.0   1   1   0   1   1   1   1 Collagen triple helix repeat (20 copies)
+Integrin_alpha2      PF08441.12 sp|P20701|ITAL_HUMAN -            7.5e-38  130.6   0.0   1.1e-37  130.1   0.0   1.2   1   0   0   1   1   1   1 Integrin alpha
+VWA                  PF00092.28 sp|P20701|ITAL_HUMAN -            2.1e-31  109.5   1.0     3e-31  109.0   1.0   1.2   1   0   0   1   1   1   1 von Willebrand factor type A domain
+FG-GAP               PF01839.23 sp|P20701|ITAL_HUMAN -            7.5e-19   67.5   7.8   4.7e-08   33.0   0.4   4.1   4   0   0   4   4   3   3 FG-GAP repeat
+VWA_2                PF13519.6  sp|P20701|ITAL_HUMAN -            2.4e-10   41.0   0.2   1.2e-09   38.8   0.0   2.1   2   0   0   2   2   1   1 von Willebrand factor type A domain
+VCBS                 PF13517.6  sp|P20701|ITAL_HUMAN -              6e-09   36.4   0.1   1.1e-05   25.9   0.1   3.0   2   0   0   2   2   1   2 Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
+Pkinase_Tyr          PF07714.17 sp|P08581|MET_HUMAN  -            2.9e-93  311.9   0.0   4.5e-93  311.3   0.0   1.3   1   0   0   1   1   1   1 Protein tyrosine kinase
+Sema                 PF01403.19 sp|P08581|MET_HUMAN  -            8.1e-50  169.9   2.3   1.3e-49  169.2   2.3   1.3   1   0   0   1   1   1   1 Sema domain
+TIG                  PF01833.24 sp|P08581|MET_HUMAN  -              2e-41  139.9  12.9   6.3e-14   51.8   0.9   4.9   4   0   0   4   4   3   4 IPT/TIG domain
+Pkinase              PF00069.25 sp|P08581|MET_HUMAN  -            9.2e-40  136.7   0.0   1.8e-39  135.7   0.0   1.4   1   0   0   1   1   1   1 Protein kinase domain
+Laminin_G_2          PF02210.24 sp|Q14393|GAS6_HUMAN -            5.4e-28   98.1   0.0   1.9e-14   54.3   0.0   2.4   2   0   0   2   2   2   2 Laminin G domain
+Laminin_G_1          PF00054.23 sp|Q14393|GAS6_HUMAN -            2.1e-26   92.6   0.0   4.7e-19   68.9   0.0   2.3   2   0   0   2   2   2   2 Laminin G domain
+EGF_CA               PF07645.15 sp|Q14393|GAS6_HUMAN -            3.5e-20   71.9  56.3   2.5e-07   30.8   7.6   5.6   5   0   0   5   5   3   4 Calcium-binding EGF domain
+Gla                  PF00594.20 sp|Q14393|GAS6_HUMAN -            1.5e-17   63.5   6.7   2.9e-17   62.6   6.7   1.5   1   0   0   1   1   1   1 Vitamin K-dependent carboxylation/gamma-carboxyglutamic (GLA) domain
+cEGF                 PF12662.7  sp|Q14393|GAS6_HUMAN -            2.8e-17   62.3  28.6   1.1e-11   44.4   3.6   5.1   4   1   0   4   4   2   2 Complement Clr-like EGF-like
+FXa_inhibition       PF14670.6  sp|Q14393|GAS6_HUMAN -            6.2e-16   58.4  58.2   1.2e-11   44.7  10.4   4.6   4   0   0   4   4   2   3 Coagulation Factor Xa inhibitory site
+EGF                  PF00008.27 sp|Q14393|GAS6_HUMAN -              4e-07   30.2  49.8    0.0032   17.7   3.4   5.0   5   0   0   5   5   1   4 EGF-like domain
+hEGF                 PF12661.7  sp|Q14393|GAS6_HUMAN -            5.2e-07   30.1  36.0     0.026   15.2   2.6   6.1   5   1   0   5   5   0   4 Human growth factor-like EGF
+Pkinase_Tyr          PF07714.17 sp|Q12866|MERTK_HUMAN -            6.7e-91  304.2   0.0   9.4e-91  303.7   0.0   1.2   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|Q12866|MERTK_HUMAN -            1.5e-36  126.1   0.0   2.2e-36  125.6   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+Ig_3                 PF13927.6  sp|Q12866|MERTK_HUMAN -            1.3e-15   57.8   2.4   6.8e-07   29.8   0.3   3.1   3   0   0   3   3   2   2 Immunoglobulin domain
+Ig_2                 PF13895.6  sp|Q12866|MERTK_HUMAN -            2.6e-13   50.1   0.4   2.5e-06   27.7   0.1   2.6   2   0   0   2   2   2   2 Immunoglobulin domain
+fn3                  PF00041.21 sp|Q12866|MERTK_HUMAN -            8.4e-13   48.5   0.1   1.2e-06   28.7   0.0   3.2   3   0   0   3   3   2   2 Fibronectin type III domain
+ig                   PF00047.25 sp|Q12866|MERTK_HUMAN -            3.8e-12   46.2   0.7   1.1e-07   31.9   0.1   2.6   2   0   0   2   2   1   2 Immunoglobulin domain
+I-set                PF07679.16 sp|Q12866|MERTK_HUMAN -            4.3e-12   45.9   0.5   2.2e-05   24.4   0.0   3.3   3   0   0   3   3   2   2 Immunoglobulin I-set domain
+Pkinase_Tyr          PF07714.17 sp|Q06418|TYRO3_HUMAN -            1.3e-89  299.9   0.0   1.7e-89  299.6   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|Q06418|TYRO3_HUMAN -            7.1e-37  127.2   0.0   9.8e-37  126.7   0.0   1.1   1   0   0   1   1   1   1 Protein kinase domain
+Ig_3                 PF13927.6  sp|Q06418|TYRO3_HUMAN -            5.2e-20   71.8   0.1     6e-11   42.8   0.0   2.8   2   0   0   2   2   2   2 Immunoglobulin domain
+Ig_2                 PF13895.6  sp|Q06418|TYRO3_HUMAN -              6e-18   65.0   0.0   5.2e-11   42.7   0.0   2.5   2   0   0   2   2   2   2 Immunoglobulin domain
+fn3                  PF00041.21 sp|Q06418|TYRO3_HUMAN -            1.3e-16   60.7   0.0   1.2e-07   31.9   0.0   2.6   2   0   0   2   2   2   2 Fibronectin type III domain
+I-set                PF07679.16 sp|Q06418|TYRO3_HUMAN -            2.7e-16   59.4   0.7   3.4e-13   49.5   0.0   2.8   2   1   0   2   2   1   2 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|Q06418|TYRO3_HUMAN -            8.4e-13   48.3   0.2     1e-07   32.0   0.0   2.8   2   1   0   2   2   1   2 Immunoglobulin domain
+V-set                PF07686.17 sp|Q06418|TYRO3_HUMAN -            7.8e-07   29.2   0.1   0.00058   20.0   0.0   3.2   2   1   0   2   2   1   1 Immunoglobulin V-set domain
+LRR_4                PF12799.7  sp|P08571|CD14_HUMAN -            1.7e-08   34.6   2.9    0.0061   17.0   0.0   4.3   4   1   0   4   4   1   3 Leucine Rich repeats (2 copies)
+LRR_8                PF13855.6  sp|P08571|CD14_HUMAN -            1.8e-08   34.0   0.3   0.00091   18.9   0.0   4.0   4   0   0   4   4   1   3 Leucine rich repeat
+ABC2_membrane_3      PF12698.7  sp|O95477|ABCA1_HUMAN -            4.6e-62  210.1  42.8   5.5e-50  170.4  13.8   3.8   3   1   0   3   3   2   2 ABC-2 family transporter protein
+ABC_tran             PF00005.27 sp|O95477|ABCA1_HUMAN -              2e-52  177.4   0.0   9.5e-29  100.7   0.0   3.1   3   0   0   3   3   2   2 ABC transporter
+AAA_21               PF13304.6  sp|O95477|ABCA1_HUMAN -            8.7e-20   71.7   0.0   1.2e-06   28.6   0.0   4.6   4   0   0   4   4   2   4 AAA domain, putative AbiEii toxin, Type IV TA system
+Actin                PF00022.19 sp|P63261|ACTG_HUMAN -           4.9e-152  506.3   0.0  1.6e-151  504.6   0.0   1.6   1   1   0   1   1   1   1 Actin
+Actin                PF00022.19 sp|P60709|ACTB_HUMAN -           1.3e-151  504.9   0.0  4.2e-151  503.2   0.0   1.6   1   1   0   1   1   1   1 Actin
+LBP_BPI_CETP_C       PF02886.17 sp|P18428|LBP_HUMAN  -            1.5e-99  332.3   0.8   1.5e-99  332.3   0.8   1.6   2   0   0   2   2   1   1 LBP / BPI / CETP family, C-terminal domain
+LBP_BPI_CETP         PF01273.25 sp|P18428|LBP_HUMAN  -              4e-49  166.4   0.1   1.5e-48  164.5   0.1   1.8   2   0   0   2   2   1   1 LBP / BPI / CETP family, N-terminal domain
+ICAM_N               PF03921.14 sp|P32942|ICAM3_HUMAN -            3.8e-39  132.2   0.2   6.1e-38  128.4   0.1   2.8   4   0   0   4   4   1   1 Intercellular adhesion molecule (ICAM), N-terminal domain
+Ig_2                 PF13895.6  sp|P32942|ICAM3_HUMAN -            3.5e-14   52.9   0.4    0.0014   18.9   0.0   4.5   4   0   0   4   4   2   3 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P32942|ICAM3_HUMAN -              3e-09   37.3   3.9     0.014   16.0   0.2   4.6   4   1   0   4   4   1   3 Immunoglobulin domain
+C2-set_2             PF08205.12 sp|P32942|ICAM3_HUMAN -            2.1e-07   30.9   2.5     0.077   13.1   0.2   5.0   4   1   0   4   4   0   2 CD80-like C2-set immunoglobulin domain
+C1-set               PF07654.15 sp|P01876|IGHA1_HUMAN -            3.3e-46  155.6   0.0   2.2e-20   72.8   0.0   3.2   3   0   0   3   3   3   3 Immunoglobulin C1-set domain
+ig                   PF00047.25 sp|P01876|IGHA1_HUMAN -            6.3e-19   68.0   3.8   5.7e-06   26.4   0.0   4.2   3   2   1   4   4   3   3 Immunoglobulin domain
+C2-set_2             PF08205.12 sp|P01876|IGHA1_HUMAN -            5.7e-18   64.8   4.4   1.4e-07   31.4   0.3   3.4   3   0   0   3   3   2   3 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01876|IGHA1_HUMAN -            1.4e-10   41.6   7.8    0.0018   18.9   0.0   4.7   3   2   2   5   5   1   3 Immunoglobulin domain
+CD36                 PF01130.21 sp|Q8WTV0|SCRB1_HUMAN -           3.3e-154  513.9   2.3  3.8e-154  513.7   2.3   1.0   1   0   0   1   1   1   1 CD36 family
+C1-set               PF07654.15 sp|P01877|IGHA2_HUMAN -            7.6e-47  157.6   0.0   1.8e-20   73.1   0.0   3.2   3   0   0   3   3   3   3 Immunoglobulin C1-set domain
+ig                   PF00047.25 sp|P01877|IGHA2_HUMAN -            8.6e-20   70.7   3.0   2.8e-06   27.4   0.0   4.0   3   1   0   3   3   3   3 Immunoglobulin domain
+C2-set_2             PF08205.12 sp|P01877|IGHA2_HUMAN -            1.7e-18   66.5   6.9     2e-08   34.2   0.3   3.3   3   1   0   3   3   2   3 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01877|IGHA2_HUMAN -            7.4e-12   45.7   8.8    0.0012   19.4   0.0   4.4   3   2   1   4   4   2   3 Immunoglobulin domain
+Ig_2                 PF13895.6  sp|P01877|IGHA2_HUMAN -            2.2e-07   31.1   2.7      0.27   11.6   0.0   3.4   3   0   0   3   3   0   3 Immunoglobulin domain
+Ldl_recept_a         PF00057.18 sp|P01130|LDLR_HUMAN -            5.9e-88  288.8 146.5     2e-14   53.5  11.8   8.8   8   1   1   9   9   7   7 Low-density lipoprotein receptor domain class A
+Ldl_recept_b         PF00058.17 sp|P01130|LDLR_HUMAN -            1.2e-67  224.1  11.0   4.7e-14   52.6   0.1   5.7   6   0   0   6   6   5   5 Low-density lipoprotein receptor repeat class B
+FXa_inhibition       PF14670.6  sp|P01130|LDLR_HUMAN -            2.9e-19   69.0  28.8   1.1e-09   38.4   1.9   6.4   6   3   2   8   8   3   3 Coagulation Factor Xa inhibitory site
+cEGF                 PF12662.7  sp|P01130|LDLR_HUMAN -            1.5e-13   50.4  14.4   2.8e-06   27.1   0.7   5.6   4   0   0   4   4   2   3 Complement Clr-like EGF-like
+EGF_CA               PF07645.15 sp|P01130|LDLR_HUMAN -            6.2e-08   32.7   7.6   6.2e-08   32.7   7.6  10.5   7   2   1   8   8   1   2 Calcium-binding EGF domain
+SGL                  PF08450.12 sp|P01130|LDLR_HUMAN -            1.1e-06   28.5   1.5     0.066   12.8   0.2   3.0   1   1   1   3   3   0   2 SMP-30/Gluconolactonase/LRE-like region
+ObR_Ig               PF18589.1  sp|P48357|LEPR_HUMAN -              1e-51  173.7   9.8   1.9e-33  115.0   0.8   3.0   2   0   0   2   2   2   2 Obesity receptor immunoglobulin like domain
+Lep_receptor_Ig      PF06328.11 sp|P48357|LEPR_HUMAN -              1e-24   86.3   3.6   2.1e-24   85.3   1.0   3.1   2   0   0   2   2   1   1 Ig-like C2-type domain
+fn3                  PF00041.21 sp|P48357|LEPR_HUMAN -            1.2e-08   35.2   5.1   0.00036   20.8   0.0   4.5   5   0   0   5   5   1   2 Fibronectin type III domain
+Pkinase_Tyr          PF07714.17 sp|P09769|FGR_HUMAN  -            4.7e-89  298.1   0.0     6e-89  297.8   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|P09769|FGR_HUMAN  -            2.2e-41  142.0   0.0   3.1e-41  141.5   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+SH2                  PF00017.24 sp|P09769|FGR_HUMAN  -            2.6e-28   97.9   0.1   5.5e-28   96.9   0.1   1.6   1   0   0   1   1   1   1 SH2 domain
+SH3_1                PF00018.28 sp|P09769|FGR_HUMAN  -            2.4e-19   68.6   0.1   9.7e-19   66.7   0.0   2.0   2   0   0   2   2   1   1 SH3 domain
+SH3_9                PF14604.6  sp|P09769|FGR_HUMAN  -            3.5e-12   46.0   0.0   8.8e-12   44.7   0.0   1.8   1   0   0   1   1   1   1 Variant SH3 domain
+SH3_2                PF07653.17 sp|P09769|FGR_HUMAN  -            2.5e-10   39.9   0.0   7.2e-10   38.4   0.0   1.9   2   0   0   2   2   1   1 Variant SH3 domain
+Gelsolin             PF00626.22 sp|P06396|GELS_HUMAN -           2.4e-109  357.4   0.0   6.5e-20   70.8   0.0   6.2   6   0   0   6   6   6   6 Gelsolin repeat
+LRR_8                PF13855.6  sp|O00206|TLR4_HUMAN -            1.3e-49  165.8  98.6     3e-11   42.9   0.3  10.7   4   2  11  15  15  10  13 Leucine rich repeat
+TIR                  PF01582.20 sp|O00206|TLR4_HUMAN -            2.5e-36  125.1   0.1   4.3e-36  124.4   0.1   1.3   1   0   0   1   1   1   1 TIR domain
+LRR_4                PF12799.7  sp|O00206|TLR4_HUMAN -              2e-28   97.9  56.2   2.7e-07   30.8   1.8  11.5   8   2   5  13  13   6  10 Leucine Rich repeats (2 copies)
+TIR_2                PF13676.6  sp|O00206|TLR4_HUMAN -            4.5e-12   46.6   0.2   1.2e-11   45.2   0.2   1.7   1   0   0   1   1   1   1 TIR domain
+LRR_9                PF14580.6  sp|O00206|TLR4_HUMAN -            4.4e-11   42.6  14.3   9.2e-05   22.0   0.0   4.6   3   2   2   5   5   1   4 Leucine-rich repeat
+LRR_1                PF00560.33 sp|O00206|TLR4_HUMAN -            7.1e-07   28.9  54.6      0.17   12.5   0.4  15.2  13   5   1  14  14   0   4 Leucine Rich Repeat
+Pkinase_Tyr          PF07714.17 sp|P12931|SRC_HUMAN  -              1e-92  310.1   0.0   1.4e-92  309.7   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|P12931|SRC_HUMAN  -            4.6e-46  157.3   0.0   7.1e-46  156.7   0.0   1.3   1   0   0   1   1   1   1 Protein kinase domain
+SH2                  PF00017.24 sp|P12931|SRC_HUMAN  -            8.8e-28   96.2   0.2   1.8e-27   95.3   0.2   1.5   1   0   0   1   1   1   1 SH2 domain
+SH3_1                PF00018.28 sp|P12931|SRC_HUMAN  -            1.3e-17   63.2   0.1     1e-16   60.2   0.0   2.3   2   0   0   2   2   1   1 SH3 domain
+SH3_9                PF14604.6  sp|P12931|SRC_HUMAN  -            2.8e-13   49.5   0.4   8.9e-13   47.9   0.0   2.1   3   0   0   3   3   1   1 Variant SH3 domain
+SH3_2                PF07653.17 sp|P12931|SRC_HUMAN  -            3.5e-09   36.2   0.0   1.1e-08   34.6   0.0   1.9   1   0   0   1   1   1   1 Variant SH3 domain
+Transglut_C          PF00927.22 sp|P21980|TGM2_HUMAN -            9.4e-50  167.2   0.0   1.4e-26   92.7   0.0   2.3   2   0   0   2   2   2   2 Transglutaminase family, C-terminal ig like domain
+Transglut_N          PF00868.20 sp|P21980|TGM2_HUMAN -            1.3e-34  119.0   0.0   2.4e-34  118.2   0.0   1.4   1   0   0   1   1   1   1 Transglutaminase family
+Transglut_core       PF01841.19 sp|P21980|TGM2_HUMAN -            1.7e-17   63.9   0.3   3.3e-17   63.0   0.3   1.4   1   0   0   1   1   1   1 Transglutaminase-like superfamily
+Lectin_C             PF00059.21 sp|Q8IX05|CD302_HUMAN -            3.7e-12   46.9   1.9   6.2e-12   46.2   1.2   1.7   2   0   0   2   2   1   1 Lectin C-type domain
+Abi_HHR              PF07815.14 sp|Q8IZP0|ABI1_HUMAN -            5.5e-37  125.8   0.5     1e-36  124.9   0.5   1.5   1   0   0   1   1   1   1 Abl-interactor HHR
+SH3_1                PF00018.28 sp|Q8IZP0|ABI1_HUMAN -            5.2e-17   61.2   0.4   3.3e-16   58.6   0.1   2.1   2   0   0   2   2   1   1 SH3 domain
+SH3_9                PF14604.6  sp|Q8IZP0|ABI1_HUMAN -            6.6e-15   54.7   0.3   1.5e-14   53.6   0.1   1.7   2   0   0   2   2   1   1 Variant SH3 domain
+SH3_2                PF07653.17 sp|Q8IZP0|ABI1_HUMAN -            5.5e-11   42.0   0.1   9.3e-11   41.2   0.1   1.4   1   0   0   1   1   1   1 Variant SH3 domain
+Actin                PF00022.19 sp|P61160|ARP2_HUMAN -           6.5e-118  393.9   0.0  5.2e-117  390.9   0.0   1.9   1   1   0   1   1   1   1 Actin
+P16-Arc              PF04699.14 sp|O15511|ARPC5_HUMAN -            2.2e-60  203.5   0.0   2.5e-60  203.3   0.0   1.0   1   0   0   1   1   1   1 ARP2/3 complex 16 kDa subunit (p16-Arc)
+Annexin              PF00191.20 sp|P50995|ANX11_HUMAN -           4.3e-103  337.4  11.8   3.7e-26   91.0   0.3   4.1   4   0   0   4   4   4   4 Annexin
+Pkinase_Tyr          PF07714.17 sp|P00519|ABL1_HUMAN -            4.4e-99  331.0   0.0   6.1e-99  330.5   0.0   1.2   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|P00519|ABL1_HUMAN -            2.9e-48  164.5   0.0   4.9e-48  163.8   0.0   1.3   1   0   0   1   1   1   1 Protein kinase domain
+F_actin_bind         PF08919.10 sp|P00519|ABL1_HUMAN -            7.4e-30  103.3   0.1   1.4e-29  102.4   0.1   1.5   1   0   0   1   1   1   1 F-actin binding
+SH2                  PF00017.24 sp|P00519|ABL1_HUMAN -              1e-23   83.2   0.2   2.6e-23   81.9   0.2   1.7   1   0   0   1   1   1   1 SH2 domain
+SH3_1                PF00018.28 sp|P00519|ABL1_HUMAN -            1.6e-12   46.9   0.0   2.7e-12   46.1   0.0   1.4   1   0   0   1   1   1   1 SH3 domain
+SH3_9                PF14604.6  sp|P00519|ABL1_HUMAN -            1.2e-08   34.6   0.0   2.2e-08   33.9   0.0   1.4   1   0   0   1   1   1   1 Variant SH3 domain
+SH3_2                PF07653.17 sp|P00519|ABL1_HUMAN -            1.8e-07   30.7   0.0   3.3e-07   29.9   0.0   1.5   1   0   0   1   1   1   1 Variant SH3 domain
+Pentaxin             PF00354.17 sp|P02741|CRP_HUMAN  -            4.5e-97  323.4   0.0   5.5e-97  323.1   0.0   1.1   1   0   0   1   1   1   1 Pentaxin family
+Laminin_G_3          PF13385.6  sp|P02741|CRP_HUMAN  -            2.2e-10   40.9   0.0   3.2e-10   40.3   0.0   1.2   1   0   0   1   1   1   1 Concanavalin A-like lectin/glucanases superfamily
+Pkinase_Tyr          PF07714.17 sp|Q05397|FAK1_HUMAN -            9.9e-94  313.4   0.0   1.6e-93  312.8   0.0   1.3   1   0   0   1   1   1   1 Protein tyrosine kinase
+Focal_AT             PF03623.13 sp|Q05397|FAK1_HUMAN -              3e-56  189.0   2.2   7.6e-56  187.8   2.2   1.7   1   0   0   1   1   1   1 Focal adhesion targeting region
+Pkinase              PF00069.25 sp|Q05397|FAK1_HUMAN -            6.1e-46  156.9   0.0   1.2e-45  156.0   0.0   1.4   1   0   0   1   1   1   1 Protein kinase domain
+FERM_N_2             PF18038.1  sp|Q05397|FAK1_HUMAN -              6e-45  152.0   0.5   1.9e-44  150.4   0.5   1.9   1   0   0   1   1   1   1 FERM N-terminal domain
+FERM_M               PF00373.18 sp|Q05397|FAK1_HUMAN -            2.7e-10   40.7   0.2   2.7e-10   40.7   0.2   2.4   3   0   0   3   3   1   1 FERM central domain
+Fibrinogen_C         PF00147.18 sp|Q15485|FCN2_HUMAN -            2.7e-73  246.4   5.3   3.2e-73  246.2   5.3   1.0   1   0   0   1   1   1   1 Fibrinogen beta and gamma chains, C-terminal globular domain
+Collagen             PF01391.18 sp|Q15485|FCN2_HUMAN -            8.1e-10   38.3  20.5   1.7e-09   37.3  20.5   1.5   1   0   0   1   1   1   1 Collagen triple helix repeat (20 copies)
+FragX_IP             PF05994.11 sp|Q7L576|CYFP1_HUMAN -                  0 1328.8   1.8         0 1328.8   1.8   1.7   2   0   0   2   2   1   1 Cytoplasmic Fragile-X interacting family
+DUF1394              PF07159.12 sp|Q7L576|CYFP1_HUMAN -            5.2e-08   32.5   5.7   1.2e-07   31.3   5.7   1.5   1   0   0   1   1   1   1 Protein of unknown function (DUF1394)
+CD36                 PF01130.21 sp|P16671|CD36_HUMAN -           1.2e-150  502.1   4.4  1.4e-150  502.0   4.4   1.0   1   0   0   1   1   1   1 CD36 family
+Leptin               PF02024.15 sp|P41159|LEP_HUMAN  -            2.2e-72  241.5   0.3   2.5e-72  241.4   0.3   1.0   1   0   0   1   1   1   1 Leptin
+PI3Ka                PF00613.20 sp|P42336|PK3CA_HUMAN -            1.1e-68  230.3   1.6   2.2e-68  229.3   1.6   1.5   1   0   0   1   1   1   1 Phosphoinositide 3-kinase family, accessory domain (PIK domain)
+PI3_PI4_kinase       PF00454.27 sp|P42336|PK3CA_HUMAN -            1.2e-57  195.6   1.2   7.5e-57  193.0   1.2   2.3   1   1   0   1   1   1   1 Phosphatidylinositol 3- and 4-kinase
+PI3K_rbd             PF00794.18 sp|P42336|PK3CA_HUMAN -            9.8e-39  131.8   1.2   1.5e-36  124.8   0.5   2.9   2   0   0   2   2   1   1 PI3-kinase family, ras-binding domain
+PI3K_C2              PF00792.24 sp|P42336|PK3CA_HUMAN -            4.1e-35  120.7   0.0   8.6e-35  119.7   0.0   1.6   1   0   0   1   1   1   1 Phosphoinositide 3-kinase C2
+PI3K_p85B            PF02192.16 sp|P42336|PK3CA_HUMAN -            2.2e-30  104.2   0.3   5.5e-30  102.9   0.3   1.8   1   0   0   1   1   1   1 PI3-kinase family, p85-binding domain
+Ig_2                 PF13895.6  sp|Q9UMF0|ICAM5_HUMAN -              3e-43  146.0   0.8   1.7e-07   31.5   0.0   9.0   8   2   0   8   8   5   6 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|Q9UMF0|ICAM5_HUMAN -            2.2e-33  114.7  20.1   2.8e-09   37.4   0.0  10.4   8   5   0   8   8   4   5 Immunoglobulin domain
+I-set                PF07679.16 sp|Q9UMF0|ICAM5_HUMAN -            2.4e-31  107.7   8.6   4.9e-06   26.5   0.0  10.6  11   1   0  11  11   2   8 Immunoglobulin I-set domain
+ig                   PF00047.25 sp|Q9UMF0|ICAM5_HUMAN -            1.9e-25   88.9   0.8   7.8e-05   22.8   0.0  10.3   9   1   0   9   9   1   5 Immunoglobulin domain
+ICAM_N               PF03921.14 sp|Q9UMF0|ICAM5_HUMAN -            2.4e-17   62.4   0.0   4.9e-15   55.0   0.0   2.7   2   0   0   2   2   1   2 Intercellular adhesion molecule (ICAM), N-terminal domain
+V-set                PF07686.17 sp|Q9UMF0|ICAM5_HUMAN -            5.2e-08   33.0  12.8       0.7   10.1   0.1   9.3   9   2   2  11  11   0   3 Immunoglobulin V-set domain
+Pkinase              PF00069.25 sp|Q05655|KPCD_HUMAN -            2.6e-61  207.3   0.0   3.7e-61  206.8   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+Pkinase_Tyr          PF07714.17 sp|Q05655|KPCD_HUMAN -            4.4e-39  134.3   0.0   9.5e-39  133.2   0.0   1.5   1   0   0   1   1   1   1 Protein tyrosine kinase
+C1_1                 PF00130.22 sp|Q05655|KPCD_HUMAN -            2.4e-32  110.6  20.9   1.3e-17   63.4   7.6   2.7   2   0   0   2   2   2   2 Phorbol esters/diacylglycerol binding domain (C1 domain)
+Pkinase_C            PF00433.24 sp|Q05655|KPCD_HUMAN -            3.2e-09   37.3   0.8   6.6e-09   36.3   0.8   1.6   1   0   0   1   1   1   1 Protein kinase C terminal domain
+Pkinase_Tyr          PF07714.17 sp|P07948|LYN_HUMAN  -            1.2e-95  319.7   0.0   1.5e-95  319.4   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|P07948|LYN_HUMAN  -            1.8e-48  165.2   0.0   2.5e-48  164.8   0.0   1.1   1   0   0   1   1   1   1 Protein kinase domain
+SH2                  PF00017.24 sp|P07948|LYN_HUMAN  -              1e-23   83.2   0.0   2.2e-23   82.1   0.0   1.6   1   0   0   1   1   1   1 SH2 domain
+SH3_1                PF00018.28 sp|P07948|LYN_HUMAN  -              8e-17   60.6   0.1   1.7e-16   59.5   0.1   1.6   1   0   0   1   1   1   1 SH3 domain
+SH3_9                PF14604.6  sp|P07948|LYN_HUMAN  -            1.6e-08   34.3   0.0   3.7e-08   33.1   0.0   1.7   1   0   0   1   1   1   1 Variant SH3 domain
+SH3_2                PF07653.17 sp|P07948|LYN_HUMAN  -            1.7e-07   30.8   0.1   4.6e-07   29.4   0.0   1.8   2   0   0   2   2   1   1 Variant SH3 domain
+V-set                PF07686.17 sp|Q9NZC2|TREM2_HUMAN -            1.9e-10   40.9   0.1   2.6e-10   40.5   0.1   1.2   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+SLAM                 PF06214.11 sp|Q13291|SLAF1_HUMAN -            2.5e-60  202.0   0.0   4.2e-60  201.2   0.0   1.4   1   0   0   1   1   1   1 Signaling lymphocytic activation molecule (SLAM) protein
+C1-set               PF07654.15 sp|P01871|IGHM_HUMAN -            3.7e-67  222.7   2.2   1.7e-24   86.0   0.0   4.1   4   0   0   4   4   4   4 Immunoglobulin C1-set domain
+ig                   PF00047.25 sp|P01871|IGHM_HUMAN -            2.8e-19   69.1  13.1     3e-06   27.3   0.0   4.6   4   1   0   4   4   2   4 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01871|IGHM_HUMAN -            1.2e-16   61.1   8.2   1.4e-05   25.6   0.0   4.7   4   2   0   4   4   2   3 Immunoglobulin domain
+C2-set_2             PF08205.12 sp|P01871|IGHM_HUMAN -            3.2e-12   46.3   8.2   8.6e-05   22.5   0.1   4.1   4   0   0   4   4   2   3 CD80-like C2-set immunoglobulin domain
+I-set                PF07679.16 sp|P01871|IGHM_HUMAN -              1e-09   38.3   0.3     0.034   14.2   0.0   4.3   4   1   1   5   5   1   3 Immunoglobulin I-set domain
+HSP90                PF00183.18 sp|P07900|HS90A_HUMAN -           7.6e-235  780.7  34.2  9.9e-235  780.3  34.2   1.1   1   0   0   1   1   1   1 Hsp90 protein
+HATPase_c            PF02518.26 sp|P07900|HS90A_HUMAN -            2.4e-14   53.8   0.1   5.6e-14   52.6   0.1   1.7   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c_3          PF13589.6  sp|P07900|HS90A_HUMAN -            2.6e-12   46.8   0.1   8.1e-12   45.1   0.1   1.9   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+SH3_1                PF00018.28 sp|P62993|GRB2_HUMAN -            1.6e-35  120.5   0.3   2.1e-16   59.3   0.0   2.6   3   0   0   3   3   2   2 SH3 domain
+SH3_9                PF14604.6  sp|P62993|GRB2_HUMAN -            5.4e-32  109.4   0.1   2.7e-15   55.9   0.0   2.4   2   0   0   2   2   2   2 Variant SH3 domain
+SH3_2                PF07653.17 sp|P62993|GRB2_HUMAN -            3.6e-28   97.0   0.0   1.4e-15   56.7   0.0   2.3   2   0   0   2   2   2   2 Variant SH3 domain
+SH2                  PF00017.24 sp|P62993|GRB2_HUMAN -            5.9e-25   87.2   0.0   9.5e-25   86.5   0.0   1.4   1   0   0   1   1   1   1 SH2 domain
+SH3_10               PF17902.1  sp|P62993|GRB2_HUMAN -            1.2e-06   28.4   0.0   0.00036   20.5   0.0   2.5   2   1   0   2   2   1   2 SH3 domain
+Ig_2                 PF13895.6  sp|P08637|FCG3A_HUMAN -            1.5e-20   73.3   3.7   1.9e-11   44.1   0.2   2.5   3   0   0   3   3   2   2 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P08637|FCG3A_HUMAN -            4.7e-17   62.4   0.2   4.1e-09   36.9   0.1   2.5   2   0   0   2   2   2   2 Immunoglobulin domain
+ig                   PF00047.25 sp|P08637|FCG3A_HUMAN -              2e-11   43.9   1.5   5.2e-05   23.3   0.2   2.8   2   1   0   2   2   2   2 Immunoglobulin domain
+Ig_4                 PF16680.5  sp|P08637|FCG3A_HUMAN -              2e-09   37.6   0.2   3.2e-05   24.1   0.0   2.2   2   0   0   2   2   1   2 T-cell surface glycoprotein CD3 delta chain
+I-set                PF07679.16 sp|P08637|FCG3A_HUMAN -            5.5e-07   29.6   2.6    0.0012   18.9   0.2   3.2   3   1   0   3   3   1   2 Immunoglobulin I-set domain
+V-set                PF07686.17 sp|O75871|CEAM4_HUMAN -            4.2e-13   49.4   0.0   6.1e-13   48.9   0.0   1.2   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Ras                  PF00071.22 sp|Q9BZG1|RAB34_HUMAN -            9.5e-45  152.1   0.1   1.2e-44  151.8   0.1   1.1   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 sp|Q9BZG1|RAB34_HUMAN -            5.5e-30  104.1   0.0   8.8e-30  103.4   0.0   1.3   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 sp|Q9BZG1|RAB34_HUMAN -            2.7e-14   53.0   0.0   3.6e-14   52.6   0.0   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+MMR_HSR1             PF01926.23 sp|Q9BZG1|RAB34_HUMAN -            5.2e-07   29.8   0.0   9.5e-07   28.9   0.0   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+Ras                  PF00071.22 sp|P60763|RAC3_HUMAN -            1.5e-54  183.9   0.0   1.8e-54  183.7   0.0   1.0   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 sp|P60763|RAC3_HUMAN -            2.1e-22   79.6   0.0   2.7e-22   79.2   0.0   1.1   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 sp|P60763|RAC3_HUMAN -            1.4e-07   31.2   0.0   1.7e-07   30.9   0.0   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+Ras                  PF00071.22 sp|P63000|RAC1_HUMAN -            2.4e-55  186.5   0.0   2.8e-55  186.4   0.0   1.0   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 sp|P63000|RAC1_HUMAN -              6e-23   81.3   0.0     8e-23   80.9   0.0   1.1   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 sp|P63000|RAC1_HUMAN -            9.3e-08   31.7   0.0   1.1e-07   31.4   0.0   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+Ras                  PF00071.22 sp|P51149|RAB7A_HUMAN -            2.9e-58  196.1   0.1   3.4e-58  195.8   0.1   1.0   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 sp|P51149|RAB7A_HUMAN -            2.3e-32  111.7   0.0   3.8e-32  111.0   0.0   1.3   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 sp|P51149|RAB7A_HUMAN -            2.6e-13   49.8   0.1     3e-13   49.6   0.1   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+MMR_HSR1             PF01926.23 sp|P51149|RAB7A_HUMAN -            2.5e-07   30.8   0.0   4.2e-07   30.0   0.0   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+RsgA_GTPase          PF03193.16 sp|P51149|RAB7A_HUMAN -            2.6e-06   27.4   0.1    0.0033   17.3   0.1   2.2   1   1   1   2   2   1   2 RsgA GTPase
+Gtr1_RagA            PF04670.12 sp|P51149|RAB7A_HUMAN -            3.9e-06   26.4   0.0     5e-06   26.0   0.0   1.2   1   0   0   1   1   1   1 Gtr1/RagA G protein conserved region
+Ras                  PF00071.22 sp|P61106|RAB14_HUMAN -            8.6e-61  204.3   0.1   9.9e-61  204.1   0.1   1.0   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 sp|P61106|RAB14_HUMAN -            2.5e-32  111.6   0.0   3.8e-32  111.0   0.0   1.2   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 sp|P61106|RAB14_HUMAN -            1.7e-12   47.2   0.0   2.1e-12   46.8   0.0   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+C2                   PF00168.30 sp|Q70J99|UN13D_HUMAN -              3e-28   98.1   0.0   1.7e-12   47.5   0.0   4.1   2   1   0   2   2   2   2 C2 domain
+Membr_traf_MHD       PF10540.9  sp|Q70J99|UN13D_HUMAN -            1.1e-21   77.6   4.1   4.1e-13   49.7   0.0   2.8   1   1   1   2   2   2   2 Munc13 (mammalian uncoordinated) homology domain
+Pkinase_Tyr          PF07714.17 sp|P07947|YES_HUMAN  -            5.4e-92  307.7   0.0   6.8e-92  307.4   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|P07947|YES_HUMAN  -            1.1e-44  152.8   0.0   1.5e-44  152.3   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+SH2                  PF00017.24 sp|P07947|YES_HUMAN  -            3.9e-28   97.4   0.2   7.6e-28   96.4   0.2   1.5   1   0   0   1   1   1   1 SH2 domain
+SH3_1                PF00018.28 sp|P07947|YES_HUMAN  -            7.7e-19   67.1   0.4   3.4e-18   65.0   0.1   2.2   2   0   0   2   2   1   1 SH3 domain
+SH3_9                PF14604.6  sp|P07947|YES_HUMAN  -            2.5e-13   49.7   0.0     8e-13   48.0   0.0   2.0   1   0   0   1   1   1   1 Variant SH3 domain
+SH3_2                PF07653.17 sp|P07947|YES_HUMAN  -            3.8e-11   42.5   0.1   1.2e-10   40.9   0.0   1.9   2   0   0   2   2   1   1 Variant SH3 domain
+Lectin_C             PF00059.21 sp|Q9BXN2|CLC7A_HUMAN -            1.1e-16   61.5   1.0   1.1e-16   61.5   1.0   1.8   2   0   0   2   2   1   1 Lectin C-type domain
+Ly49                 PF08391.10 sp|Q9BXN2|CLC7A_HUMAN -            4.2e-07   30.3   1.0   5.8e-07   29.9   0.5   1.5   1   1   0   1   1   1   1 Ly49-like protein, N-terminal region
+Ig_4                 PF16680.5  sp|P09693|CD3G_HUMAN -            7.9e-31  106.2   0.3   1.3e-30  105.5   0.3   1.3   1   0   0   1   1   1   1 T-cell surface glycoprotein CD3 delta chain
+Ig_5                 PF16681.5  sp|P09693|CD3G_HUMAN -            5.8e-10   39.4   0.6   9.3e-10   38.8   0.6   1.3   1   0   0   1   1   1   1 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+ITAM                 PF02189.15 sp|P09693|CD3G_HUMAN -            2.3e-08   34.0   3.4   5.4e-08   32.8   3.4   1.7   1   0   0   1   1   1   1 Immunoreceptor tyrosine-based activation motif
+Ras                  PF00071.22 sp|P60953|CDC42_HUMAN -            1.2e-53  181.0   0.0   1.3e-53  180.9   0.0   1.0   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 sp|P60953|CDC42_HUMAN -            8.4e-20   71.2   0.0   1.2e-19   70.6   0.0   1.2   1   0   0   1   1   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 sp|P60953|CDC42_HUMAN -            4.7e-08   32.7   0.0   5.9e-08   32.4   0.0   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+BAR                  PF03114.18 sp|Q9UBW5|BIN2_HUMAN -            5.1e-36  124.5  15.0   8.1e-36  123.9  15.0   1.2   1   0   0   1   1   1   1 BAR domain
+RhoGAP               PF00620.27 sp|Q9Y3L3|3BP1_HUMAN -              2e-44  151.1   0.1   5.4e-44  149.7   0.0   1.7   2   0   0   2   2   1   1 RhoGAP domain
+BAR                  PF03114.18 sp|Q9Y3L3|3BP1_HUMAN -            1.4e-35  123.1   6.3     2e-35  122.6   6.3   1.2   1   0   0   1   1   1   1 BAR domain
+FragX_IP             PF05994.11 sp|Q96F07|CYFP2_HUMAN -                  0 1304.8   2.8         0 1091.7   1.5   2.6   3   0   0   3   3   2   2 Cytoplasmic Fragile-X interacting family
+DUF1394              PF07159.12 sp|Q96F07|CYFP2_HUMAN -            1.2e-08   34.6   6.0   1.2e-08   34.6   6.0   1.9   2   0   0   2   2   1   1 Protein of unknown function (DUF1394)
+Actin                PF00022.19 sp|P61158|ARP3_HUMAN -            1.4e-90  303.9   0.0   7.6e-57  192.8   0.0   2.0   1   1   1   2   2   2   2 Actin
+P21-Arc              PF04062.14 sp|O15145|ARPC3_HUMAN -            1.5e-82  275.9   0.2   1.6e-82  275.7   0.2   1.0   1   0   0   1   1   1   1 ARP2/3 complex ARPC3 (21 kDa) subunit
+P34-Arc              PF04045.14 sp|O15144|ARPC2_HUMAN -           4.5e-104  347.4   0.8  5.7e-104  347.1   0.8   1.1   1   0   0   1   1   1   1 Arp2/3 complex, 34 kD subunit p34-Arc
+ARPC4                PF05856.12 sp|P59998|ARPC4_HUMAN -            2.7e-84  280.9   8.0     3e-84  280.7   8.0   1.0   1   0   0   1   1   1   1 ARP2/3 complex 20 kDa subunit (ARPC4)
+cEGF                 PF12662.7  sp|Q9NPY3|C1QR1_HUMAN -            1.3e-29  101.7  30.8   2.7e-08   33.6   2.1   5.8   5   0   0   5   5   5   5 Complement Clr-like EGF-like
+FXa_inhibition       PF14670.6  sp|Q9NPY3|C1QR1_HUMAN -            2.1e-24   85.5  68.7   1.1e-06   28.8   2.3   5.6   5   0   0   5   5   4   5 Coagulation Factor Xa inhibitory site
+EGF_CA               PF07645.15 sp|Q9NPY3|C1QR1_HUMAN -            1.2e-23   83.0  67.7   1.8e-10   40.8   8.3   6.0   5   1   1   6   6   3   3 Calcium-binding EGF domain
+EGF                  PF00008.27 sp|Q9NPY3|C1QR1_HUMAN -            3.8e-12   46.3  66.6     2e-05   24.8   8.1   6.3   5   0   0   5   5   1   5 EGF-like domain
+Lectin_C             PF00059.21 sp|Q9NPY3|C1QR1_HUMAN -            9.1e-08   32.8   0.0     3e-07   31.1   0.0   1.9   1   0   0   1   1   1   1 Lectin C-type domain
+Annexin              PF00191.20 sp|P12429|ANXA3_HUMAN -           1.9e-105  345.0  14.0   5.5e-26   90.4   0.4   4.0   4   0   0   4   4   4   4 Annexin
+WD40                 PF00400.32 sp|O15143|ARC1B_HUMAN -            2.8e-12   47.0  19.9   5.6e-05   23.8   0.2   7.0   7   0   0   7   7   2   3 WD domain, G-beta repeat
+ANAPC4_WD40          PF12894.7  sp|O15143|ARC1B_HUMAN -            1.7e-10   41.0   0.5    0.0089   16.3   0.0   4.5   2   1   2   4   4   1   4 Anaphase-promoting complex subunit 4 WD40 domain
+Dynamin_M            PF01031.20 sp|P50570|DYN2_HUMAN -           4.8e-112  373.8   3.5  8.8e-112  373.0   2.3   2.0   2   0   0   2   2   1   1 Dynamin central region
+Dynamin_N            PF00350.23 sp|P50570|DYN2_HUMAN -            1.2e-55  188.2   0.0   3.5e-55  186.6   0.0   1.9   1   0   0   1   1   1   1 Dynamin family
+GED                  PF02212.18 sp|P50570|DYN2_HUMAN -            4.8e-26   90.7   4.4     1e-25   89.7   2.7   2.3   2   0   0   2   2   1   1 Dynamin GTPase effector domain
+PH                   PF00169.29 sp|P50570|DYN2_HUMAN -              9e-14   51.9   0.6   1.9e-13   50.8   0.6   1.6   1   0   0   1   1   1   1 PH domain
+SH3_2                PF07653.17 sp|P46108|CRK_HUMAN  -            3.4e-24   84.3   2.0   2.9e-11   42.9   0.0   2.7   3   0   0   3   3   2   2 Variant SH3 domain
+SH2                  PF00017.24 sp|P46108|CRK_HUMAN  -            4.6e-19   68.3   0.0   9.7e-19   67.3   0.0   1.6   1   0   0   1   1   1   1 SH2 domain
+SH3_1                PF00018.28 sp|P46108|CRK_HUMAN  -              1e-17   63.4   4.8   3.7e-15   55.3   0.2   2.7   3   0   0   3   3   1   2 SH3 domain
+SH3_9                PF14604.6  sp|P46108|CRK_HUMAN  -            3.5e-13   49.2   0.1   4.3e-09   36.1   0.1   2.8   3   0   0   3   3   1   2 Variant SH3 domain
+IMD                  PF08397.11 sp|Q9UQB8|BAIP2_HUMAN -           7.7e-100  332.8   6.5     1e-99  332.4   6.5   1.1   1   0   0   1   1   1   1 IRSp53/MIM homology domain
+SH3_9                PF14604.6  sp|Q9UQB8|BAIP2_HUMAN -            3.6e-10   39.6   0.0   6.3e-10   38.8   0.0   1.4   1   0   0   1   1   1   1 Variant SH3 domain
+SH3_2                PF07653.17 sp|Q9UQB8|BAIP2_HUMAN -            5.7e-08   32.3   0.0   9.8e-08   31.6   0.0   1.4   1   0   0   1   1   1   1 Variant SH3 domain
+Trimer_CC            PF08954.11 sp|P31146|COR1A_HUMAN -            1.6e-33  114.0   6.2   1.2e-30  104.9   4.9   2.4   2   0   0   2   2   1   2 Trimerisation motif
+DUF1899              PF08953.11 sp|P31146|COR1A_HUMAN -              2e-31  107.7   0.3   4.3e-31  106.6   0.0   1.7   2   0   0   2   2   1   1 Domain of unknown function (DUF1899)
+WD40_4               PF16300.5  sp|P31146|COR1A_HUMAN -            4.6e-21   74.4   0.0   8.5e-21   73.6   0.0   1.5   1   0   0   1   1   1   1 Type of WD40 repeat
+WD40                 PF00400.32 sp|P31146|COR1A_HUMAN -            5.8e-18   64.9   3.5   3.5e-05   24.5   0.2   5.1   5   0   0   5   5   3   3 WD domain, G-beta repeat
+ANAPC4_WD40          PF12894.7  sp|P31146|COR1A_HUMAN -            7.6e-06   26.1   0.1    0.0031   17.8   0.0   2.9   1   1   1   2   2   1   2 Anaphase-promoting complex subunit 4 WD40 domain
+ITAM                 PF02189.15 sp|P20963|CD3Z_HUMAN -            2.8e-21   74.6   6.5   2.9e-06   27.4   0.1   3.3   3   0   0   3   3   3   3 Immunoreceptor tyrosine-based activation motif
+TCR_zetazeta         PF11628.8  sp|P20963|CD3Z_HUMAN -              6e-18   64.2   1.5   9.2e-18   63.6   1.5   1.3   1   0   0   1   1   1   1 T-cell surface glycoprotein CD3 zeta chain
+Fibrinogen_C         PF00147.18 sp|O75636|FCN3_HUMAN -            7.6e-69  231.9   0.8   8.8e-69  231.7   0.8   1.0   1   0   0   1   1   1   1 Fibrinogen beta and gamma chains, C-terminal globular domain
+Collagen             PF01391.18 sp|O75636|FCN3_HUMAN -            4.2e-06   26.4  16.1   8.9e-06   25.4  16.1   1.4   1   0   0   1   1   1   1 Collagen triple helix repeat (20 copies)
+C1-set               PF07654.15 sp|P15814|IGLL1_HUMAN -            3.9e-29  100.9   0.1   5.8e-29  100.3   0.1   1.3   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+C1-set               PF07654.15 sp|P01880|IGHD_HUMAN -            3.5e-42  142.7   0.1   3.4e-18   65.8   0.3   3.3   3   0   0   3   3   3   3 Immunoglobulin C1-set domain
+ig                   PF00047.25 sp|P01880|IGHD_HUMAN -            1.1e-22   80.0   0.6   1.8e-10   40.8   0.0   3.4   3   0   0   3   3   2   3 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01880|IGHD_HUMAN -            1.3e-12   48.2   1.9   4.1e-05   24.1   0.3   3.6   3   0   0   3   3   1   3 Immunoglobulin domain
+PI-PLC-X             PF00388.19 sp|P16885|PLCG2_HUMAN -            1.1e-65  219.7   0.0   2.7e-65  218.4   0.0   1.7   1   0   0   1   1   1   1 Phosphatidylinositol-specific phospholipase C, X domain
+SH2                  PF00017.24 sp|P16885|PLCG2_HUMAN -            2.9e-48  161.8   1.7   1.7e-26   92.1   0.3   3.0   2   0   0   2   2   2   2 SH2 domain
+PI-PLC-Y             PF00387.19 sp|P16885|PLCG2_HUMAN -            2.4e-37  127.8   0.0   8.6e-37  126.0   0.0   2.1   1   0   0   1   1   1   1 Phosphatidylinositol-specific phospholipase C, Y domain
+SH3_1                PF00018.28 sp|P16885|PLCG2_HUMAN -            6.8e-15   54.4   0.4   1.7e-14   53.1   0.0   1.9   2   0   0   2   2   1   1 SH3 domain
+C2                   PF00168.30 sp|P16885|PLCG2_HUMAN -            7.2e-15   55.2   0.0   2.5e-14   53.4   0.0   1.9   1   0   0   1   1   1   1 C2 domain
+SH3_9                PF14604.6  sp|P16885|PLCG2_HUMAN -            7.5e-11   41.7   2.0   8.8e-11   41.5   0.1   2.3   3   0   0   3   3   1   1 Variant SH3 domain
+PH                   PF00169.29 sp|P16885|PLCG2_HUMAN -            4.1e-08   33.7   0.5      0.36   11.4   0.0   4.2   3   0   0   3   3   0   3 PH domain
+SH3_2                PF07653.17 sp|P16885|PLCG2_HUMAN -            2.8e-06   26.9   0.0   7.7e-06   25.5   0.0   1.8   1   0   0   1   1   1   1 Variant SH3 domain
+C1-set               PF07654.15 sp|P01854|IGHE_HUMAN -            7.6e-65  215.3   2.8   2.8e-22   78.9   0.0   4.4   4   1   0   4   4   4   4 Immunoglobulin C1-set domain
+C2-set_2             PF08205.12 sp|P01854|IGHE_HUMAN -            5.8e-21   74.4  10.8   3.6e-07   30.1   0.4   4.3   4   0   0   4   4   2   4 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.6  sp|P01854|IGHE_HUMAN -              7e-15   55.4   8.7   0.00019   22.0   0.3   5.0   4   1   1   5   5   1   4 Immunoglobulin domain
+ig                   PF00047.25 sp|P01854|IGHE_HUMAN -            1.7e-14   53.8  12.7   2.2e-06   27.7   0.1   4.4   4   1   0   4   4   1   4 Immunoglobulin domain
+Ig_2                 PF13895.6  sp|P01854|IGHE_HUMAN -            7.9e-10   38.9   7.8     0.083   13.2   0.1   4.4   4   0   0   4   4   0   4 Immunoglobulin domain
+I-set                PF07679.16 sp|P01854|IGHE_HUMAN -            5.3e-07   29.6   2.2     0.064   13.3   0.1   4.1   4   1   1   5   5   0   2 Immunoglobulin I-set domain
+Ig_2                 PF13895.6  sp|P12314|FCGR1_HUMAN -            1.2e-30  105.7   1.2   2.1e-10   40.8   0.0   3.2   3   0   0   3   3   3   3 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P12314|FCGR1_HUMAN -            4.1e-24   85.0   1.2   5.7e-10   39.7   0.7   3.4   3   0   0   3   3   3   3 Immunoglobulin domain
+ig                   PF00047.25 sp|P12314|FCGR1_HUMAN -            2.5e-15   56.4   5.9   8.4e-09   35.5   0.0   4.0   3   2   0   3   3   1   3 Immunoglobulin domain
+V-set                PF07686.17 sp|P12314|FCGR1_HUMAN -            2.6e-12   46.9   7.5    0.0085   16.3   0.1   5.3   3   3   2   5   5   1   4 Immunoglobulin V-set domain
+I-set                PF07679.16 sp|P12314|FCGR1_HUMAN -            3.5e-08   33.4   0.7     0.064   13.3   0.2   4.5   3   2   0   3   3   0   3 Immunoglobulin I-set domain
+Ig_4                 PF16680.5  sp|P12314|FCGR1_HUMAN -            2.3e-06   27.8   6.1     0.049   13.9   0.0   4.4   5   1   0   5   5   0   2 T-cell surface glycoprotein CD3 delta chain
+Myosin_head          PF00063.21 sp|B0I1T2|MYO1G_HUMAN -           1.6e-229  763.6   0.0  1.9e-229  763.4   0.0   1.0   1   0   0   1   1   1   1 Myosin head (motor domain)
+Myosin_TH1           PF06017.13 sp|B0I1T2|MYO1G_HUMAN -            5.1e-40  137.1   0.0   9.1e-40  136.3   0.0   1.3   1   0   0   1   1   1   1 Unconventional myosin tail, actin- and lipid-binding
+Myosin_head          PF00063.21 sp|O00159|MYO1C_HUMAN -           7.3e-247  820.9   0.0  9.4e-247  820.6   0.0   1.1   1   0   0   1   1   1   1 Myosin head (motor domain)
+Myosin_TH1           PF06017.13 sp|O00159|MYO1C_HUMAN -            2.6e-30  105.5   0.0   4.7e-30  104.7   0.0   1.4   1   0   0   1   1   1   1 Unconventional myosin tail, actin- and lipid-binding
+IQ                   PF00612.27 sp|O00159|MYO1C_HUMAN -            1.2e-08   34.0  16.8   0.00041   19.9   1.7   3.9   3   0   0   3   3   2   3 IQ calmodulin-binding motif
+Nckap1               PF09735.9  sp|P55160|NCKPL_HUMAN -                  0 1601.5  14.3         0 1601.4  14.3   1.0   1   0   0   1   1   1   1 Membrane-associated apoptosis protein
+Nckap1               PF09735.9  sp|Q9Y2A7|NCKP1_HUMAN -                  0 1738.0  28.0         0 1737.8  28.0   1.0   1   0   0   1   1   1   1 Membrane-associated apoptosis protein
+Ank_2                PF12796.7  sp|O60733|PLPL9_HUMAN -            2.3e-39  133.8  11.0   1.7e-10   41.3   0.1   4.6   1   1   4   5   5   5   5 Ankyrin repeats (3 copies)
+Ank_4                PF13637.6  sp|O60733|PLPL9_HUMAN -            3.2e-35  120.0   1.6   1.5e-07   31.8   0.1   6.5   5   1   1   6   6   3   6 Ankyrin repeats (many copies)
+Ank_5                PF13857.6  sp|O60733|PLPL9_HUMAN -            1.3e-31  108.2  16.1   1.4e-11   44.4   1.2   6.7   2   2   4   6   6   6   6 Ankyrin repeats (many copies)
+Ank                  PF00023.30 sp|O60733|PLPL9_HUMAN -            6.4e-31  105.4  10.7   1.6e-05   25.1   0.0   7.7   9   0   0   9   9   4   6 Ankyrin repeat
+Ank_3                PF13606.6  sp|O60733|PLPL9_HUMAN -            1.7e-27   92.4   5.3   9.9e-05   22.5   0.0   8.0   7   1   0   7   7   4   5 Ankyrin repeat
+Patatin              PF01734.22 sp|O60733|PLPL9_HUMAN -            2.2e-16   60.6   5.2   2.5e-15   57.2   5.2   2.2   1   1   0   1   1   1   1 Patatin-like phospholipase
+PIP5K                PF01504.18 sp|Q99755|PI51A_HUMAN -            3.5e-91  305.2   0.0   4.5e-91  304.9   0.0   1.1   1   0   0   1   1   1   1 Phosphatidylinositol-4-phosphate 5-Kinase
+Myosin_tail_1        PF01576.19 sp|P35579|MYH9_HUMAN -                  0 1675.3 313.4         0 1675.1 313.4   1.1   1   0   0   1   1   1   1 Myosin tail
+Myosin_head          PF00063.21 sp|P35579|MYH9_HUMAN -                  0 1024.3   0.9         0 1024.3   0.9   4.3   4   2   1   5   5   1   1 Myosin head (motor domain)
+Myosin_N             PF02736.19 sp|P35579|MYH9_HUMAN -            5.7e-10   38.9   2.5   1.4e-09   37.6   2.5   1.7   1   0   0   1   1   1   1 Myosin N-terminal SH3-like domain
+Ras                  PF00071.22 sp|P20339|RAB5A_HUMAN -            7.3e-63  211.0   0.3   8.4e-63  210.8   0.3   1.0   1   0   0   1   1   1   1 Ras family
+Roc                  PF08477.13 sp|P20339|RAB5A_HUMAN -            2.1e-35  121.5   0.1   4.5e-35  120.5   0.0   1.5   2   0   0   2   2   1   1 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.21 sp|P20339|RAB5A_HUMAN -            1.3e-12   47.5   0.0   1.6e-12   47.2   0.0   1.1   1   0   0   1   1   1   1 ADP-ribosylation factor family
+Synaptobrevin        PF00957.21 sp|P51809|VAMP7_HUMAN -              9e-31  105.5   1.1   1.4e-30  104.9   1.1   1.3   1   0   0   1   1   1   1 Synaptobrevin
+Longin               PF13774.6  sp|P51809|VAMP7_HUMAN -            2.9e-27   94.5   0.6   5.2e-27   93.7   0.6   1.4   1   0   0   1   1   1   1 Regulated-SNARE-like domain
+WH2                  PF02205.20 sp|Q9Y6W5|WASF2_HUMAN -            4.7e-07   29.4   0.0   8.1e-07   28.7   0.0   1.4   1   0   0   1   1   1   1 WH2 motif
+WH1                  PF00568.23 sp|O00401|WASL_HUMAN -            1.5e-40  137.6   0.2   2.1e-40  137.1   0.2   1.2   1   0   0   1   1   1   1 WH1 domain
+PBD                  PF00786.28 sp|O00401|WASL_HUMAN -            2.9e-19   69.2   0.2     1e-18   67.4   0.0   2.1   2   0   0   2   2   1   1 P21-Rho-binding domain
+WH2                  PF02205.20 sp|O00401|WASL_HUMAN -              3e-16   58.7   2.5   3.9e-07   29.7   0.2   2.6   2   0   0   2   2   2   2 WH2 motif
+WH1                  PF00568.23 sp|P42768|WASP_HUMAN -            5.1e-43  145.5   0.0   6.8e-43  145.1   0.0   1.2   1   0   0   1   1   1   1 WH1 domain
+PBD                  PF00786.28 sp|P42768|WASP_HUMAN -            4.9e-17   62.0   0.0   4.9e-17   62.0   0.0   1.8   2   0   0   2   2   1   1 P21-Rho-binding domain
+WH2                  PF02205.20 sp|P42768|WASP_HUMAN -            6.3e-09   35.4   0.2   1.6e-08   34.1   0.2   1.8   1   0   0   1   1   1   1 WH2 motif
+Tub                  PF01167.18 sp|P50607|TUB_HUMAN  -            1.1e-96  323.3   0.0     2e-96  322.4   0.0   1.4   1   0   0   1   1   1   1 Tub family
+Tub_N                PF16322.5  sp|P50607|TUB_HUMAN  -            2.1e-60  204.7  19.4     3e-60  204.2  19.4   1.2   1   0   0   1   1   1   1 Tubby N-terminal
+C2                   PF00168.30 sp|O43581|SYT7_HUMAN -              7e-54  180.4   2.0   9.5e-27   93.3   0.1   2.2   2   0   0   2   2   2   2 C2 domain
+Tub                  PF01167.18 sp|O00294|TULP1_HUMAN -            9.7e-91  303.8   0.0   3.6e-90  301.9   0.0   1.8   2   0   0   2   2   1   1 Tub family
+SRCR                 PF00530.18 sp|P21757|MSRE_HUMAN -            1.8e-30  105.4   2.8   3.8e-30  104.4   2.8   1.6   1   0   0   1   1   1   1 Scavenger receptor cysteine-rich domain
+Macscav_rec          PF03523.13 sp|P21757|MSRE_HUMAN -            5.3e-29   99.9   4.5   1.5e-28   98.4   4.5   1.9   1   0   0   1   1   1   1 Macrophage scavenger receptor
+Collagen             PF01391.18 sp|P21757|MSRE_HUMAN -            2.2e-10   40.2  34.5   2.3e-10   40.1  29.4   2.3   1   1   0   1   1   1   1 Collagen triple helix repeat (20 copies)
+Pkinase              PF00069.25 sp|Q02156|KPCE_HUMAN -            2.7e-65  220.4   0.0   3.9e-65  219.9   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+Pkinase_Tyr          PF07714.17 sp|Q02156|KPCE_HUMAN -            2.3e-37  128.7   0.0   3.8e-37  128.0   0.0   1.3   1   0   0   1   1   1   1 Protein tyrosine kinase
+C1_1                 PF00130.22 sp|Q02156|KPCE_HUMAN -            1.1e-32  111.6  22.4   1.6e-16   59.9   5.0   2.5   2   0   0   2   2   2   2 Phorbol esters/diacylglycerol binding domain (C1 domain)
+C2                   PF00168.30 sp|Q02156|KPCE_HUMAN -            7.5e-13   48.7   0.0   1.4e-12   47.8   0.0   1.4   1   0   0   1   1   1   1 C2 domain
+Pkinase_C            PF00433.24 sp|Q02156|KPCE_HUMAN -            6.4e-09   36.4   0.1   1.4e-08   35.3   0.1   1.6   1   0   0   1   1   1   1 Protein kinase C terminal domain
+Collagen             PF01391.18 sp|Q9UEW3|MARCO_HUMAN -            1.1e-44  149.9 161.7   1.3e-09   37.6  30.2   6.0   1   1   4   5   5   4   4 Collagen triple helix repeat (20 copies)
+SRCR                 PF00530.18 sp|Q9UEW3|MARCO_HUMAN -            2.8e-27   95.1   4.6     5e-27   94.3   4.6   1.4   1   0   0   1   1   1   1 Scavenger receptor cysteine-rich domain
+Ig_2                 PF13895.6  sp|P12318|FCG2A_HUMAN -            5.1e-26   90.8   1.2   1.5e-12   47.7   0.3   2.4   2   0   0   2   2   2   2 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P12318|FCG2A_HUMAN -              8e-18   64.8   0.5   9.5e-09   35.7   0.3   2.8   2   0   0   2   2   2   2 Immunoglobulin domain
+ig                   PF00047.25 sp|P12318|FCG2A_HUMAN -            2.7e-10   40.3   3.7   0.00032   20.8   0.0   3.1   2   1   0   2   2   2   2 Immunoglobulin domain
+I-set                PF07679.16 sp|P12318|FCG2A_HUMAN -            8.6e-08   32.1   0.6     0.024   14.7   0.3   3.4   2   2   0   2   2   1   2 Immunoglobulin I-set domain
+Ig_4                 PF16680.5  sp|P12318|FCG2A_HUMAN -            1.1e-07   32.0   0.0   0.00013   22.1   0.0   2.5   2   0   0   2   2   1   2 T-cell surface glycoprotein CD3 delta chain
+Ig_5                 PF16681.5  sp|P12318|FCG2A_HUMAN -            7.7e-07   29.4   0.1   0.00019   21.7   0.0   2.8   3   0   0   3   3   1   1 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+V-set                PF07686.17 sp|P12318|FCG2A_HUMAN -            2.6e-06   27.5   5.2       1.4    9.1   0.1   4.3   2   2   2   4   4   0   3 Immunoglobulin V-set domain
+Laminin_EGF          PF00053.24 sp|Q96KG7|MEG10_HUMAN -            1.3e-45  153.3 329.4   0.00079   19.5  15.2  18.1   4   2  13  17  17   4  16 Laminin EGF domain
+hEGF                 PF12661.7  sp|Q96KG7|MEG10_HUMAN -            3.2e-26   91.0 261.5   6.6e-05   23.4   7.0  22.3  22   1   0  22  22   7  16 Human growth factor-like EGF
+EGF_2                PF07974.13 sp|Q96KG7|MEG10_HUMAN -            1.6e-10   41.2 379.0   0.00022   21.5  17.5  25.9  20   8   6  26  26   3  14 EGF-like domain
+Laminin_EGF          PF00053.24 sp|Q5VY43|PEAR1_HUMAN -            8.5e-35  118.7 270.5   0.00039   20.5   8.9  16.1   3   3  11  14  14   6  12 Laminin EGF domain
+EGF_2                PF07974.13 sp|Q5VY43|PEAR1_HUMAN -            5.4e-08   33.1 324.6     0.003   17.9  14.9  23.1  16   8   5  21  21   3  10 EGF-like domain
+Thioredoxin          PF00085.20 sp|Q8NBS9|TXND5_HUMAN -            5.1e-88  289.8   0.0   1.1e-28   99.3   0.0   3.1   3   0   0   3   3   3   3 Thioredoxin
+Thioredoxin_2        PF13098.6  sp|Q8NBS9|TXND5_HUMAN -            2.3e-15   56.9   0.2    0.0039   17.6   0.0   3.8   3   1   0   3   3   3   3 Thioredoxin-like domain
+OST3_OST6            PF04756.13 sp|Q8NBS9|TXND5_HUMAN -            5.6e-09   35.8   0.0    0.0013   18.1   0.0   3.1   3   0   0   3   3   1   3 OST3 / OST6 family, transporter family
+Thioredoxin_8        PF13905.6  sp|Q8NBS9|TXND5_HUMAN -            1.6e-08   34.7   0.4      0.21   11.9   0.0   4.7   3   2   2   5   5   0   3 Thioredoxin-like
+Thioredoxin_7        PF13899.6  sp|Q8NBS9|TXND5_HUMAN -            5.7e-06   26.4   1.5      0.32   11.2   0.1   3.6   3   0   0   3   3   0   3 Thioredoxin-like
+DUF4174              PF13778.6  sp|P78539|SRPX_HUMAN -            3.8e-30  104.8   0.0     5e-30  104.4   0.0   1.2   1   0   0   1   1   1   1 Domain of unknown function (DUF4174)
+HYR                  PF02494.16 sp|P78539|SRPX_HUMAN -              9e-29   99.6   0.0   1.8e-28   98.7   0.0   1.5   1   0   0   1   1   1   1 HYR domain
+Sushi                PF00084.20 sp|P78539|SRPX_HUMAN -            1.9e-24   86.0  26.0   5.8e-11   42.8   4.0   3.4   3   0   0   3   3   3   3 Sushi repeat (SCR repeat)
+WD40                 PF00400.32 sp|Q92747|ARC1A_HUMAN -            1.8e-11   44.4  16.7   0.00015   22.5   0.5   6.1   6   0   0   6   6   2   3 WD domain, G-beta repeat
+ANAPC4_WD40          PF12894.7  sp|Q92747|ARC1A_HUMAN -            2.4e-10   40.5   0.3     0.026   14.8   0.0   3.8   2   1   2   4   4   1   3 Anaphase-promoting complex subunit 4 WD40 domain
+XK-related           PF09815.9  sp|Q9H6D3|XKR8_HUMAN -            1.5e-90  303.7  21.3   1.7e-90  303.5  21.3   1.0   1   0   0   1   1   1   1 XK-related protein
+C1-set               PF07654.15 sp|B9A064|IGLL5_HUMAN -            8.4e-31  106.2   0.2   1.1e-30  105.8   0.2   1.2   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+TAFA                 PF12020.8  sp|Q96LR4|TAFA4_HUMAN -            6.8e-48  161.0  12.4   9.4e-48  160.6  12.4   1.2   1   0   0   1   1   1   1 TAFA family
+Fibrinogen_C         PF00147.18 sp|P02671|FIBA_HUMAN -            9.6e-75  251.2   2.0   9.6e-75  251.2   2.0   1.7   2   0   0   2   2   1   1 Fibrinogen beta and gamma chains, C-terminal globular domain
+Fib_alpha            PF08702.10 sp|P02671|FIBA_HUMAN -            1.5e-43  148.4   2.8   2.7e-43  147.6   2.8   1.4   1   0   0   1   1   1   1 Fibrinogen alpha/beta chain family
+Fibrinogen_aC        PF12160.8  sp|P02671|FIBA_HUMAN -            2.4e-30  104.2   8.0   2.4e-30  104.2   8.0   2.2   2   0   0   2   2   1   1 Fibrinogen alpha C domain
+Fibrinogen_C         PF00147.18 sp|P02675|FIBB_HUMAN -            3.5e-97  324.5  13.5   4.6e-97  324.1  13.5   1.1   1   0   0   1   1   1   1 Fibrinogen beta and gamma chains, C-terminal globular domain
+Fib_alpha            PF08702.10 sp|P02675|FIBB_HUMAN -            4.3e-46  156.7   4.3   5.9e-46  156.2   4.3   1.2   1   0   0   1   1   1   1 Fibrinogen alpha/beta chain family
+Peptidase_C1         PF00112.23 sp|P07711|CATL1_HUMAN -              1e-84  284.0   2.0   1.4e-84  283.5   2.0   1.2   1   0   0   1   1   1   1 Papain family cysteine protease
+Inhibitor_I29        PF08246.12 sp|P07711|CATL1_HUMAN -            1.1e-11   44.9   2.3   2.1e-11   44.1   2.3   1.5   1   0   0   1   1   1   1 Cathepsin propeptide inhibitor domain (I29)
+Peptidase_C1_2       PF03051.15 sp|P07711|CATL1_HUMAN -            3.3e-06   26.2   4.4    0.0014   17.5   1.4   2.2   2   0   0   2   2   1   2 Peptidase C1-like family
+Peptidase_C1         PF00112.23 sp|P07858|CATB_HUMAN -            3.8e-68  229.8   4.6   4.6e-68  229.6   4.6   1.1   1   0   0   1   1   1   1 Papain family cysteine protease
+Propeptide_C1        PF08127.13 sp|P07858|CATB_HUMAN -            5.4e-19   67.8   0.1   1.2e-18   66.7   0.1   1.7   1   0   0   1   1   1   1 Peptidase family C1 propeptide
+Fibrinogen_C         PF00147.18 sp|P02679|FIBG_HUMAN -            3.5e-97  324.5  10.0   4.7e-97  324.1  10.0   1.1   1   0   0   1   1   1   1 Fibrinogen beta and gamma chains, C-terminal globular domain
+Fib_alpha            PF08702.10 sp|P02679|FIBG_HUMAN -            6.5e-48  162.6   9.9   1.1e-47  161.8   9.9   1.4   1   0   0   1   1   1   1 Fibrinogen alpha/beta chain family
+S_100                PF01023.19 sp|P06702|S10A9_HUMAN -            6.1e-20   70.6   0.4   3.2e-19   68.4   0.1   2.0   2   0   0   2   2   1   1 S-100/ICaBP type calcium binding domain
+EF-hand_7            PF13499.6  sp|P06702|S10A9_HUMAN -            8.2e-07   29.4   0.6   1.3e-06   28.8   0.6   1.3   1   0   0   1   1   1   1 EF-hand domain pair
+S_100                PF01023.19 sp|P05109|S10A8_HUMAN -            4.4e-15   55.1   0.0   8.9e-15   54.1   0.0   1.5   1   0   0   1   1   1   1 S-100/ICaBP type calcium binding domain
+Peptidase_C1         PF00112.23 sp|P43235|CATK_HUMAN -            4.5e-82  275.4   4.9   5.7e-82  275.0   4.9   1.1   1   0   0   1   1   1   1 Papain family cysteine protease
+Inhibitor_I29        PF08246.12 sp|P43235|CATK_HUMAN -            5.4e-11   42.8   0.3     1e-10   41.9   0.3   1.5   1   0   0   1   1   1   1 Cathepsin propeptide inhibitor domain (I29)
+Peptidase_C1_2       PF03051.15 sp|P43235|CATK_HUMAN -            2.4e-08   33.2   1.2   6.1e-05   22.0   0.6   2.2   2   0   0   2   2   1   2 Peptidase C1-like family
+Peptidase_C1         PF00112.23 sp|P25774|CATS_HUMAN -            1.6e-81  273.5   3.8   2.2e-81  273.1   3.8   1.2   1   0   0   1   1   1   1 Papain family cysteine protease
+Inhibitor_I29        PF08246.12 sp|P25774|CATS_HUMAN -            1.3e-12   48.0   0.4   3.3e-12   46.7   0.4   1.7   1   0   0   1   1   1   1 Cathepsin propeptide inhibitor domain (I29)
+Collagen             PF01391.18 sp|P35247|SFTPD_HUMAN -              5e-30  103.1 103.8     5e-10   39.0  28.7   4.2   1   1   2   3   3   2   3 Collagen triple helix repeat (20 copies)
+Surfac_D-trimer      PF09006.11 sp|P35247|SFTPD_HUMAN -            3.8e-29  100.3   1.4   8.3e-29   99.2   1.4   1.6   1   0   0   1   1   1   1 Lung surfactant protein D coiled-coil trimerisation
+Lectin_C             PF00059.21 sp|P35247|SFTPD_HUMAN -            2.6e-22   79.6   0.0   3.8e-22   79.1   0.0   1.2   1   0   0   1   1   1   1 Lectin C-type domain
+Lectin_C             PF00059.21 sp|Q8IWL1|SFPA2_HUMAN -            9.3e-24   84.2   0.0   1.2e-23   83.9   0.0   1.1   1   0   0   1   1   1   1 Lectin C-type domain
+Collagen             PF01391.18 sp|Q8IWL1|SFPA2_HUMAN -            3.3e-11   42.8  34.9     5e-06   26.2  15.1   2.5   1   1   1   2   2   2   2 Collagen triple helix repeat (20 copies)
+LRR_8                PF13855.6  sp|O60603|TLR2_HUMAN -            1.5e-35  120.7  47.0   1.1e-13   50.7   7.4   7.9   5   2   2   7   7   4   7 Leucine rich repeat
+TIR                  PF01582.20 sp|O60603|TLR2_HUMAN -            1.6e-21   76.9   1.7   1.9e-21   76.6   0.6   1.8   2   0   0   2   2   1   1 TIR domain
+LRR_4                PF12799.7  sp|O60603|TLR2_HUMAN -            3.1e-19   68.7  52.7   0.00065   20.0   1.5   9.2   7   2   1   8   8   4   6 Leucine Rich repeats (2 copies)
+TIR_2                PF13676.6  sp|O60603|TLR2_HUMAN -            6.1e-15   55.9   0.1   2.2e-13   50.9   0.1   2.6   2   0   0   2   2   1   1 TIR domain
+LRR_9                PF14580.6  sp|O60603|TLR2_HUMAN -            1.1e-08   34.8  15.7   8.1e-05   22.2   0.4   4.7   2   2   1   4   4   1   2 Leucine-rich repeat
+LRR_5                PF13306.6  sp|O60603|TLR2_HUMAN -            3.5e-07   30.2   1.5   3.5e-07   30.2   1.5   4.3   3   1   1   4   4   1   2 BspA type Leucine rich repeat region (6 copies)
+LRR_1                PF00560.33 sp|O60603|TLR2_HUMAN -            2.9e-06   27.1  34.1     0.072   13.7   0.5  10.7  10   1   0  10  10   0   3 Leucine Rich Repeat
+Vitellogenin_N       PF01347.22 sp|P04114|APOB_HUMAN -           5.9e-104  348.7   2.8  5.9e-104  348.7   2.8   3.2   3   0   0   3   3   1   2 Lipoprotein amino terminal region
+DUF1943              PF09172.11 sp|P04114|APOB_HUMAN -            7.2e-79  265.2   0.1   7.2e-79  265.2   0.1   3.1   2   1   1   3   3   1   1 Domain of unknown function (DUF1943)
+DUF1081              PF06448.11 sp|P04114|APOB_HUMAN -            1.3e-40  138.3   0.3   1.3e-40  138.3   0.3   4.4   4   0   0   4   4   1   1 Domain of Unknown Function (DUF1081)
+ApoB100_C            PF12491.8  sp|P04114|APOB_HUMAN -            5.8e-31  106.2   4.0   5.8e-31  106.2   4.0   4.9   4   0   0   4   4   1   1 Apolipoprotein B100 C terminal
+HSP90                PF00183.18 sp|P14625|ENPL_HUMAN -           1.1e-227  757.1  28.6  1.1e-227  757.1  28.6   1.7   1   1   1   2   2   1   1 Hsp90 protein
+HATPase_c            PF02518.26 sp|P14625|ENPL_HUMAN -              2e-13   50.8   0.4   3.6e-13   50.0   0.4   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c_3          PF13589.6  sp|P14625|ENPL_HUMAN -            3.8e-11   43.0   0.4     1e-10   41.5   0.4   1.8   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+LRR_8                PF13855.6  sp|Q7L0X0|TRIL_HUMAN -            4.6e-72  237.7  45.0   1.1e-17   63.6   3.1   5.5   3   1   3   6   6   6   6 Leucine rich repeat
+LRR_4                PF12799.7  sp|Q7L0X0|TRIL_HUMAN -            6.6e-23   80.4  25.6   4.5e-06   26.9   0.2   7.0   6   1   0   7   7   3   6 Leucine Rich repeats (2 copies)
+LRR_9                PF14580.6  sp|Q7L0X0|TRIL_HUMAN -            6.4e-15   55.1   0.6    0.0028   17.2   0.1   4.3   1   1   3   4   4   2   4 Leucine-rich repeat
+LRR_1                PF00560.33 sp|Q7L0X0|TRIL_HUMAN -            8.4e-12   43.9  31.2      0.31   11.8   0.1  11.9  13   0   0  13  13   0   3 Leucine Rich Repeat
+LRR_5                PF13306.6  sp|Q7L0X0|TRIL_HUMAN -            5.1e-09   36.2   0.0      0.18   11.8   0.0   3.3   1   1   0   3   3   0   3 BspA type Leucine rich repeat region (6 copies)
+LRRCT                PF01463.24 sp|Q7L0X0|TRIL_HUMAN -              6e-06   26.4   0.2   5.8e-05   23.3   0.2   2.9   1   0   0   1   1   1   1 Leucine rich repeat C-terminal domain
+ubiquitin            PF00240.23 sp|P62987|RL40_HUMAN -            5.1e-35  119.0   0.3   6.9e-35  118.6   0.3   1.2   1   0   0   1   1   1   1 Ubiquitin family
+Ribosomal_L40e       PF01020.17 sp|P62987|RL40_HUMAN -            3.4e-33  113.3  12.3   5.2e-33  112.7  12.3   1.3   1   0   0   1   1   1   1 Ribosomal L40e family
+Rad60-SLD            PF11976.8  sp|P62987|RL40_HUMAN -            7.5e-17   60.9   0.4   7.5e-17   60.9   0.4   1.4   2   0   0   2   2   1   1 Ubiquitin-2 like Rad60 SUMO-like
+Ubiquitin_2          PF14560.6  sp|P62987|RL40_HUMAN -            5.5e-06   26.8   0.1     2e-05   25.0   0.1   1.8   1   1   0   1   1   1   1 Ubiquitin-like domain
+LRR_8                PF13855.6  sp|Q9NR96|TLR9_HUMAN -            7.2e-91  297.9  70.7   2.2e-11   43.3   0.0  15.0   9   4   7  16  16  13  15 Leucine rich repeat
+LRR_4                PF12799.7  sp|Q9NR96|TLR9_HUMAN -            4.6e-50  166.7  54.1   0.00068   20.0   0.5  14.7   9   4   3  14  14   6  13 Leucine Rich repeats (2 copies)
+LRR_12               PF18837.1  sp|Q9NR96|TLR9_HUMAN -            8.8e-19   66.9   0.9   8.8e-19   66.9   0.9   4.9   5   0   0   5   5   1   1 Leucine-rich repeat
+LRR_1                PF00560.33 sp|Q9NR96|TLR9_HUMAN -              2e-18   64.1  57.6       1.9    9.4   0.1  22.2  21   3   1  22  22   0   3 Leucine Rich Repeat
+LRR_6                PF13516.6  sp|Q9NR96|TLR9_HUMAN -            8.4e-11   41.0  77.6       1.4    9.2   0.8  19.6  23   0   0  23  23   0   9 Leucine Rich repeat
+TIR                  PF01582.20 sp|Q9NR96|TLR9_HUMAN -            5.5e-07   29.5   0.0   8.8e-07   28.9   0.0   1.2   1   0   0   1   1   1   1 TIR domain
+LRR_9                PF14580.6  sp|Q9NR96|TLR9_HUMAN -              6e-07   29.1   9.8      0.38   10.3   0.0   6.8   5   3   1   7   7   0   2 Leucine-rich repeat
+TIR                  PF01582.20 sp|Q15399|TLR1_HUMAN -            2.1e-27   96.0   0.3   5.8e-27   94.6   0.3   1.8   1   0   0   1   1   1   1 TIR domain
+LRR_8                PF13855.6  sp|Q15399|TLR1_HUMAN -            5.1e-21   74.2  36.5   4.5e-11   42.3   3.1   7.8   3   2   6   9   9   4   8 Leucine rich repeat
+LRR_4                PF12799.7  sp|Q15399|TLR1_HUMAN -            4.9e-19   68.1  43.0   1.7e-05   25.1   0.2   8.8   6   2   3   9   9   6   7 Leucine Rich repeats (2 copies)
+TIR_2                PF13676.6  sp|Q15399|TLR1_HUMAN -            8.8e-19   68.2   0.1   1.2e-17   64.5   0.0   2.5   2   0   0   2   2   1   1 TIR domain
+LRR_9                PF14580.6  sp|Q15399|TLR1_HUMAN -            1.8e-07   30.8   6.7     0.049   13.1   0.2   3.5   3   0   0   3   3   0   3 Leucine-rich repeat
+TIR                  PF01582.20 sp|Q9Y2C9|TLR6_HUMAN -            2.3e-27   95.9   1.0     4e-27   95.2   1.0   1.4   1   0   0   1   1   1   1 TIR domain
+LRR_8                PF13855.6  sp|Q9Y2C9|TLR6_HUMAN -            5.3e-21   74.1  28.8     7e-11   41.7   4.9   7.3   3   2   6   9   9   4   6 Leucine rich repeat
+TIR_2                PF13676.6  sp|Q9Y2C9|TLR6_HUMAN -            2.3e-19   70.1   0.0   6.7e-19   68.6   0.0   1.8   1   0   0   1   1   1   1 TIR domain
+LRR_4                PF12799.7  sp|Q9Y2C9|TLR6_HUMAN -            7.9e-17   61.1  35.1   3.5e-05   24.1   2.5   7.9   6   2   3   9   9   4   6 Leucine Rich repeats (2 copies)
+LRR_6                PF13516.6  sp|Q9Y2C9|TLR6_HUMAN -              1e-07   31.4  20.6      0.48   10.6   0.1  10.3  11   0   0  11  11   0   3 Leucine Rich repeat
+LRR_9                PF14580.6  sp|Q9Y2C9|TLR6_HUMAN -            2.4e-06   27.1   7.3     0.024   14.1   0.5   4.0   3   1   1   4   4   1   3 Leucine-rich repeat
+SIT                  PF15330.6  sp|Q8TDQ1|CLM1_HUMAN -            7.8e-35  119.8   0.8   1.6e-34  118.8   0.8   1.5   1   0   0   1   1   1   1 SHP2-interacting transmembrane adaptor protein, SIT
+V-set                PF07686.17 sp|Q8TDQ1|CLM1_HUMAN -            1.4e-12   47.7   0.9   2.2e-12   47.1   0.9   1.3   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+Cpn60_TCP1           PF00118.24 sp|P10809|CH60_HUMAN -              4e-86  289.6  18.7   1.2e-85  288.0  18.7   1.6   1   1   0   1   1   1   1 TCP-1/cpn60 chaperonin family
+Peptidase_C13        PF01650.18 sp|Q99538|LGMN_HUMAN -             1e-115  385.6   2.8  1.4e-115  385.2   2.8   1.1   1   0   0   1   1   1   1 Peptidase C13 family
+ubiquitin            PF00240.23 sp|P0CG47|UBB_HUMAN  -           2.8e-105  344.2  10.1   2.7e-34  116.7   0.3   3.0   3   0   0   3   3   3   3 Ubiquitin family
+Rad60-SLD            PF11976.8  sp|P0CG47|UBB_HUMAN  -            4.3e-51  170.6  10.7   2.9e-16   59.1   0.4   3.0   3   0   0   3   3   3   3 Ubiquitin-2 like Rad60 SUMO-like
+Ubiquitin_2          PF14560.6  sp|P0CG47|UBB_HUMAN  -            2.3e-20   72.8   3.3     7e-05   23.2   0.1   4.5   3   3   0   3   3   3   3 Ubiquitin-like domain
+TBK1_ULD             PF18396.1  sp|P0CG47|UBB_HUMAN  -            1.2e-12   47.6   1.7     0.014   15.3   0.1   3.2   3   0   0   3   3   3   3 TANK binding kinase 1 ubiquitin-like domain
+Rad60-SLD_2          PF13881.6  sp|P0CG47|UBB_HUMAN  -            7.3e-12   45.4   1.0     0.043   13.9   0.0   4.0   3   3   0   3   3   0   3 Ubiquitin-2 like Rad60 SUMO-like
+Ubiquitin_5          PF18037.1  sp|P0CG47|UBB_HUMAN  -            1.1e-11   44.9   2.5     0.029   14.7   0.1   3.1   3   0   0   3   3   0   3 Ubiquitin-like domain
+DUF2407              PF10302.9  sp|P0CG47|UBB_HUMAN  -            2.9e-09   37.4   0.1      0.38   11.4   0.0   3.2   1   1   1   3   3   0   3 DUF2407 ubiquitin-like domain
+Sde2_N_Ubi           PF13019.6  sp|P0CG47|UBB_HUMAN  -            1.4e-06   28.3   0.0       1.6    8.6   0.0   3.1   1   1   2   3   3   0   3 Silencing defective 2 N-terminal ubiquitin domain
+Ubiquitin_4          PF18036.1  sp|P0CG47|UBB_HUMAN  -            4.2e-06   26.7  14.1        17    5.6   0.0   6.0   6   0   0   6   6   0   3 Ubiquitin-like domain
+Lectin_C             PF00059.21 sp|Q6UW15|REG3G_HUMAN -            1.7e-20   73.8   0.1   2.2e-20   73.4   0.1   1.1   1   0   0   1   1   1   1 Lectin C-type domain
+LRR_8                PF13855.6  sp|O15455|TLR3_HUMAN -            9.9e-79  259.0  94.4   1.1e-11   44.2   2.6  11.1   7   4   3  11  11  11  11 Leucine rich repeat
+LRR_4                PF12799.7  sp|O15455|TLR3_HUMAN -            3.2e-33  113.2 101.3   1.7e-05   25.1   6.4  13.8   5   3  13  18  18   9  15 Leucine Rich repeats (2 copies)
+LRR_5                PF13306.6  sp|O15455|TLR3_HUMAN -            2.3e-21   76.1  29.4   1.6e-06   28.1   6.7   6.1   2   1   5   7   7   3   6 BspA type Leucine rich repeat region (6 copies)
+Tlr3_TMD             PF17968.1  sp|O15455|TLR3_HUMAN -            3.8e-18   65.4   4.4   8.9e-18   64.2   4.4   1.7   1   0   0   1   1   1   1 Toll-like receptor 3 trans-membrane domain
+LRR_9                PF14580.6  sp|O15455|TLR3_HUMAN -            4.5e-13   49.1  35.4     6e-06   25.9   1.7   7.6   2   1   7   9   9   2   6 Leucine-rich repeat
+LRR_1                PF00560.33 sp|O15455|TLR3_HUMAN -              5e-12   44.6  81.3       1.6    9.6   0.1  20.7  21   1   0  21  21   0   6 Leucine Rich Repeat
+LRR_6                PF13516.6  sp|O15455|TLR3_HUMAN -            5.1e-09   35.5  86.4      0.36   11.0   0.1  18.7  19   0   0  19  19   0   7 Leucine Rich repeat
+TIR                  PF01582.20 sp|O15455|TLR3_HUMAN -            1.6e-08   34.6   0.6   2.9e-08   33.7   0.6   1.4   1   0   0   1   1   1   1 TIR domain
+TIR_2                PF13676.6  sp|O15455|TLR3_HUMAN -            4.9e-06   27.2   0.2   1.3e-05   25.8   0.1   1.7   2   0   0   2   2   1   1 TIR domain
+ubiquitin            PF00240.23 sp|P62979|RS27A_HUMAN -              6e-35  118.8   0.3   1.2e-34  117.9   0.3   1.5   1   0   0   1   1   1   1 Ubiquitin family
+Ribosomal_S27        PF01599.19 sp|P62979|RS27A_HUMAN -            4.1e-28   97.3   4.3   8.2e-28   96.3   4.3   1.5   1   0   0   1   1   1   1 Ribosomal protein S27a
+Rad60-SLD            PF11976.8  sp|P62979|RS27A_HUMAN -            6.1e-17   61.2   0.4   1.2e-16   60.2   0.4   1.5   1   0   0   1   1   1   1 Ubiquitin-2 like Rad60 SUMO-like
+Ubiquitin_2          PF14560.6  sp|P62979|RS27A_HUMAN -              6e-06   26.6   0.3   3.2e-05   24.3   0.1   2.2   2   1   0   2   2   1   1 Ubiquitin-like domain
+ubiquitin            PF00240.23 sp|P0CG48|UBC_HUMAN  -                  0  996.9  46.3   1.6e-33  114.3   0.3   9.0   9   0   0   9   9   9   9 Ubiquitin family
+Rad60-SLD            PF11976.8  sp|P0CG48|UBC_HUMAN  -           1.5e-146  476.5  48.2   1.7e-15   56.6   0.4   9.0   9   0   0   9   9   9   9 Ubiquitin-2 like Rad60 SUMO-like
+Ubiquitin_2          PF14560.6  sp|P0CG48|UBC_HUMAN  -            1.2e-54  182.8  22.3   0.00038   20.9   0.1  11.3   9   9   0   9   9   9   9 Ubiquitin-like domain
+TBK1_ULD             PF18396.1  sp|P0CG48|UBC_HUMAN  -            1.2e-33  114.8  16.3     0.075   13.0   0.0   9.2   9   0   0   9   9   0   9 TANK binding kinase 1 ubiquitin-like domain
+Rad60-SLD_2          PF13881.6  sp|P0CG48|UBC_HUMAN  -            1.3e-29  102.6  15.9      0.25   11.4   0.0  10.2   9   0   0   9   9   0   9 Ubiquitin-2 like Rad60 SUMO-like
+Ubiquitin_5          PF18037.1  sp|P0CG48|UBC_HUMAN  -            1.5e-29  102.3  21.8      0.16   12.3   0.1   9.1   9   0   0   9   9   0   9 Ubiquitin-like domain
+DUF2407              PF10302.9  sp|P0CG48|UBC_HUMAN  -            1.3e-25   90.0   5.5       1.9    9.1   0.0   9.2   1   1   2   9   9   0   9 DUF2407 ubiquitin-like domain
+DUF2870              PF11069.8  sp|P0CG48|UBC_HUMAN  -            1.4e-12   47.9   0.0        80    3.7   0.0   9.6   9   0   0   9   9   0   0 Protein of unknown function (DUF2870)
+UDP-g_GGTase         PF06427.11 sp|P0CG48|UBC_HUMAN  -            4.7e-11   42.8  15.2        17    5.6   0.0   8.6   9   0   0   9   9   0   0 UDP-glucose:Glycoprotein Glucosyltransferase
+RBD                  PF02196.15 sp|P0CG48|UBC_HUMAN  -            6.4e-11   42.2   0.0     1e+02    3.1   0.0   9.1   9   0   0   9   9   0   0 Raf-like Ras-binding domain
+DUF969               PF06149.12 sp|P0CG48|UBC_HUMAN  -            3.5e-09   36.4   0.7        69    2.8   0.0   8.5   9   0   0   9   9   0   0 Protein of unknown function (DUF969)
+Ubiquitin_4          PF18036.1  sp|P0CG48|UBC_HUMAN  -            7.6e-08   32.3  58.4        69    3.6   0.0  17.5  18   0   0  18  18   0   0 Ubiquitin-like domain
+Big_7                PF17957.1  sp|P0CG48|UBC_HUMAN  -            1.6e-07   32.0   0.0   4.1e+02    1.8   0.0   8.5   9   0   0   9   9   0   0 Bacterial Ig domain
+ORF11CD3             PF10549.9  sp|P0CG48|UBC_HUMAN  -            2.4e-07   30.7   0.0   2.5e+02    1.9   0.0   8.9   9   0   0   9   9   0   0 ORF11CD3 domain
+DUF3861              PF12977.7  sp|P0CG48|UBC_HUMAN  -            1.4e-06   28.3  11.4   1.3e+02    2.8   0.0   8.9   9   0   0   9   9   0   0 Domain of Unknown Function with PDB structure (DUF3861)
+Pkinase_Tyr          PF07714.17 sp|Q9NWZ3|IRAK4_HUMAN -            5.9e-53  179.8   0.0   9.5e-53  179.1   0.0   1.3   1   0   0   1   1   1   1 Protein tyrosine kinase
+Pkinase              PF00069.25 sp|Q9NWZ3|IRAK4_HUMAN -            8.3e-53  179.4   0.1   1.2e-52  178.9   0.1   1.1   1   0   0   1   1   1   1 Protein kinase domain
+TIR                  PF01582.20 sp|Q9BXR5|TLR10_HUMAN -            2.9e-23   82.6   0.2   5.2e-23   81.7   0.2   1.4   1   0   0   1   1   1   1 TIR domain
+LRR_8                PF13855.6  sp|Q9BXR5|TLR10_HUMAN -            2.6e-22   78.4  44.5   2.1e-12   46.6   4.2   6.9   4   2   4   8   8   4   5 Leucine rich repeat
+LRR_4                PF12799.7  sp|Q9BXR5|TLR10_HUMAN -            2.1e-17   62.9  45.5   1.8e-06   28.2   0.3   8.3   6   3   2   8   8   3   7 Leucine Rich repeats (2 copies)
+TIR_2                PF13676.6  sp|Q9BXR5|TLR10_HUMAN -            2.4e-13   50.7   0.0   8.6e-13   48.9   0.0   2.0   1   0   0   1   1   1   1 TIR domain
+LRR_1                PF00560.33 sp|Q9BXR5|TLR10_HUMAN -              4e-07   29.7  40.5      0.92   10.3   0.1  12.3  12   0   0  12  12   0   3 Leucine Rich Repeat
+LRR_6                PF13516.6  sp|Q9BXR5|TLR10_HUMAN -            8.9e-06   25.4  30.6       4.3    7.7   0.0  10.7  11   0   0  11  11   0   4 Leucine Rich repeat
+LRR_8                PF13855.6  sp|O60602|TLR5_HUMAN -            7.7e-61  201.7  58.9   2.2e-13   49.7   4.8  10.8   6   2   5  11  11   6   9 Leucine rich repeat
+TIR                  PF01582.20 sp|O60602|TLR5_HUMAN -            2.9e-37  128.2   0.8   4.4e-37  127.6   0.8   1.3   1   0   0   1   1   1   1 TIR domain
+LRR_4                PF12799.7  sp|O60602|TLR5_HUMAN -            1.8e-25   88.6  58.4     7e-05   23.1   2.9  11.5   6   4   5  12  12   4  10 Leucine Rich repeats (2 copies)
+LRR_5                PF13306.6  sp|O60602|TLR5_HUMAN -              4e-13   49.4   6.2   2.4e-07   30.8   0.1   5.3   3   3   1   5   5   1   2 BspA type Leucine rich repeat region (6 copies)
+TIR_2                PF13676.6  sp|O60602|TLR5_HUMAN -            8.1e-11   42.6   0.1   2.5e-10   41.0   0.1   1.8   1   0   0   1   1   1   1 TIR domain
+LRR_9                PF14580.6  sp|O60602|TLR5_HUMAN -            8.8e-11   41.6  17.3    0.0021   17.6   1.1   5.7   2   2   4   6   6   2   5 Leucine-rich repeat
+LRR_1                PF00560.33 sp|O60602|TLR5_HUMAN -            1.3e-08   34.2  44.5      0.97   10.2   0.4  15.2  14   3   0  14  14   0   4 Leucine Rich Repeat
+LRR_8                PF13855.6  sp|Q9NYK1|TLR7_HUMAN -            3.2e-72  238.2  97.4   2.5e-10   39.9   1.1  14.7  10   3   3  14  14  12  14 Leucine rich repeat
+LRR_4                PF12799.7  sp|Q9NYK1|TLR7_HUMAN -            4.9e-35  119.0 105.8   1.2e-06   28.7   5.7  16.7   7   3  15  22  22   7  15 Leucine Rich repeats (2 copies)
+LRR_5                PF13306.6  sp|Q9NYK1|TLR7_HUMAN -            2.8e-14   53.2  27.5   1.7e-05   24.8   1.4   7.0   3   1   3   7   7   1   5 BspA type Leucine rich repeat region (6 copies)
+TIR                  PF01582.20 sp|Q9NYK1|TLR7_HUMAN -            4.5e-13   49.4   0.1   7.4e-13   48.7   0.1   1.3   1   0   0   1   1   1   1 TIR domain
+LRR_9                PF14580.6  sp|Q9NYK1|TLR7_HUMAN -            9.3e-12   44.8  41.7    0.0046   16.5   0.7   7.4   3   3   3   7   7   3   6 Leucine-rich repeat
+LRR_1                PF00560.33 sp|Q9NYK1|TLR7_HUMAN -            1.4e-11   43.3  84.5       1.2   10.0   1.4  21.5  21   5   0  21  21   0   8 Leucine Rich Repeat
+LRR_12               PF18837.1  sp|Q9NYK1|TLR7_HUMAN -            1.9e-08   33.8   0.5   1.9e-08   33.8   0.5   4.6   4   0   0   4   4   1   1 Leucine-rich repeat
+TIR_2                PF13676.6  sp|Q9NYK1|TLR7_HUMAN -            2.4e-07   31.4   0.1   1.3e-06   29.0   0.0   2.2   2   0   0   2   2   1   1 TIR domain
+LRR_8                PF13855.6  sp|Q9NR97|TLR8_HUMAN -            3.2e-79  260.6 107.5   2.7e-10   39.9   8.6  14.8   9   5   6  15  15  12  14 Leucine rich repeat
+LRR_4                PF12799.7  sp|Q9NR97|TLR8_HUMAN -            9.7e-39  130.7 116.5   1.3e-05   25.4   0.1  15.5   9   4  10  19  19   7  18 Leucine Rich repeats (2 copies)
+TIR                  PF01582.20 sp|Q9NR97|TLR8_HUMAN -            2.5e-16   60.0   0.6   4.7e-16   59.1   0.6   1.4   1   0   0   1   1   1   1 TIR domain
+LRR_1                PF00560.33 sp|Q9NR97|TLR8_HUMAN -            2.1e-12   45.8  99.7      0.16   12.6   0.0  22.1  22   4   1  23  23   0   8 Leucine Rich Repeat
+LRR_5                PF13306.6  sp|Q9NR97|TLR8_HUMAN -            2.3e-11   43.8  30.9     0.001   19.0   0.6   8.3   2   2   2   6   6   1   5 BspA type Leucine rich repeat region (6 copies)
+TIR_2                PF13676.6  sp|Q9NR97|TLR8_HUMAN -              1e-10   42.3   0.5   2.7e-10   40.9   0.5   1.7   1   0   0   1   1   1   1 TIR domain
+UQ_con               PF00179.26 sp|P62837|UB2D2_HUMAN -            6.5e-54  181.4   0.0   7.3e-54  181.2   0.0   1.0   1   0   0   1   1   1   1 Ubiquitin-conjugating enzyme
+Pkinase              PF00069.25 sp|P51812|KS6A3_HUMAN -             1e-146  487.3   0.0   1.2e-73  247.7   0.0   2.2   2   0   0   2   2   2   2 Protein kinase domain
+Pkinase_Tyr          PF07714.17 sp|P51812|KS6A3_HUMAN -            1.1e-78  264.1   0.0   4.1e-42  144.2   0.0   2.1   2   0   0   2   2   2   2 Protein tyrosine kinase
+Kinase-like          PF14531.6  sp|P51812|KS6A3_HUMAN -              2e-14   53.6   0.0   3.3e-07   29.9   0.0   2.8   3   0   0   3   3   2   2 Kinase-like
+Kdo                  PF06293.14 sp|P51812|KS6A3_HUMAN -            3.9e-11   42.7   0.0   1.7e-05   24.3   0.0   2.9   3   0   0   3   3   2   2 Lipopolysaccharide kinase (Kdo/WaaP) family
+Pkinase_fungal       PF17667.1  sp|P51812|KS6A3_HUMAN -            6.6e-09   35.0   0.0   0.00048   19.0   0.0   2.4   2   0   0   2   2   2   2 Fungal protein kinase
+Pkinase_C            PF00433.24 sp|P51812|KS6A3_HUMAN -            1.4e-07   32.1   1.8   4.2e-07   30.6   1.8   1.9   1   0   0   1   1   1   1 Protein kinase C terminal domain
+Haspin_kinase        PF12330.8  sp|P51812|KS6A3_HUMAN -            3.3e-07   29.6   0.1    0.0044   16.0   0.1   2.2   2   0   0   2   2   1   2 Haspin like kinase domain
+UQ_con               PF00179.26 sp|P61077|UB2D3_HUMAN -            3.7e-53  179.0   0.0   4.1e-53  178.8   0.0   1.0   1   0   0   1   1   1   1 Ubiquitin-conjugating enzyme
+Raftlin              PF15250.6  sp|Q14699|RFTN1_HUMAN -           3.9e-231  767.7   0.2  1.6e-230  765.7   0.0   1.8   1   1   1   2   2   1   1 Raftlin
+S_100                PF01023.19 sp|Q9HCY8|S10AE_HUMAN -              2e-14   53.0   0.0   4.2e-14   52.0   0.0   1.6   2   0   0   2   2   1   1 S-100/ICaBP type calcium binding domain
+zf-TRAF              PF02176.18 sp|Q9Y4K3|TRAF6_HUMAN -            1.8e-20   73.3  35.7   2.4e-19   69.8   5.7   4.3   3   1   1   4   4   1   3 TRAF-type zinc finger
+TRAF6_Z2             PF18048.1  sp|Q9Y4K3|TRAF6_HUMAN -            2.8e-14   52.9   6.1   2.8e-14   52.9   6.1   4.2   4   0   0   4   4   1   1 TNF receptor-associated factor 6 zinc finger 2
+zf-C3HC4_2           PF13923.6  sp|Q9Y4K3|TRAF6_HUMAN -            7.8e-10   38.4   5.8   7.8e-10   38.4   5.8   3.2   3   0   0   3   3   1   1 Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4             PF00097.25 sp|Q9Y4K3|TRAF6_HUMAN -            1.8e-08   34.1   5.6   1.8e-08   34.1   5.6   3.9   3   1   0   3   3   1   1 Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4_3           PF13920.6  sp|Q9Y4K3|TRAF6_HUMAN -            2.5e-07   30.4   4.7   2.5e-07   30.4   4.7   4.4   2   1   2   4   4   1   1 Zinc finger, C3HC4 type (RING finger)
+zf-RING_2            PF13639.6  sp|Q9Y4K3|TRAF6_HUMAN -            4.2e-07   30.2   4.7   4.2e-07   30.2   4.7   3.9   3   1   2   5   5   1   1 Ring finger domain
+zf-RING_UBOX         PF13445.6  sp|Q9Y4K3|TRAF6_HUMAN -            5.5e-07   29.5   6.3   5.5e-07   29.5   6.3   2.9   2   0   0   2   2   1   1 RING-type zinc-finger
+zf-C3HC4_4           PF15227.6  sp|Q9Y4K3|TRAF6_HUMAN -            5.1e-06   26.5   4.2   5.1e-06   26.5   4.2   3.6   4   0   0   4   4   1   1 zinc finger of C3HC4-type, RING
+CUE                  PF02845.16 sp|Q8N5C8|TAB3_HUMAN -            2.5e-10   39.8   0.2   8.3e-10   38.2   0.2   1.9   2   0   0   2   2   1   1 CUE domain
+S_100                PF01023.19 sp|P23297|S10A1_HUMAN -            1.2e-21   76.1   1.2   1.9e-21   75.5   1.2   1.3   1   0   0   1   1   1   1 S-100/ICaBP type calcium binding domain
+EF-hand_7            PF13499.6  sp|P23297|S10A1_HUMAN -            9.1e-08   32.4   0.7   1.1e-07   32.1   0.7   1.3   1   1   0   1   1   1   1 EF-hand domain pair
+EF-hand_1            PF00036.32 sp|P23297|S10A1_HUMAN -            1.2e-07   30.7   2.0   2.1e-06   26.9   0.1   2.8   3   0   0   3   3   1   1 EF hand
+Pkinase              PF00069.25 sp|P49137|MAPK2_HUMAN -            2.3e-68  230.4   0.0   3.2e-68  230.0   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+Pkinase_Tyr          PF07714.17 sp|P49137|MAPK2_HUMAN -            8.8e-29  100.6   0.0   1.3e-28  100.0   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+Kdo                  PF06293.14 sp|P49137|MAPK2_HUMAN -            2.8e-06   26.8   0.0   4.5e-06   26.2   0.0   1.3   1   0   0   1   1   1   1 Lipopolysaccharide kinase (Kdo/WaaP) family
+V-set                PF07686.17 sp|Q8TDQ0|HAVR2_HUMAN -            1.9e-13   50.5   0.0   3.7e-13   49.6   0.0   1.5   1   0   0   1   1   1   1 Immunoglobulin V-set domain
+LRR19-TM             PF15176.6  sp|Q9H756|LRC19_HUMAN -            2.9e-45  152.5   0.5   5.8e-45  151.5   0.1   1.7   2   0   0   2   2   1   1 Leucine-rich repeat family 19 TM domain
+LRR_8                PF13855.6  sp|Q9H756|LRC19_HUMAN -            4.2e-19   68.0  12.8   1.4e-16   60.0   3.6   3.6   1   1   1   2   2   2   2 Leucine rich repeat
+Trypsin              PF00089.26 sp|P00750|TPA_HUMAN  -            2.8e-70  236.6   0.0   4.1e-70  236.0   0.0   1.3   1   0   0   1   1   1   1 Trypsin
+Kringle              PF00051.18 sp|P00750|TPA_HUMAN  -            3.8e-47  158.5  24.1   1.8e-26   92.2   2.2   2.9   3   0   0   3   3   2   2 Kringle domain
+fn1                  PF00039.18 sp|P00750|TPA_HUMAN  -              1e-09   38.4   4.2   3.9e-09   36.5   4.2   2.1   1   0   0   1   1   1   1 Fibronectin type I domain
+EGF                  PF00008.27 sp|P00750|TPA_HUMAN  -            1.9e-06   28.0   6.2   1.9e-06   28.0   6.2   3.5   3   0   0   3   3   1   1 EGF-like domain
+Sushi                PF00084.20 sp|P02749|APOH_HUMAN -            2.7e-43  146.4  26.4   5.3e-12   46.1   0.7   5.2   5   0   0   5   5   4   4 Sushi repeat (SCR repeat)
+Sushi_2              PF09014.10 sp|P02749|APOH_HUMAN -            1.9e-34  117.4   5.3   4.4e-34  116.2   5.3   1.7   1   0   0   1   1   1   1 Beta-2-glycoprotein-1 fifth domain
+Trypsin              PF00089.26 sp|P03952|KLKB1_HUMAN -            1.4e-75  253.9   1.7   2.7e-75  253.0   1.7   1.5   1   0   0   1   1   1   1 Trypsin
+PAN_1                PF00024.26 sp|P03952|KLKB1_HUMAN -            7.5e-36  122.0  33.7   6.2e-11   42.1   2.7   4.7   5   0   0   5   5   4   4 PAN domain
+PAN_4                PF14295.6  sp|P03952|KLKB1_HUMAN -            3.6e-15   55.6  15.3   8.4e-07   28.8   0.4   4.9   4   0   0   4   4   1   4 PAN domain
+Trypsin              PF00089.26 sp|P03951|FA11_HUMAN -            2.4e-73  246.6   2.0   3.7e-73  246.0   2.0   1.3   1   0   0   1   1   1   1 Trypsin
+PAN_1                PF00024.26 sp|P03951|FA11_HUMAN -            6.4e-34  115.8  30.7     3e-08   33.5   2.4   5.0   5   0   0   5   5   4   4 PAN domain
+PAN_4                PF14295.6  sp|P03951|FA11_HUMAN -            8.2e-18   64.1  22.8   4.9e-07   29.6   1.4   5.2   5   0   0   5   5   3   4 PAN domain
+Trypsin_2            PF13365.6  sp|P03951|FA11_HUMAN -            2.7e-06   28.3   0.0   1.1e-05   26.3   0.0   2.0   2   0   0   2   2   1   1 Trypsin-like peptidase domain
+Trypsin              PF00089.26 sp|P00749|UROK_HUMAN -            9.7e-70  234.8   0.1   1.3e-69  234.4   0.1   1.2   1   0   0   1   1   1   1 Trypsin
+Kringle              PF00051.18 sp|P00749|UROK_HUMAN -            1.2e-22   80.0   2.9   3.1e-22   78.7   2.9   1.8   1   0   0   1   1   1   1 Kringle domain
+PGK                  PF00162.19 sp|P00558|PGK1_HUMAN -           5.3e-152  506.2   0.3    6e-152  506.0   0.3   1.0   1   0   0   1   1   1   1 Phosphoglycerate kinase
+Trypsin              PF00089.26 tr|E7ESF4|E7ESF4_HUMAN -              2e-70  237.0   0.0   3.1e-70  236.4   0.0   1.3   1   0   0   1   1   1   1 Trypsin
+Kringle              PF00051.18 tr|E7ESF4|E7ESF4_HUMAN -            7.1e-27   93.5  20.1   1.5e-26   92.5   2.2   3.0   3   0   0   3   3   1   2 Kringle domain
+fn1                  PF00039.18 tr|E7ESF4|E7ESF4_HUMAN -            1.1e-09   38.3   4.2   3.3e-09   36.8   4.2   1.9   1   0   0   1   1   1   1 Fibronectin type I domain
+EGF                  PF00008.27 tr|E7ESF4|E7ESF4_HUMAN -            1.7e-06   28.2   6.2   1.7e-06   28.2   6.2   3.3   3   0   0   3   3   1   1 EGF-like domain
+Trypsin              PF00089.26 tr|B4DN26|B4DN26_HUMAN -            1.9e-70  237.1   0.0   2.7e-70  236.6   0.0   1.2   1   0   0   1   1   1   1 Trypsin
+Kringle              PF00051.18 tr|B4DN26|B4DN26_HUMAN -            1.4e-26   92.6   2.2   1.4e-26   92.6   2.2   2.1   2   0   0   2   2   1   1 Kringle domain
+fn1                  PF00039.18 tr|B4DN26|B4DN26_HUMAN -            9.8e-10   38.5   4.2   3.1e-09   36.9   4.2   2.0   1   0   0   1   1   1   1 Fibronectin type I domain
+EGF                  PF00008.27 tr|B4DN26|B4DN26_HUMAN -            1.6e-06   28.3   6.2   1.6e-06   28.3   6.2   3.0   3   0   0   3   3   1   1 EGF-like domain
+Trypsin              PF00089.26 tr|B4DNJ1|B4DNJ1_HUMAN -            1.6e-70  237.4   0.0   2.2e-70  236.9   0.0   1.2   1   0   0   1   1   1   1 Trypsin
+Kringle              PF00051.18 tr|B4DNJ1|B4DNJ1_HUMAN -            4.5e-27   94.2   2.2   1.2e-26   92.8   2.2   1.8   1   0   0   1   1   1   1 Kringle domain
+fn1                  PF00039.18 tr|B4DNJ1|B4DNJ1_HUMAN -            1.1e-09   38.3   4.2   2.8e-09   37.0   4.2   1.8   1   0   0   1   1   1   1 Fibronectin type I domain
+Trypsin              PF00089.26 tr|E7ET40|E7ET40_HUMAN -            8.7e-70  235.0   0.1   1.2e-69  234.5   0.1   1.2   1   0   0   1   1   1   1 Trypsin
+Kringle              PF00051.18 tr|E7ET40|E7ET40_HUMAN -            2.7e-23   82.1   2.6   7.8e-23   80.6   2.6   1.8   1   0   0   1   1   1   1 Kringle domain
+fn1                  PF00039.18 tr|E5RHG4|E5RHG4_HUMAN -              6e-10   39.1   4.2     6e-10   39.1   4.2   2.4   3   0   0   3   3   1   1 Fibronectin type I domain
+EGF                  PF00008.27 tr|E5RHG4|E5RHG4_HUMAN -            3.3e-07   30.5   6.2   3.3e-07   30.5   6.2   2.6   3   0   0   3   3   1   1 EGF-like domain
+Kringle              PF00051.18 tr|E5RHG4|E5RHG4_HUMAN -            1.7e-06   28.3   1.2   1.7e-06   28.3   1.2   2.3   2   0   0   2   2   1   1 Kringle domain
+fn1                  PF00039.18 tr|E5RGA1|E5RGA1_HUMAN -            7.5e-10   38.8   4.2   7.5e-10   38.8   4.2   2.4   3   0   0   3   3   1   1 Fibronectin type I domain
+Kringle              PF00051.18 tr|E5RGA1|E5RGA1_HUMAN -              2e-08   34.4   0.3     2e-08   34.4   0.3   2.3   2   0   0   2   2   1   1 Kringle domain
+EGF                  PF00008.27 tr|E5RGA1|E5RGA1_HUMAN -              4e-07   30.2   6.2     4e-07   30.2   6.2   2.6   3   0   0   3   3   1   1 EGF-like domain
+APP_E2               PF12925.7  sp|P05067|A4_HUMAN   -            3.3e-74  248.7  20.3     6e-74  247.9  20.3   1.4   1   0   0   1   1   1   1 E2 domain of amyloid precursor protein
+APP_N                PF02177.16 sp|P05067|A4_HUMAN   -            3.1e-44  149.4   0.5   3.1e-44  149.4   0.5   2.4   2   0   0   2   2   1   1 Amyloid A4 N-terminal heparin-binding
+APP_amyloid          PF10515.9  sp|P05067|A4_HUMAN   -            8.5e-26   90.2   0.3   5.3e-25   87.7   0.3   2.5   1   0   0   1   1   1   1 Beta-amyloid precursor protein C-terminus
+APP_Cu_bd            PF12924.7  sp|P05067|A4_HUMAN   -            1.6e-25   89.6   4.7   1.6e-25   89.6   4.7   2.8   3   0   0   3   3   1   1 Copper-binding of amyloid precursor, CuBD
+Beta-APP             PF03494.13 sp|P05067|A4_HUMAN   -            1.9e-23   82.0   1.0   3.5e-23   81.2   1.0   1.4   1   0   0   1   1   1   1 Beta-amyloid peptide (beta-APP)
+Kunitz_BPTI          PF00014.23 sp|P05067|A4_HUMAN   -            1.2e-19   70.3   6.5   2.5e-19   69.2   6.5   1.6   1   0   0   1   1   1   1 Kunitz/Bovine pancreatic trypsin inhibitor domain
+Trypsin              PF00089.26 sp|P08311|CATG_HUMAN -            7.8e-65  218.8   0.0   8.8e-65  218.6   0.0   1.0   1   0   0   1   1   1   1 Trypsin
+Trypsin_2            PF13365.6  sp|P08311|CATG_HUMAN -            6.4e-07   30.4   0.0   1.1e-06   29.6   0.0   1.3   1   1   0   1   1   1   1 Trypsin-like peptidase domain
+TNF                  PF00229.18 sp|P01375|TNFA_HUMAN -            1.3e-40  138.2   0.0   1.8e-40  137.8   0.0   1.2   1   0   0   1   1   1   1 TNF(Tumour Necrosis Factor) family
+SRCR                 PF00530.18 sp|Q9UGM3|DMBT1_HUMAN -                  0 1443.6 181.8   4.1e-32  110.6   6.2  14.4  14   0   0  14  14  14  14 Scavenger receptor cysteine-rich domain
+CUB                  PF00431.20 sp|Q9UGM3|DMBT1_HUMAN -            1.7e-57  192.5   0.7   2.2e-27   95.6   0.1   2.5   2   0   0   2   2   2   2 CUB domain
+SRCR_2               PF15494.6  sp|Q9UGM3|DMBT1_HUMAN -            7.7e-53  177.1 117.0    0.0018   18.8   1.0  14.5  14   0   0  14  14  14  14 Scavenger receptor cysteine-rich domain
+Zona_pellucida       PF00100.23 sp|Q9UGM3|DMBT1_HUMAN -              2e-46  158.9   5.2   4.6e-46  157.7   5.2   1.7   1   0   0   1   1   1   1 Zona pellucida-like domain
+Hepsin-SRCR          PF09272.10 sp|Q9UGM3|DMBT1_HUMAN -            5.1e-11   43.1  54.6        12    6.5   0.0  14.5  14   0   0  14  14   0   9 Hepsin, SRCR domain
+IL6Ra-bind           PF09240.10 sp|P08887|IL6RA_HUMAN -            9.7e-19   67.6   0.8   1.7e-18   66.8   0.8   1.4   1   0   0   1   1   1   1 Interleukin-6 receptor alpha chain, binding
+ig                   PF00047.25 sp|P08887|IL6RA_HUMAN -            1.1e-06   28.7   0.0   4.5e-06   26.7   0.0   2.1   1   0   0   1   1   1   1 Immunoglobulin domain
+Ig_3                 PF13927.6  sp|P08887|IL6RA_HUMAN -            3.3e-06   27.6   0.1   3.5e-05   24.3   0.0   2.5   2   0   0   2   2   1   1 Immunoglobulin domain
+NACHT                PF05729.12 sp|Q96P20|NLRP3_HUMAN -            8.5e-49  165.7   0.1     3e-48  163.9   0.0   2.0   2   0   0   2   2   1   1 NACHT domain
+NLRC4_HD2            PF17776.1  sp|Q96P20|NLRP3_HUMAN -            6.4e-29  101.1   1.3   2.3e-28   99.3   1.3   2.1   1   0   0   1   1   1   1 NLRC4 helical domain HD2
+PYRIN                PF02758.16 sp|Q96P20|NLRP3_HUMAN -            4.8e-22   77.9   0.0   2.2e-21   75.8   0.0   2.3   2   0   0   2   2   1   1 PAAD/DAPIN/Pyrin domain
+LRR_6                PF13516.6  sp|Q96P20|NLRP3_HUMAN -            7.5e-20   69.3  26.7   0.00013   21.7   0.1   7.7   7   0   0   7   7   4   5 Leucine Rich repeat
+NOD2_WH              PF17779.1  sp|Q96P20|NLRP3_HUMAN -            7.5e-20   71.0   8.1   2.4e-19   69.4   0.3   4.2   4   0   0   4   4   1   1 NOD2 winged helix domain
+FISNA                PF14484.6  sp|Q96P20|NLRP3_HUMAN -              2e-15   56.7   0.2   3.9e-15   55.8   0.2   1.5   1   0   0   1   1   1   1 Fish-specific NACHT associated domain
+LRR_4                PF12799.7  sp|Q96P20|NLRP3_HUMAN -            5.1e-07   29.9  26.1     0.042   14.3   0.8   6.8   3   2   4   7   7   0   5 Leucine Rich repeats (2 copies)
+Gasdermin            PF04598.12 sp|P57764|GSDMD_HUMAN -            8.5e-96  320.0   0.0   1.1e-95  319.7   0.0   1.1   1   0   0   1   1   1   1 Gasdermin pore forming domain
+Gasdermin_C          PF17708.1  sp|P57764|GSDMD_HUMAN -            7.5e-55  185.7   3.7   7.5e-55  185.7   3.7   1.6   2   0   0   2   2   1   1 Gasdermin PUB domain
+SRCR                 PF00530.18 sp|A1L4H1|SRCRL_HUMAN -           1.5e-151  494.0  41.2   9.1e-31  106.3   1.6   5.2   5   0   0   5   5   5   5 Scavenger receptor cysteine-rich domain
+SRCR_2               PF15494.6  sp|A1L4H1|SRCRL_HUMAN -              2e-14   53.9  32.3     0.012   16.1   1.2   5.4   5   0   0   5   5   4   5 Scavenger receptor cysteine-rich domain
+Defensin_propep      PF00879.18 sp|P59665|DEF1_HUMAN -            3.8e-21   75.1   5.5   4.5e-21   74.8   5.5   1.1   1   0   0   1   1   1   1 Defensin propeptide
+Defensin_1           PF00323.19 sp|P59665|DEF1_HUMAN -            5.5e-11   42.8  12.9     7e-11   42.5  12.9   1.1   1   0   0   1   1   1   1 Mammalian defensin
+Reprolysin_5         PF13688.6  sp|P78536|ADA17_HUMAN -            1.8e-35  122.9   0.0     4e-35  121.8   0.0   1.6   1   0   0   1   1   1   1 Metallo-peptidase family M12
+Reprolysin_2         PF13574.6  sp|P78536|ADA17_HUMAN -            6.8e-32  110.9   0.0   1.2e-31  110.1   0.0   1.4   1   0   0   1   1   1   1 Metallo-peptidase family M12B Reprolysin-like
+ADAM17_MPD           PF16698.5  sp|P78536|ADA17_HUMAN -            8.1e-22   77.4  16.7   8.1e-22   77.4  16.7   3.8   2   1   0   2   2   1   1 Membrane-proximal domain, switch, for ADAM17
+Disintegrin          PF00200.23 sp|P78536|ADA17_HUMAN -            1.5e-14   54.5  24.7   1.5e-14   54.5  24.7   3.3   3   1   0   3   3   1   1 Disintegrin
+Reprolysin_3         PF13582.6  sp|P78536|ADA17_HUMAN -            5.8e-13   49.4   0.0   1.2e-12   48.4   0.0   1.6   1   0   0   1   1   1   1 Metallo-peptidase family M12B Reprolysin-like
+Reprolysin           PF01421.19 sp|P78536|ADA17_HUMAN -              7e-12   45.7   0.1   1.2e-06   28.5   0.1   3.3   3   0   0   3   3   1   2 Reprolysin (M12B) family zinc metalloprotease
+Pep_M12B_propep      PF01562.19 sp|P78536|ADA17_HUMAN -            1.1e-07   32.1   0.0   2.9e-07   30.8   0.0   1.7   1   0   0   1   1   1   1 Reprolysin family propeptide
+Reprolysin_4         PF13583.6  sp|P78536|ADA17_HUMAN -            7.6e-06   25.7   0.2   1.5e-05   24.7   0.2   1.5   1   0   0   1   1   1   1 Metallo-peptidase family M12B Reprolysin-like
+MHC_I                PF00129.18 sp|P13747|HLAE_HUMAN -            7.6e-94  312.3   0.9   1.1e-93  311.8   0.9   1.2   1   0   0   1   1   1   1 Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set               PF07654.15 sp|P13747|HLAE_HUMAN -            1.5e-17   63.8   0.1   3.3e-17   62.6   0.1   1.6   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+MHC_I_3              PF16497.5  sp|P13747|HLAE_HUMAN -            7.6e-07   28.8   0.0   1.1e-06   28.3   0.0   1.2   1   0   0   1   1   1   1 MHC-I family domain
+Transferrin          PF00405.17 sp|P02788|TRFL_HUMAN -           1.6e-265  878.9   1.9  8.8e-179  593.7   0.0   2.1   2   0   0   2   2   2   2 Transferrin
+Phosphonate-bd       PF12974.7  sp|P02788|TRFL_HUMAN -            3.8e-10   39.8   0.0   0.00058   19.5   0.0   2.9   2   2   0   2   2   2   2 ABC transporter, phosphonate, periplasmic substrate-binding protein
+Cathelicidins        PF00666.17 sp|P49913|CAMP_HUMAN -            1.7e-51  172.7   0.2   2.1e-51  172.4   0.2   1.1   1   0   0   1   1   1   1 Cathelicidin
+CAP18_C              PF12153.8  sp|P49913|CAMP_HUMAN -            1.3e-10   40.9   9.9   1.9e-10   40.4   9.9   1.2   1   0   0   1   1   1   1 LPS binding domain of CAP18 (C terminal)
+C1-set               PF07654.15 sp|P61769|B2MG_HUMAN -            1.4e-23   83.0   0.1   1.7e-23   82.8   0.1   1.1   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+Dermcidin            PF15291.6  sp|P81605|DCD_HUMAN  -            3.8e-45  152.5   4.2   4.6e-45  152.3   4.2   1.0   1   0   0   1   1   1   1 Dermcidin, antibiotic peptide
+Defensin_beta        PF00711.19 sp|P60022|DEFB1_HUMAN -            1.5e-12   47.3   8.9   2.1e-12   46.8   8.9   1.2   1   0   0   1   1   1   1 Beta defensin
+Defensin_propep      PF00879.18 sp|Q01523|DEF5_HUMAN -            9.7e-25   86.6   2.3   1.4e-24   86.1   2.3   1.2   1   0   0   1   1   1   1 Defensin propeptide
+Defensin_1           PF00323.19 sp|Q01523|DEF5_HUMAN -            3.7e-10   40.2  15.6   5.4e-10   39.7  15.6   1.3   1   0   0   1   1   1   1 Mammalian defensin
+IL6                  PF00489.17 sp|P05231|IL6_HUMAN  -            1.1e-91  305.5   1.2   1.2e-91  305.3   1.2   1.0   1   0   0   1   1   1   1 Interleukin-6/G-CSF/MGF family
+Phospholip_A2_1      PF00068.19 sp|P14555|PA2GA_HUMAN -            3.4e-38  130.6  15.8   4.1e-38  130.3  15.8   1.1   1   0   0   1   1   1   1 Phospholipase A2
+Amidase_2            PF01510.25 sp|Q96PD5|PGRP2_HUMAN -            7.1e-15   55.6   0.0   1.4e-14   54.6   0.0   1.5   1   0   0   1   1   1   1 N-acetylmuramoyl-L-alanine amidase
+Amidase_2            PF01510.25 sp|O75594|PGRP1_HUMAN -            6.8e-20   71.8   0.0   9.2e-20   71.4   0.0   1.1   1   0   0   1   1   1   1 N-acetylmuramoyl-L-alanine amidase
+Lys                  PF00062.20 sp|Q8IXA5|SACA3_HUMAN -            3.5e-40  137.1   0.5   4.7e-40  136.7   0.5   1.2   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+Lys                  PF00062.20 sp|P61626|LYSC_HUMAN -            5.2e-57  191.5   2.3   5.8e-57  191.3   2.3   1.0   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+Histone              PF00125.24 sp|Q16778|H2B2E_HUMAN -            2.9e-26   92.4   0.3   3.6e-26   92.1   0.3   1.1   1   0   0   1   1   1   1 Core histone H2A/H2B/H3/H4
+CBFD_NFYB_HMF        PF00808.23 sp|Q16778|H2B2E_HUMAN -              1e-06   28.9   0.8   1.8e-06   28.1   0.0   1.8   2   0   0   2   2   1   1 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+Histone              PF00125.24 sp|P62807|H2B1C_HUMAN -              6e-26   91.4   0.2   7.4e-26   91.1   0.2   1.1   1   0   0   1   1   1   1 Core histone H2A/H2B/H3/H4
+CBFD_NFYB_HMF        PF00808.23 sp|P62807|H2B1C_HUMAN -              1e-06   28.9   0.8   1.8e-06   28.1   0.0   1.8   2   0   0   2   2   1   1 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+Defensin_propep      PF00879.18 sp|P59666|DEF3_HUMAN -            3.8e-21   75.1   5.5   4.5e-21   74.8   5.5   1.1   1   0   0   1   1   1   1 Defensin propeptide
+Defensin_1           PF00323.19 sp|P59666|DEF3_HUMAN -            5.5e-11   42.8  12.9     7e-11   42.5  12.9   1.1   1   0   0   1   1   1   1 Mammalian defensin
+RnaseA               PF00074.20 sp|Q9H1E1|RNAS7_HUMAN -            3.1e-40  137.4  12.8   3.5e-40  137.2  12.8   1.0   1   0   0   1   1   1   1 Pancreatic ribonuclease
+RnaseA               PF00074.20 sp|Q93091|RNAS6_HUMAN -            5.9e-41  139.7   7.7   6.7e-41  139.5   7.7   1.0   1   0   0   1   1   1   1 Pancreatic ribonuclease
+Fasciclin            PF02469.22 sp|Q8WWQ8|STAB2_HUMAN -           1.4e-129  426.2   0.2   1.6e-22   80.1   0.1   7.3   7   0   0   7   7   7   7 Fasciclin domain
+EGF_3                PF12947.7  sp|Q8WWQ8|STAB2_HUMAN -            4.3e-67  222.0 387.9   1.4e-08   34.8   9.8  25.1  24   0   0  24  24  13  17 EGF domain
+Xlink                PF00193.17 sp|Q8WWQ8|STAB2_HUMAN -              8e-28   96.7   0.3     8e-28   96.7   0.3   4.7   5   0   0   5   5   1   1 Extracellular link domain
+Calc_CGRP_IAPP       PF00214.19 sp|P35318|ADML_HUMAN -            1.4e-30  106.1   0.0   1.8e-30  105.8   0.0   1.1   1   0   0   1   1   1   1 Calcitonin / CGRP / IAPP family
+Defensin_beta        PF00711.19 sp|O15263|DFB4A_HUMAN -            4.1e-13   49.1   8.8   5.1e-13   48.8   8.8   1.1   1   0   0   1   1   1   1 Beta defensin
+RnaseA               PF00074.20 sp|P03950|ANGI_HUMAN -            1.7e-35  122.1   0.3   1.9e-35  121.9   0.3   1.0   1   0   0   1   1   1   1 Pancreatic ribonuclease
+RnaseA               PF00074.20 sp|P12724|ECP_HUMAN  -            1.1e-33  116.2   2.8   1.3e-33  116.0   2.8   1.0   1   0   0   1   1   1   1 Pancreatic ribonuclease
+Calc_CGRP_IAPP       PF00214.19 sp|P06881|CALCA_HUMAN -            5.1e-48  162.4   0.0   5.7e-48  162.3   0.0   1.0   1   0   0   1   1   1   1 Calcitonin / CGRP / IAPP family
+Granin               PF01271.17 sp|P10645|CMGA_HUMAN -           7.7e-124  414.8  71.0   1.2e-99  334.9  66.0   2.0   1   1   1   2   2   2   2 Granin (chromogranin or secretogranin)
+Defensin_beta        PF00711.19 sp|P81534|D103A_HUMAN -            2.2e-11   43.6  10.9   2.7e-11   43.3  10.9   1.1   1   0   0   1   1   1   1 Beta defensin
+IL12                 PF03039.14 sp|P29459|IL12A_HUMAN -           1.7e-121  403.4   6.6  1.9e-121  403.3   6.6   1.0   1   0   0   1   1   1   1 Interleukin-12 alpha subunit
+HMG_box_2            PF09011.10 sp|P26583|HMGB2_HUMAN -            7.2e-44  148.2  16.0   2.6e-28   98.4   7.7   2.3   2   0   0   2   2   2   2 HMG-box domain
+HMG_box              PF00505.19 sp|P26583|HMGB2_HUMAN -            2.1e-43  146.6  14.4   1.5e-26   92.5   1.8   2.4   2   0   0   2   2   2   2 HMG (high mobility group) box
+Hormone_3            PF00159.18 sp|P01303|NPY_HUMAN  -            1.2e-18   66.8   1.3   2.1e-18   66.1   1.3   1.4   1   0   0   1   1   1   1 Pancreatic hormone peptide
+Phospholip_A2_1      PF00068.19 sp|P04054|PA21B_HUMAN -            1.9e-37  128.1  15.7   2.3e-37  127.9  15.7   1.1   1   0   0   1   1   1   1 Phospholipase A2
+Amidase_2            PF01510.25 sp|Q96LB9|PGRP3_HUMAN -            3.9e-30  104.9   0.1     5e-16   59.3   0.1   2.1   2   0   0   2   2   2   2 N-acetylmuramoyl-L-alanine amidase
+Tachykinin           PF02202.16 sp|P20366|TKN1_HUMAN -            1.4e-10   40.0   1.3   0.00037   20.1   1.0   2.4   2   0   0   2   2   2   2 Tachykinin family
+Hepcidin             PF06446.12 sp|P81172|HEPC_HUMAN -              2e-21   76.1  12.8   2.5e-21   75.8  12.8   1.1   1   0   0   1   1   1   1 Hepcidin
+GPR15L               PF15854.5  sp|Q6UWK7|GP15L_HUMAN -            4.9e-40  135.6   6.6   5.4e-40  135.5   6.6   1.0   1   0   0   1   1   1   1 G-protein coupled receptor ligand 15
+Histone              PF00125.24 sp|P06899|H2B1J_HUMAN -            2.9e-26   92.3   0.3   3.6e-26   92.1   0.3   1.1   1   0   0   1   1   1   1 Core histone H2A/H2B/H3/H4
+CBFD_NFYB_HMF        PF00808.23 sp|P06899|H2B1J_HUMAN -              1e-06   28.9   0.8   1.8e-06   28.1   0.0   1.8   2   0   0   2   2   1   1 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+Histone              PF00125.24 sp|P57053|H2BFS_HUMAN -            2.6e-24   86.1   0.1   3.2e-24   85.8   0.1   1.1   1   0   0   1   1   1   1 Core histone H2A/H2B/H3/H4
+CBFD_NFYB_HMF        PF00808.23 sp|P57053|H2BFS_HUMAN -            7.3e-06   26.2   0.2   1.8e-05   24.9   0.0   1.7   2   0   0   2   2   1   1 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+Histone              PF00125.24 sp|O60814|H2B1K_HUMAN -              6e-26   91.3   0.2   7.4e-26   91.1   0.2   1.1   1   0   0   1   1   1   1 Core histone H2A/H2B/H3/H4
+CBFD_NFYB_HMF        PF00808.23 sp|O60814|H2B1K_HUMAN -              1e-06   28.9   0.8   1.8e-06   28.1   0.0   1.8   2   0   0   2   2   1   1 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+Defensin_propep      PF00879.18 sp|Q01524|DEF6_HUMAN -            7.6e-23   80.5  12.5     2e-21   76.0  12.5   2.0   1   1   0   1   1   1   1 Defensin propeptide
+Defensin_1           PF00323.19 sp|Q01524|DEF6_HUMAN -            1.9e-07   31.5  15.3   2.5e-07   31.1  15.3   1.2   1   0   0   1   1   1   1 Mammalian defensin
+Defensin_propep      PF00879.18 sp|P12838|DEF4_HUMAN -            5.5e-26   90.6   0.1   7.1e-26   90.2   0.1   1.2   1   0   0   1   1   1   1 Defensin propeptide
+Defensin_1           PF00323.19 sp|P12838|DEF4_HUMAN -            4.7e-08   33.4  13.7   6.4e-08   33.0  13.7   1.2   1   0   0   1   1   1   1 Mammalian defensin
+TNFR_c6              PF00020.18 sp|Q92956|TNR14_HUMAN -            1.8e-16   60.3  37.1   1.4e-10   41.4   3.3   4.4   4   0   0   4   4   2   4 TNFR/NGFR cysteine-rich region
+MHC_I                PF00129.18 sp|P01892|1A02_HUMAN -            3.1e-92  307.1   1.8   4.7e-92  306.5   1.8   1.3   1   0   0   1   1   1   1 Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set               PF07654.15 sp|P01892|1A02_HUMAN -            1.2e-17   64.0   0.1   2.8e-17   62.9   0.1   1.6   1   0   0   1   1   1   1 Immunoglobulin C1-set domain
+MHC_I_C              PF06623.11 sp|P01892|1A02_HUMAN -            4.1e-16   58.6   9.6     8e-16   57.6   9.6   1.5   1   0   0   1   1   1   1 MHC_I C-terminus
+Ig_3                 PF13927.6  sp|P01892|1A02_HUMAN -            1.9e-06   28.3   0.9     0.015   15.9   0.0   2.9   1   1   1   2   2   1   2 Immunoglobulin domain
+Pkinase_Tyr          PF07714.17 sp|P29317|EPHA2_HUMAN -              9e-99  329.9   0.0   1.3e-98  329.5   0.0   1.2   1   0   0   1   1   1   1 Protein tyrosine kinase
+Ephrin_lbd           PF01404.19 sp|P29317|EPHA2_HUMAN -            5.2e-63  212.3   0.0   9.8e-63  211.4   0.0   1.5   1   0   0   1   1   1   1 Ephrin receptor ligand binding domain
+Pkinase              PF00069.25 sp|P29317|EPHA2_HUMAN -            2.9e-47  161.3   0.0   4.9e-47  160.5   0.0   1.3   1   0   0   1   1   1   1 Protein kinase domain
+fn3                  PF00041.21 sp|P29317|EPHA2_HUMAN -            3.5e-34  117.0   5.6   2.7e-17   62.9   1.4   2.9   3   0   0   3   3   2   2 Fibronectin type III domain
+SAM_1                PF00536.30 sp|P29317|EPHA2_HUMAN -            8.2e-22   77.4   0.0   1.4e-21   76.7   0.0   1.4   1   0   0   1   1   1   1 SAM domain (Sterile alpha motif)
+EphA2_TM             PF14575.6  sp|P29317|EPHA2_HUMAN -            1.7e-21   76.8   0.0   3.2e-21   76.0   0.0   1.5   1   0   0   1   1   1   1 Ephrin type-A receptor 2 transmembrane domain
+SAM_2                PF07647.17 sp|P29317|EPHA2_HUMAN -            6.1e-14   51.9   0.0   1.2e-13   50.9   0.0   1.5   1   0   0   1   1   1   1 SAM domain (Sterile alpha motif)
+Pur_ac_phosph_N      PF16656.5  sp|P29317|EPHA2_HUMAN -            1.9e-10   41.1   1.8   1.3e-06   28.9   0.6   2.7   2   0   0   2   2   1   2 Purple acid Phosphatase, N-terminal domain
+Interfer-bind        PF09294.10 sp|P29317|EPHA2_HUMAN -            8.2e-08   32.5   0.0   2.1e-05   24.7   0.0   3.0   3   0   0   3   3   1   1 Interferon-alpha/beta receptor, fibronectin type III
+Defensin_beta_2      PF13841.6  sp|Q8N104|D106A_HUMAN -              3e-06   27.6  12.5   4.4e-06   27.1  12.5   1.3   1   0   0   1   1   1   1 Beta defensin
+Lys                  PF00062.20 sp|P00709|LALBA_HUMAN -            1.8e-55  186.5   5.2   2.2e-55  186.2   5.2   1.0   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+fn3                  PF00041.21 sp|Q6UWB1|I27RA_HUMAN -            2.8e-13   50.0   0.1   4.4e-06   27.0   0.0   3.7   3   0   0   3   3   1   3 Fibronectin type III domain
+Lectin_C             PF00059.21 sp|P26718|NKG2D_HUMAN -            1.3e-17   64.5   1.4   1.3e-17   64.5   1.4   1.8   2   0   0   2   2   1   1 Lectin C-type domain
+Amidase_2            PF01510.25 sp|Q96LB8|PGRP4_HUMAN -            1.2e-28  100.1   0.1   4.4e-13   49.8   0.1   2.3   2   0   0   2   2   2   2 N-acetylmuramoyl-L-alanine amidase
+TNF                  PF00229.18 sp|P01374|TNFB_HUMAN -            7.5e-33  113.2   0.1   9.5e-33  112.9   0.1   1.1   1   0   0   1   1   1   1 TNF(Tumour Necrosis Factor) family
+Hormone_2            PF00123.20 sp|P01282|VIP_HUMAN  -              2e-29  101.1   1.8     1e-14   54.1   0.1   2.2   2   0   0   2   2   2   2 Peptide hormone
+Filament             PF00038.21 sp|P02538|K2C6A_HUMAN -           4.9e-115  384.4  35.4  5.7e-115  384.2  35.4   1.0   1   0   0   1   1   1   1 Intermediate filament protein
+Keratin_2_head       PF16208.5  sp|P02538|K2C6A_HUMAN -            1.2e-39  136.0  41.3   1.2e-39  136.0  41.3   2.2   2   0   0   2   2   1   1 Keratin type II head
+TPR_MLP1_2           PF07926.12 sp|P02538|K2C6A_HUMAN -            8.1e-08   32.4  30.4   6.9e-05   22.9   0.2   3.9   3   1   1   4   4   2   2 TPR/MLP1/MLP2-like protein
+Ribosomal_S30        PF04758.14 sp|P62861|RS30_HUMAN -            2.2e-31  107.8  12.7   2.4e-31  107.7  12.7   1.0   1   0   0   1   1   1   1 Ribosomal protein S30
+Ribosomal_L39        PF00832.20 sp|P62891|RL39_HUMAN -            3.6e-24   84.1  11.0   4.1e-24   83.9  11.0   1.1   1   0   0   1   1   1   1 Ribosomal L39 protein
+TNF                  PF00229.18 sp|P32971|TNFL8_HUMAN -            1.3e-23   83.3   0.7   1.8e-23   82.9   0.7   1.2   1   0   0   1   1   1   1 TNF(Tumour Necrosis Factor) family
+Lys                  PF00062.20 sp|O75951|LYZL6_HUMAN -            1.9e-38  131.5   1.7   2.1e-38  131.3   1.7   1.0   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+Defensin_beta_2      PF13841.6  sp|Q8WTQ1|D104A_HUMAN -            8.4e-09   35.8  13.1   1.1e-08   35.4  13.1   1.2   1   0   0   1   1   1   1 Beta defensin
+Defensin_beta_2      PF13841.6  sp|Q30KQ6|DB114_HUMAN -            3.6e-07   30.5  11.7   6.4e-07   29.7  11.7   1.4   1   0   0   1   1   1   1 Beta defensin
+Defensin_beta_2      PF13841.6  sp|Q8N690|DB119_HUMAN -            2.3e-07   31.1  15.6   3.1e-07   30.7  15.6   1.2   1   0   0   1   1   1   1 Beta defensin
+Defensin_big         PF14862.6  sp|Q8N690|DB119_HUMAN -            2.1e-06   27.9   3.6   4.8e-06   26.8   3.6   1.7   1   1   0   1   1   1   1 Big defensin
+RnaseA               PF00074.20 sp|Q8TDE3|RNAS8_HUMAN -            3.8e-38  130.7   4.9   4.3e-38  130.5   4.9   1.0   1   0   0   1   1   1   1 Pancreatic ribonuclease
+GBP                  PF02263.19 sp|Q6ZN66|GBP6_HUMAN -           1.4e-121  404.7   0.0  1.4e-121  404.7   0.0   2.2   2   0   0   2   2   1   1 Guanylate-binding protein, N-terminal domain
+GBP_C                PF02841.14 sp|Q6ZN66|GBP6_HUMAN -           5.1e-121  403.6  27.5  7.2e-121  403.2  27.5   1.2   1   0   0   1   1   1   1 Guanylate-binding protein, C-terminal domain
+Lys                  PF00062.20 sp|Q96KX0|LYZL4_HUMAN -            2.1e-31  108.7   0.5   2.4e-31  108.5   0.5   1.0   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+Lys                  PF00062.20 sp|Q7Z4W2|LYZL2_HUMAN -            8.6e-43  145.5   7.4   9.9e-43  145.3   7.4   1.0   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+Lys                  PF00062.20 sp|Q6UWQ5|LYZL1_HUMAN -            6.5e-43  145.9   6.2   7.4e-43  145.7   6.2   1.0   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+Lys                  PF00062.20 sp|Q96QH8|LYZL5_HUMAN -            1.3e-42  144.9   1.7   1.6e-42  144.7   1.7   1.0   1   0   0   1   1   1   1 C-type lysozyme/alpha-lactalbumin family
+Defensin_beta_2      PF13841.6  sp|Q7Z7B8|DB128_HUMAN -            1.5e-08   35.0  13.5   2.4e-08   34.3  13.5   1.4   1   0   0   1   1   1   1 Beta defensin
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      HUMAN_filtered.fasta
+# Target file:     /home/rei/hmmer-3.2.1/pfam/Pfam-A.hmm
+# Option settings: hmmscan --tblout HUMAN_pfam_hits --acc --noali -E 0.00001 --domE 0.00001 --cpu 7 /home/rei/hmmer-3.2.1/pfam/Pfam-A.hmm HUMAN_filtered.fasta 
+# Current dir:     /home/rei/Documents/Thesis/HP-PPI-prediction/data
+# Date:            Thu Jun 20 14:33:20 2019
+# [ok]
