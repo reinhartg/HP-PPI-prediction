@@ -22,10 +22,13 @@ def domain_features(protein, domain_dict, domain_set):
     '''
     
     domain_profile = []
+    domain_counts = domain_dict[protein] # domain counts of the input protein
+    
     for domain in domain_set:
-        # Check existence of a domain in the protein
-        if domain in domain_dict[protein]:
-            domain_profile.append(1)
+        
+        # Check existence of each domain in the protein
+        if domain in domain_counts:
+            domain_profile.append(domain_counts[domain])
         else:
             domain_profile.append(0)
     
