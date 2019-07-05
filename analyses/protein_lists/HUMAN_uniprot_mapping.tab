@@ -1,0 +1,325 @@
+Entry	Gene names	Protein names	Length
+E7ET40	PLAU	Urokinase-type plasminogen activator	414
+P61160	ACTR2 ARP2	Actin-related protein 2 (Actin-like protein 2)	394
+Q7L576	CYFIP1 KIAA0068	Cytoplasmic FMR1-interacting protein 1 (Specifically Rac1-associated protein 1) (Sra-1) (p140sra-1)	1253
+P01762	IGHV3-11	Immunoglobulin heavy variable 3-11 (Ig heavy chain V-III region TRO)	117
+P00736	C1R	Complement C1r subcomponent (EC 3.4.21.41) (Complement component 1 subcomponent r) [Cleaved into: Complement C1r subcomponent heavy chain; Complement C1r subcomponent light chain]	705
+P0DOY3	IGLC3	Immunoglobulin lambda constant 3 (Ig lambda chain C region DOT) (Ig lambda chain C region NEWM) (Ig lambda-3 chain C regions)	106
+O43866	CD5L API6 UNQ203/PRO229	CD5 antigen-like (Apoptosis inhibitor expressed by macrophages) (hAIM) (CT-2) (IgM-associated peptide) (SP-alpha)	347
+P63000	RAC1 TC25 MIG5	Ras-related C3 botulinum toxin substrate 1 (EC 3.6.5.2) (Cell migration-inducing gene 5 protein) (Ras-like protein TC25) (p21-Rac1)	192
+Q8IZP0	ABI1 SSH3BP1	Abl interactor 1 (Abelson interactor 1) (Abi-1) (Abl-binding protein 4) (AblBP4) (Eps8 SH3 domain-binding protein) (Eps8-binding protein) (Nap1-binding protein) (Nap1BP) (Spectrin SH3 domain-binding protein 1) (e3B1)	508
+B4DN26	PLAT	Tissue-type plasminogen activator (cDNA FLJ59355, highly similar to Tissue-type plasminogen activator)	473
+P06331	IGHV4-34	Immunoglobulin heavy variable 4-34 (Ig heavy chain V-II region ARH-77)	123
+P08581	MET	Hepatocyte growth factor receptor (HGF receptor) (EC 2.7.10.1) (HGF/SF receptor) (Proto-oncogene c-Met) (Scatter factor receptor) (SF receptor) (Tyrosine-protein kinase Met)	1390
+A0A0C4DH25	IGKV3D-20	Immunoglobulin kappa variable 3D-20	116
+P00750	PLAT	Tissue-type plasminogen activator (t-PA) (t-plasminogen activator) (tPA) (EC 3.4.21.68) (Alteplase) (Reteplase) [Cleaved into: Tissue-type plasminogen activator chain A; Tissue-type plasminogen activator chain B]	562
+P01601	IGKV1D-16	Immunoglobulin kappa variable 1D-16 (Ig kappa chain V-I region HK146) (Ig kappa chain V-I region HK189)	117
+P02671	FGA	Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibrinogen alpha chain]	866
+Q9UGM3	DMBT1 GP340	Deleted in malignant brain tumors 1 protein (Glycoprotein 340) (Gp-340) (Hensin) (Salivary agglutinin) (SAG) (Surfactant pulmonary-associated D-binding protein)	2413
+Q9UQB8	BAIAP2	Brain-specific angiogenesis inhibitor 1-associated protein 2 (BAI-associated protein 2) (BAI1-associated protein 2) (Protein BAP2) (Fas ligand-associated factor 3) (FLAF3) (Insulin receptor substrate p53/p58) (IRS-58) (IRSp53/58) (Insulin receptor substrate protein of 53 kDa) (IRSp53) (Insulin receptor substrate p53)	552
+P16284	PECAM1	Platelet endothelial cell adhesion molecule (PECAM-1) (EndoCAM) (GPIIA') (PECA1) (CD antigen CD31)	738
+P07948	LYN JTK8	Tyrosine-protein kinase Lyn (EC 2.7.10.2) (Lck/Yes-related novel protein tyrosine kinase) (V-yes-1 Yamaguchi sarcoma viral related oncogene homolog) (p53Lyn) (p56Lyn)	512
+P01619	IGKV3-20	Immunoglobulin kappa variable 3-20 (Ig kappa chain V-III region B6) (Ig kappa chain V-III region GOL) (Ig kappa chain V-III region HAH) (Ig kappa chain V-III region HIC) (Ig kappa chain V-III region IARC/BL41) (Ig kappa chain V-III region NG9) (Ig kappa chain V-III region SIE) (Ig kappa chain V-III region Ti) (Ig kappa chain V-III region WOL)	116
+A0A0C4DH73	IGKV1-12	Immunoglobulin kappa variable 1-12	117
+P01375	TNF TNFA TNFSF2	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	233
+P01703	IGLV1-40	Immunoglobulin lambda variable 1-40 (Ig lambda chain V-I region NEWM)	118
+P06396	GSN	Gelsolin (AGEL) (Actin-depolymerizing factor) (ADF) (Brevin)	782
+P07947	YES1 YES	Tyrosine-protein kinase Yes (EC 2.7.10.2) (Proto-oncogene c-Yes) (p61-Yes)	543
+P00749	PLAU	Urokinase-type plasminogen activator (U-plasminogen activator) (uPA) (EC 3.4.21.73) [Cleaved into: Urokinase-type plasminogen activator long chain A; Urokinase-type plasminogen activator short chain A; Urokinase-type plasminogen activator chain B]	431
+P01614	IGKV2D-40	Immunoglobulin kappa variable 2D-40 (Ig kappa chain V-II region Cum)	121
+P36980	CFHR2 CFHL2 FHR2 HFL3	Complement factor H-related protein 2 (FHR-2) (DDESK59) (H factor-like 3) (H factor-like protein 2)	270
+P01706	IGLV2-11	Immunoglobulin lambda variable 2-11 (Ig gamma lambda chain V-II region DOT) (Ig lambda chain V-II region BOH) (Ig lambda chain V-II region BUR) (Ig lambda chain V-II region NIG-58) (Ig lambda chain V-II region TRO) (Ig lambda chain V-II region WIN)	119
+O95477	ABCA1 ABC1 CERP	Phospholipid-transporting ATPase ABCA1 (EC 7.6.2.1) (ATP-binding cassette sub-family A member 1) (ATP-binding cassette transporter 1) (ABC-1) (ATP-binding cassette 1) (Cholesterol efflux regulatory protein)	2261
+P0CF74	IGLC6	Immunoglobulin lambda constant 6 (Ig lambda-6 chain C region)	106
+O60603	TLR2 TIL4	Toll-like receptor 2 (Toll/interleukin-1 receptor-like protein 4) (CD antigen CD282)	784
+O43581	SYT7 PCANAP7	Synaptotagmin-7 (IPCA-7) (Prostate cancer-associated protein 7) (Synaptotagmin VII) (SytVII)	403
+Q9UBW5	BIN2 BRAP1	Bridging integrator 2 (Breast cancer-associated protein 1)	565
+P26718	KLRK1 D12S2489E NKG2D	NKG2-D type II integral membrane protein (Killer cell lectin-like receptor subfamily K member 1) (NK cell receptor D) (NKG2-D-activating NK receptor) (CD antigen CD314)	216
+P02747	C1QC C1QG	Complement C1q subcomponent subunit C	245
+Q92496	CFHR4 CFHL4 FHR4	Complement factor H-related protein 4 (FHR-4)	578
+P0C0L4	C4A CO4 CPAMD2	Complement C4-A (Acidic complement C4) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 2) [Cleaved into: Complement C4 beta chain; Complement C4-A alpha chain; C4a anaphylatoxin; C4b-A; C4d-A; Complement C4 gamma chain]	1744
+Q96F07	CYFIP2 KIAA1168 PIR121	Cytoplasmic FMR1-interacting protein 2 (p53-inducible protein 121)	1278
+P62807	HIST1H2BC H2BFL; HIST1H2BE H2BFH; HIST1H2BF H2BFG; HIST1H2BG H2BFA; HIST1H2BI H2BFK	Histone H2B type 1-C/E/F/G/I (Histone H2B.1 A) (Histone H2B.a) (H2B/a) (Histone H2B.g) (H2B/g) (Histone H2B.h) (H2B/h) (Histone H2B.k) (H2B/k) (Histone H2B.l) (H2B/l)	126
+O60814	HIST1H2BK H2BFT HIRIP1	Histone H2B type 1-K (H2B K) (HIRA-interacting protein 1)	126
+Q9BZG1	RAB34 RAB39 RAH	Ras-related protein Rab-34 (Ras-related protein Rab-39) (Ras-related protein Rah)	259
+P01699	IGLV1-44	Immunoglobulin lambda variable 1-44 (Ig lambda chain V-I region MEM) (Ig lambda chain V-I region VOR)	117
+Q9BXN2	CLEC7A BGR CLECSF12 DECTIN1 UNQ539/PRO1082	C-type lectin domain family 7 member A (Beta-glucan receptor) (C-type lectin superfamily member 12) (Dendritic cell-associated C-type lectin 1) (DC-associated C-type lectin 1) (Dectin-1) (CD antigen CD369)	247
+Q14393	GAS6 AXLLG	Growth arrest-specific protein 6 (GAS-6) (AXL receptor tyrosine kinase ligand)	678
+Q92747	ARPC1A SOP2L	Actin-related protein 2/3 complex subunit 1A (SOP2-like protein)	370
+P51812	RPS6KA3 ISPK1 MAPKAPK1B RSK2	Ribosomal protein S6 kinase alpha-3 (S6K-alpha-3) (EC 2.7.11.1) (90 kDa ribosomal protein S6 kinase 3) (p90-RSK 3) (p90RSK3) (Insulin-stimulated protein kinase 1) (ISPK-1) (MAP kinase-activated protein kinase 1b) (MAPK-activated protein kinase 1b) (MAPKAP kinase 1b) (MAPKAPK-1b) (Ribosomal S6 kinase 2) (RSK-2) (pp90RSK2)	740
+Q9Y4K3	TRAF6 RNF85	TNF receptor-associated factor 6 (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRAF6) (Interleukin-1 signal transducer) (RING finger protein 85) (RING-type E3 ubiquitin transferase TRAF6)	522
+P62979	RPS27A UBA80 UBCEP1	Ubiquitin-40S ribosomal protein S27a (Ubiquitin carboxyl extension protein 80) [Cleaved into: Ubiquitin; 40S ribosomal protein S27a (Small ribosomal subunit protein eS31)]	156
+P35232	PHB	Prohibitin	272
+P23297	S100A1 S100A	Protein S100-A1 (S-100 protein alpha chain) (S-100 protein subunit alpha) (S100 calcium-binding protein A1)	94
+Q96KX0	LYZL4 LYC4	Lysozyme-like protein 4 (Lysozyme-4)	146
+P01766	IGHV3-13	Immunoglobulin heavy variable 3-13 (Ig heavy chain V-III region BRO)	116
+B9A064	IGLL5	Immunoglobulin lambda-like polypeptide 5 (G lambda-1) (Germline immunoglobulin lambda 1)	214
+Q70J99	UNC13D	Protein unc-13 homolog D (Munc13-4)	1090
+P07711	CTSL CTSL1	Cathepsin L1 (EC 3.4.22.15) (Cathepsin L) (Major excreted protein) (MEP) [Cleaved into: Cathepsin L1 heavy chain; Cathepsin L1 light chain]	333
+P02745	C1QA	Complement C1q subcomponent subunit A	245
+Q5VY43	PEAR1 MEGF12	Platelet endothelial aggregation receptor 1 (hPEAR1) (Multiple epidermal growth factor-like domains protein 12) (Multiple EGF-like domains protein 12)	1037
+O75636	FCN3 FCNH HAKA1	Ficolin-3 (Collagen/fibrinogen domain-containing lectin 3 p35) (Collagen/fibrinogen domain-containing protein 3) (Hakata antigen)	299
+Q9H1E1	RNASE7 UNQ2516/PRO6006	Ribonuclease 7 (RNase 7) (EC 3.1.27.-) (Skin-derived antimicrobial protein 2) (SAP-2)	156
+P01814	IGHV2-70	Immunoglobulin heavy variable 2-70 (Ig heavy chain V-II region COR) (Ig heavy chain V-II region DAW) (Ig heavy chain V-II region OU) (Ig heavy chain V-II region SESS)	119
+P05106	ITGB3 GP3A	Integrin beta-3 (Platelet membrane glycoprotein IIIa) (GPIIIa) (CD antigen CD61)	788
+O60733	PLA2G6 PLPLA9	85/88 kDa calcium-independent phospholipase A2 (CaI-PLA2) (EC 3.1.1.4) (Group VI phospholipase A2) (GVI PLA2) (Intracellular membrane-associated calcium-independent phospholipase A2 beta) (iPLA2-beta) (Patatin-like phospholipase domain-containing protein 9) (PNPLA9)	806
+P01772	IGHV3-33	Immunoglobulin heavy variable 3-33 (Ig heavy chain V-III region HIL) (Ig heavy chain V-III region KOL)	117
+P61077	UBE2D3 UBC5C UBCH5C	Ubiquitin-conjugating enzyme E2 D3 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme D3) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme D3) (Ubiquitin carrier protein D3) (Ubiquitin-conjugating enzyme E2(17)KB 3) (Ubiquitin-conjugating enzyme E2-17 kDa 3) (Ubiquitin-protein ligase D3)	147
+P11215	ITGAM CD11B CR3A	Integrin alpha-M (CD11 antigen-like family member B) (CR-3 alpha chain) (Cell surface glycoprotein MAC-1 subunit alpha) (Leukocyte adhesion receptor MO1) (Neutrophil adherence receptor) (CD antigen CD11b)	1152
+P59665	DEFA1 DEF1 DEFA2 MRS; DEFA1B	Neutrophil defensin 1 (Defensin, alpha 1) (HNP-1) (HP-1) (HP1) [Cleaved into: HP 1-56; Neutrophil defensin 2 (HNP-2) (HP-2) (HP2)]	94
+P00751	CFB BF BFD	Complement factor B (EC 3.4.21.47) (C3/C5 convertase) (Glycine-rich beta glycoprotein) (GBG) (PBF2) (Properdin factor B) [Cleaved into: Complement factor B Ba fragment; Complement factor B Bb fragment]	764
+P01700	IGLV1-47	Immunoglobulin lambda variable 1-47 (Ig lambda chain V-I region HA) (Ig lambda chain V-I region WAH)	117
+O15455	TLR3	Toll-like receptor 3 (CD antigen CD283)	904
+P61626	LYZ LZM	Lysozyme C (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)	148
+P01743	IGHV1-46	Immunoglobulin heavy variable 1-46 (Ig heavy chain V-I region DOT) (Ig heavy chain V-I region HG3) (Ig heavy chain V-I region Mot)	117
+Q5KU26	COLEC12 CLP1 NSR2 SCARA4 SRCL	Collectin-12 (Collectin placenta protein 1) (CL-P1) (hCL-P1) (Nurse cell scavenger receptor 2) (Scavenger receptor class A member 4) (Scavenger receptor with C-type lectin)	742
+P08246	ELANE ELA2	Neutrophil elastase (EC 3.4.21.37) (Bone marrow serine protease) (Elastase-2) (Human leukocyte elastase) (HLE) (Medullasin) (PMN elastase)	267
+Q8NBS9	TXNDC5 TLP46 UNQ364/PRO700	Thioredoxin domain-containing protein 5 (Endoplasmic reticulum resident protein 46) (ER protein 46) (ERp46) (Thioredoxin-like protein p46)	432
+P01892	HLA-A HLAA	HLA class I histocompatibility antigen, A-2 alpha chain (Human leukocyte antigen A*02) (HLA-A*02)	365
+O00602	FCN1 FCNM	Ficolin-1 (Collagen/fibrinogen domain-containing protein 1) (Ficolin-A) (Ficolin-alpha) (M-ficolin)	326
+P30273	FCER1G	High affinity immunoglobulin epsilon receptor subunit gamma (Fc receptor gamma-chain) (FcRgamma) (Fc-epsilon RI-gamma) (IgE Fc receptor subunit gamma) (FceRI gamma)	86
+Q96IY4	CPB2	Carboxypeptidase B2 (EC 3.4.17.20) (Carboxypeptidase U) (CPU) (Plasma carboxypeptidase B) (pCPB) (Thrombin-activable fibrinolysis inhibitor) (TAFI)	423
+P62987	UBA52 UBCEP2	Ubiquitin-60S ribosomal protein L40 (CEP52) (Ubiquitin A-52 residue ribosomal protein fusion product 1) [Cleaved into: Ubiquitin; 60S ribosomal protein L40 (Large ribosomal subunit protein eL40)]	128
+P06681	C2	Complement C2 (EC 3.4.21.43) (C3/C5 convertase) [Cleaved into: Complement C2b fragment; Complement C2a fragment]	752
+P07357	C8A	Complement component C8 alpha chain (Complement component 8 subunit alpha)	584
+P46108	CRK	Adapter molecule crk (Proto-oncogene c-Crk) (p38)	304
+P00519	ABL1 ABL JTK7	Tyrosine-protein kinase ABL1 (EC 2.7.10.2) (Abelson murine leukemia viral oncogene homolog 1) (Abelson tyrosine-protein kinase 1) (Proto-oncogene c-Abl) (p150)	1130
+P12931	SRC SRC1	Proto-oncogene tyrosine-protein kinase Src (EC 2.7.10.2) (Proto-oncogene c-Src) (pp60c-src) (p60-Src)	536
+P50995	ANXA11 ANX11	Annexin A11 (56 kDa autoantigen) (Annexin XI) (Annexin-11) (Calcyclin-associated annexin 50) (CAP-50)	505
+P01871	IGHM	Immunoglobulin heavy constant mu (Ig mu chain C region) (Ig mu chain C region BOT) (Ig mu chain C region GAL) (Ig mu chain C region OU)	453
+P25774	CTSS	Cathepsin S (EC 3.4.22.27)	331
+E5RHG4	PLAT	Tissue-type plasminogen activator (Fragment)	157
+Q01524	DEFA6 DEF6	Defensin-6 (Defensin, alpha 6)	100
+P0DOY2	IGLC2	Immunoglobulin lambda constant 2 (Ig lambda chain C region Kern) (Ig lambda chain C region NIG-64) (Ig lambda chain C region SH) (Ig lambda chain C region X) (Ig lambda-2 chain C region)	106
+P01825	IGHV4-59	Immunoglobulin heavy variable 4-59 (Ig heavy chain V-II region NEWM)	116
+P07358	C8B	Complement component C8 beta chain (Complement component 8 subunit beta)	591
+P03950	ANG RNASE5	Angiogenin (EC 3.1.27.-) (Ribonuclease 5) (RNase 5)	147
+P20339	RAB5A RAB5	Ras-related protein Rab-5A	215
+P51149	RAB7A RAB7	Ras-related protein Rab-7a	207
+Q9UEW3	MARCO SCARA2	Macrophage receptor MARCO (Macrophage receptor with collagenous structure) (Scavenger receptor class A member 2)	520
+P08311	CTSG	Cathepsin G (CG) (EC 3.4.21.20)	255
+P0CG47	UBB	Polyubiquitin-B [Cleaved into: Ubiquitin]	229
+Q9HCY8	S100A14 S100A15	Protein S100-A14 (S100 calcium-binding protein A14) (S114)	104
+E5RGA1	PLAT	Tissue-type plasminogen activator (Fragment)	178
+P01782	IGHV3-9	Immunoglobulin heavy variable 3-9 (Ig heavy chain V-III region DOB)	118
+P48740	MASP1 CRARF CRARF1 PRSS5	Mannan-binding lectin serine protease 1 (EC 3.4.21.-) (Complement factor MASP-3) (Complement-activating component of Ra-reactive factor) (Mannose-binding lectin-associated serine protease 1) (MASP-1) (Mannose-binding protein-associated serine protease) (Ra-reactive factor serine protease p100) (RaRF) (Serine protease 5) [Cleaved into: Mannan-binding lectin serine protease 1 heavy chain; Mannan-binding lectin serine protease 1 light chain]	699
+P01768	IGHV3-30	Immunoglobulin heavy variable 3-30 (Ig heavy chain V-III region BUR) (Ig heavy chain V-III region CAM) (Ig heavy chain V-III region GA) (Ig heavy chain V-III region NIE)	117
+P07225	PROS1 PROS	Vitamin K-dependent protein S	676
+Q99572	P2RX7	P2X purinoceptor 7 (P2X7) (ATP receptor) (P2Z receptor) (Purinergic receptor)	595
+P08887	IL6R	Interleukin-6 receptor subunit alpha (IL-6 receptor subunit alpha) (IL-6R subunit alpha) (IL-6R-alpha) (IL-6RA) (IL-6R 1) (Membrane glycoprotein 80) (gp80) (CD antigen CD126)	468
+E9PGN7	SERPING1	Plasma protease C1 inhibitor	543
+P78539	SRPX ETX1	Sushi repeat-containing protein SRPX	464
+P08603	CFH HF HF1 HF2	Complement factor H (H factor 1)	1231
+Q96PD5	PGLYRP2 PGLYRPL PGRPL UNQ3103/PRO10102	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) (Peptidoglycan recognition protein 2) (Peptidoglycan recognition protein long) (PGRP-L)	576
+P01611	IGKV1D-12	Immunoglobulin kappa variable 1D-12 (Ig kappa chain V-I region Wes)	117
+O00159	MYO1C	Unconventional myosin-Ic (Myosin I beta) (MMI-beta) (MMIb)	1063
+P05067	APP A4 AD1	Amyloid-beta precursor protein (APP) (ABPP) (APPI) (Alzheimer disease amyloid protein) (Amyloid precursor protein) (Amyloid-beta A4 protein) (Cerebral vascular amyloid peptide) (CVAP) (PreA4) (Protease nexin-II) (PN-II) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99 (Beta-secretase C-terminal fragment) (Beta-CTF); Amyloid-beta protein 42 (Abeta42) (Beta-APP42); Amyloid-beta protein 40 (Abeta40) (Beta-APP40); C83 (Alpha-secretase C-terminal fragment) (Alpha-CTF); P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Amyloid intracellular domain 59) (AICD-59) (AID(59)) (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Amyloid intracellular domain 57) (AICD-57) (AID(57)) (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Amyloid intracellular domain 50) (AICD-50) (AID(50)) (Gamma-CTF(50)); C31]	770
+P01599	IGKV1-17	Immunoglobulin kappa variable 1-17 (Ig kappa chain V-I region Gal) (Ig kappa chain V-I region WEA)	117
+P12838	DEFA4 DEF4	Neutrophil defensin 4 (Defensin, alpha 4) (HNP-4) (HP-4)	97
+P06312	IGKV4-1	Immunoglobulin kappa variable 4-1 (Ig kappa chain V-IV region B17) (Ig kappa chain V-IV region JI) (Ig kappa chain V-IV region Len) (Ig kappa chain V-IV region STH)	121
+P02679	FGG PRO2061	Fibrinogen gamma chain	453
+Q96LB9	PGLYRP3 PGRPIA	Peptidoglycan recognition protein 3 (Peptidoglycan recognition protein I-alpha) (PGLYRPIalpha) (PGRP-I-alpha) (Peptidoglycan recognition protein intermediate alpha)	341
+P05107	ITGB2 CD18 MFI7	Integrin beta-2 (Cell surface adhesion glycoproteins LFA-1/CR3/p150,95 subunit beta) (Complement receptor C3 subunit beta) (CD antigen CD18)	769
+P26022	PTX3 TNFAIP5 TSG14	Pentraxin-related protein PTX3 (Pentaxin-related protein PTX3) (Tumor necrosis factor alpha-induced protein 5) (TNF alpha-induced protein 5) (Tumor necrosis factor-inducible gene 14 protein) (TSG-14)	381
+A1L4H1	SSC5D	Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D (Soluble scavenger protein with 5 SRCR domains) (SSc5D)	1573
+Q2VPA4	CR1L	Complement component receptor 1-like protein (Complement C4b-binding protein CR-1-like protein)	569
+P48357	LEPR DB OBR	Leptin receptor (LEP-R) (HuB219) (OB receptor) (OB-R) (CD antigen CD295)	1165
+P00709	LALBA LYZL7	Alpha-lactalbumin (Lactose synthase B protein) (Lysozyme-like protein 7)	142
+Q6UWQ5	LYZL1 LYC2 UNQ648/PRO1278	Lysozyme-like protein 1 (EC 3.2.1.17)	148
+Q96KG7	MEGF10 KIAA1780	Multiple epidermal growth factor-like domains protein 10 (Multiple EGF-like domains protein 10)	1140
+P09871	C1S	Complement C1s subcomponent (EC 3.4.21.42) (C1 esterase) (Complement component 1 subcomponent s) [Cleaved into: Complement C1s subcomponent heavy chain; Complement C1s subcomponent light chain]	688
+P60033	CD81 TAPA1 TSPAN28	CD81 antigen (26 kDa cell surface protein TAPA-1) (Target of the antiproliferative antibody 1) (Tetraspanin-28) (Tspan-28) (CD antigen CD81)	236
+P10643	C7	Complement component C7	843
+P30542	ADORA1	Adenosine receptor A1	326
+P04430	IGKV1-16	Immunoglobulin kappa variable 1-16 (Ig kappa chain V-I region BAN)	117
+P08174	CD55 CR DAF	Complement decay-accelerating factor (CD antigen CD55)	381
+P15169	CPN1 ACBP	Carboxypeptidase N catalytic chain (CPN) (EC 3.4.17.3) (Anaphylatoxin inactivator) (Arginine carboxypeptidase) (Carboxypeptidase N polypeptide 1) (Carboxypeptidase N small subunit) (Kininase-1) (Lysine carboxypeptidase) (Plasma carboxypeptidase B) (Serum carboxypeptidase N) (SCPN)	458
+P01031	C5 CPAMD4	Complement C5 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 4) [Cleaved into: Complement C5 beta chain; Complement C5 alpha chain; C5a anaphylatoxin; Complement C5 alpha' chain]	1676
+Q9BXR5	TLR10 UNQ315/PRO358	Toll-like receptor 10 (CD antigen CD290)	811
+P01721	IGLV6-57	Immunoglobulin lambda variable 6-57 (Ig lambda chain V-VI region AR) (Ig lambda chain V-VI region EB4) (Ig lambda chain V-VI region NIG-48) (Ig lambda chain V-VI region SUT) (Ig lambda chain V-VI region WLT)	117
+O15144	ARPC2 ARC34 PRO2446	Actin-related protein 2/3 complex subunit 2 (Arp2/3 complex 34 kDa subunit) (p34-ARC)	300
+P12318	FCGR2A CD32 FCG2 FCGR2A1 IGFR2	Low affinity immunoglobulin gamma Fc region receptor II-a (IgG Fc receptor II-a) (CDw32) (Fc-gamma RII-a) (Fc-gamma-RIIa) (FcRII-a) (CD antigen CD32)	317
+P21980	TGM2	Protein-glutamine gamma-glutamyltransferase 2 (EC 2.3.2.13) (Tissue transglutaminase) (Transglutaminase C) (TG(C)) (TGC) (TGase C) (Transglutaminase H) (TGase H) (Transglutaminase-2) (TGase-2)	687
+P02749	APOH B2G1	Beta-2-glycoprotein 1 (APC inhibitor) (Activated protein C-binding protein) (Anticardiolipin cofactor) (Apolipoprotein H) (Apo-H) (Beta-2-glycoprotein I) (B2GPI) (Beta(2)GPI)	345
+P13747	HLA-E HLA-6.2 HLAE	HLA class I histocompatibility antigen, alpha chain E (MHC class I antigen E) [Cleaved into: Soluble HLA class I histocompatibility antigen, alpha chain E (sHLA-E)]	358
+Q93091	RNASE6 RNS6	Ribonuclease K6 (RNase K6) (EC 3.1.27.-)	150
+Q92956	TNFRSF14 HVEA HVEM UNQ329/PRO509	Tumor necrosis factor receptor superfamily member 14 (Herpes virus entry mediator A) (Herpesvirus entry mediator A) (HveA) (Tumor necrosis factor receptor-like 2) (TR2) (CD antigen CD270)	283
+P13671	C6	Complement component C6	934
+P80748	IGLV3-21	Immunoglobulin lambda variable 3-21 (Ig lambda chain V-III region LOI) (Ig lambda chain V-V region DEL) (Ig lambda chain V-VII region MOT)	117
+P01817	IGHV2-5	Immunoglobulin heavy variable 2-5 (Ig heavy chain V-II region HE) (Ig heavy chain V-II region MCE)	119
+P60953	CDC42	Cell division control protein 42 homolog (EC 3.6.5.2) (G25K GTP-binding protein)	191
+Q9H756	LRRC19	Leucine-rich repeat-containing protein 19	370
+Q9NWZ3	IRAK4	Interleukin-1 receptor-associated kinase 4 (IRAK-4) (EC 2.7.11.1) (Renal carcinoma antigen NY-REN-64)	460
+P06315	IGKV5-2	Immunoglobulin kappa variable 5-2 (Ig kappa chain V region EV15)	115
+Q15485	FCN2 FCNL	Ficolin-2 (37 kDa elastin-binding protein) (Collagen/fibrinogen domain-containing protein 2) (EBP-37) (Ficolin-B) (Ficolin-beta) (Hucolin) (L-ficolin) (Serum lectin p35)	313
+P03952	KLKB1 KLK3	Plasma kallikrein (EC 3.4.21.34) (Fletcher factor) (Kininogenin) (Plasma prekallikrein) (PKK) [Cleaved into: Plasma kallikrein heavy chain; Plasma kallikrein light chain]	638
+P01615	IGKV2D-28	Immunoglobulin kappa variable 2D-28 (Ig kappa chain V-II region FR) (Ig kappa chain V-II region GM607) (Ig kappa chain V-II region MIL) (Ig kappa chain V-II region TEW)	120
+P04003	C4BPA C4BP	C4b-binding protein alpha chain (C4bp) (Proline-rich protein) (PRP)	597
+P01718	IGLV3-27	Immunoglobulin lambda variable 3-27 (Ig lambda chain V-IV region Kern)	113
+P55160	NCKAP1L HEM1	Nck-associated protein 1-like (Hematopoietic protein 1) (Membrane-associated protein HEM-1)	1127
+P01594	IGKV1-33	Immunoglobulin kappa variable 1-33 (Ig kappa chain V-I region AU) (Ig kappa chain V-I region Ka)	117
+P17927	CR1 C3BR	Complement receptor type 1 (C3b/C4b receptor) (CD antigen CD35)	2039
+A0A075B6S6	IGKV2D-30	Immunoglobulin kappa variable 2D-30	120
+P04004	VTN	Vitronectin (VN) (S-protein) (Serum-spreading factor) (V75) [Cleaved into: Vitronectin V65 subunit; Vitronectin V10 subunit; Somatomedin-B]	478
+Q9NYK1	TLR7 UNQ248/PRO285	Toll-like receptor 7	1049
+P00558	PGK1 PGKA MIG10 OK/SW-cl.110	Phosphoglycerate kinase 1 (EC 2.7.2.3) (Cell migration-inducing gene 10 protein) (Primer recognition protein 2) (PRP 2)	417
+P12724	RNASE3 ECP RNS3	Eosinophil cationic protein (ECP) (EC 3.1.27.-) (Ribonuclease 3) (RNase 3)	160
+Q9Y2C9	TLR6	Toll-like receptor 6 (CD antigen CD286)	796
+Q12866	MERTK MER	Tyrosine-protein kinase Mer (EC 2.7.10.1) (Proto-oncogene c-Mer) (Receptor tyrosine kinase MerTK)	999
+P06702	S100A9 CAGB CFAG MRP14	Protein S100-A9 (Calgranulin-B) (Calprotectin L1H subunit) (Leukocyte L1 complex heavy chain) (Migration inhibitory factor-related protein 14) (MRP-14) (p14) (S100 calcium-binding protein A9)	114
+P01767	IGHV3-53	Immunoglobulin heavy variable 3-53 (Ig heavy chain V-III region BUT)	116
+Q96LB8	PGLYRP4 PGRPIB SBBI67	Peptidoglycan recognition protein 4 (Peptidoglycan recognition protein I-beta) (PGLYRPIbeta) (PGRP-I-beta) (Peptidoglycan recognition protein intermediate beta)	373
+Q8IWL2	SFTPA1 COLEC4 PSAP SFTP1 SFTPA SFTPA1B	Pulmonary surfactant-associated protein A1 (PSP-A) (PSPA) (SP-A) (SP-A1) (35 kDa pulmonary surfactant-associated protein) (Alveolar proteinosis protein) (Collectin-4)	248
+P31146	CORO1A CORO1	Coronin-1A (Coronin-like protein A) (Clipin-A) (Coronin-like protein p57) (Tryptophan aspartate-containing coat protein) (TACO)	461
+P49279	SLC11A1 LSH NRAMP NRAMP1	Natural resistance-associated macrophage protein 1 (NRAMP 1) (Solute carrier family 11 member 1)	550
+P06899	HIST1H2BJ H2BFR	Histone H2B type 1-J (Histone H2B.1) (Histone H2B.r) (H2B/r)	126
+P01715	IGLV3-1	Immunoglobulin lambda variable 3-1 (Ig lambda chain V-IV region Bau) (Ig lambda chain V-IV region MOL) (Ig lambda chain V-IV region X)	115
+Q8IWL1	SFTPA2 COLEC5 PSAP SFTP1 SFTPA SFTPA2B	Pulmonary surfactant-associated protein A2 (PSP-A) (PSPA) (SP-A) (SP-A2) (35 kDa pulmonary surfactant-associated protein) (Alveolar proteinosis protein) (Collectin-5)	248
+P59998	ARPC4 ARC20	Actin-related protein 2/3 complex subunit 4 (Arp2/3 complex 20 kDa subunit) (p20-ARC)	168
+P21757	MSR1 SCARA1	Macrophage scavenger receptor types I and II (Macrophage acetylated LDL receptor I and II) (Scavenger receptor class A member 1) (CD antigen CD204)	451
+P01880	IGHD	Immunoglobulin heavy constant delta (Ig delta chain C region) (Ig delta chain C region NIG-65) (Ig delta chain C region WAH)	384
+O15143	ARPC1B ARC41	Actin-related protein 2/3 complex subunit 1B (Arp2/3 complex 41 kDa subunit) (p41-ARC)	372
+P35247	SFTPD COLEC7 PSPD SFTP4	Pulmonary surfactant-associated protein D (PSP-D) (SP-D) (Collectin-7) (Lung surfactant protein D)	375
+Q8TDQ0	HAVCR2 TIM3 TIMD3	Hepatitis A virus cellular receptor 2 (HAVcr-2) (T-cell immunoglobulin and mucin domain-containing protein 3) (TIMD-3) (T-cell immunoglobulin mucin receptor 3) (TIM-3) (T-cell membrane protein 3) (CD antigen CD366)	301
+Q92637	FCGR1B IGFRB	High affinity immunoglobulin gamma Fc receptor IB (IgG Fc receptor IB) (Fc-gamma RIB) (FcRIB) (hFcgammaRIB)	280
+Q8N5C8	TAB3 MAP3K7IP3	TGF-beta-activated kinase 1 and MAP3K7-binding protein 3 (Mitogen-activated protein kinase kinase kinase 7-interacting protein 3) (NF-kappa-B-activating protein 1) (TAK1-binding protein 3) (TAB-3) (TGF-beta-activated kinase 1-binding protein 3)	712
+Q6UWB1	IL27RA CRL1 TCCR WSX1 UNQ296/PRO336	Interleukin-27 receptor subunit alpha (IL-27 receptor subunit alpha) (IL-27R subunit alpha) (IL-27R-alpha) (IL-27RA) (Cytokine receptor WSX-1) (Cytokine receptor-like 1) (Type I T-cell cytokine receptor) (TCCR) (ZcytoR1)	636
+P24158	PRTN3 MBN	Myeloblastin (EC 3.4.21.76) (AGP7) (C-ANCA antigen) (Leukocyte proteinase 3) (PR-3) (PR3) (Neutrophil proteinase 4) (NP-4) (P29) (Wegener autoantigen)	256
+P51809	VAMP7 SYBL1	Vesicle-associated membrane protein 7 (VAMP-7) (Synaptobrevin-like protein 1) (Tetanus-insensitive VAMP) (Ti-VAMP)	220
+P01764	IGHV3-23	Immunoglobulin heavy variable 3-23 (Ig heavy chain V-III region LAY) (Ig heavy chain V-III region POM) (Ig heavy chain V-III region TEI) (Ig heavy chain V-III region TIL) (Ig heavy chain V-III region TUR) (Ig heavy chain V-III region VH26) (Ig heavy chain V-III region WAS) (Ig heavy chain V-III region ZAP)	117
+O14514	ADGRB1 BAI1	Adhesion G protein-coupled receptor B1 (Brain-specific angiogenesis inhibitor 1) [Cleaved into: Vasculostatin-40 (Vstat40); Vasculostatin-120 (Vstat120)]	1584
+P01714	IGLV3-19	Immunoglobulin lambda variable 3-19 (Ig lambda chain V-III region SH)	112
+P01763	IGHV3-48	Immunoglobulin heavy variable 3-48 (Ig heavy chain V-III region WEA)	117
+P01024	C3 CPAMD1	Complement C3 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 1) [Cleaved into: Complement C3 beta chain; C3-beta-c (C3bc); Complement C3 alpha chain; C3a anaphylatoxin; Acylation stimulating protein (ASP) (C3adesArg); Complement C3b alpha' chain; Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2]	1663
+Q92544	TM9SF4 KIAA0255 TUCAP1	Transmembrane 9 superfamily member 4 (Tumor cannibalism associated protein 1)	642
+P32942	ICAM3	Intercellular adhesion molecule 3 (ICAM-3) (CDw50) (ICAM-R) (CD antigen CD50)	547
+P02675	FGB	Fibrinogen beta chain [Cleaved into: Fibrinopeptide B; Fibrinogen beta chain]	491
+P06310	IGKV2-30	Immunoglobulin kappa variable 2-30 (Ig kappa chain V-II region RPMI 6410)	120
+P50570	DNM2 DYN2	Dynamin-2 (EC 3.6.5.5)	870
+P02748	C9	Complement component C9 [Cleaved into: Complement component C9a; Complement component C9b]	559
+P60709	ACTB	Actin, cytoplasmic 1 (Beta-actin) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]	375
+P06756	ITGAV MSK8 VNRA VTNR	Integrin alpha-V (Vitronectin receptor) (Vitronectin receptor subunit alpha) (CD antigen CD51) [Cleaved into: Integrin alpha-V heavy chain; Integrin alpha-V light chain]	1048
+Q9Y3L3	SH3BP1	SH3 domain-binding protein 1	701
+P20851	C4BPB	C4b-binding protein beta chain	252
+Q08722	CD47 MER6	Leukocyte surface antigen CD47 (Antigenic surface determinant protein OA3) (Integrin-associated protein) (IAP) (Protein MER6) (CD antigen CD47)	323
+P04433	IGKV3-11	Immunoglobulin kappa variable 3-11 (Ig kappa chain V-III region VG)	115
+P04211	IGLV7-43	Immunoglobulin lambda variable 7-43 (Ig lambda chain V region 4A)	117
+O75594	PGLYRP1 PGLYRP PGRP TNFSF3L SBBI68 UNQ639/PRO1269	Peptidoglycan recognition protein 1 (Peptidoglycan recognition protein short) (PGRP-S)	196
+P61106	RAB14	Ras-related protein Rab-14	215
+Q02156	PRKCE PKCE	Protein kinase C epsilon type (EC 2.7.11.13) (nPKC-epsilon)	737
+P63261	ACTG1 ACTG	Actin, cytoplasmic 2 (Gamma-actin) [Cleaved into: Actin, cytoplasmic 2, N-terminally processed]	375
+E7ESF4	PLAT	Plasminogen activator (EC 3.4.21.68)	499
+P20963	CD247 CD3Z T3Z TCRZ	T-cell surface glycoprotein CD3 zeta chain (T-cell receptor T3 zeta chain) (CD antigen CD247)	164
+P29317	EPHA2 ECK	Ephrin type-A receptor 2 (EC 2.7.10.1) (Epithelial cell kinase) (Tyrosine-protein kinase receptor ECK)	976
+P62993	GRB2 ASH	Growth factor receptor-bound protein 2 (Adapter protein GRB2) (Protein Ash) (SH2/SH3 adapter GRB2)	217
+P02788	LTF GIG12 LF	Lactotransferrin (Lactoferrin) (EC 3.4.21.-) (Growth-inhibiting protein 12) (Talalactoferrin) [Cleaved into: Lactoferricin-H (Lfcin-H); Kaliocin-1; Lactoferroxin-A; Lactoferroxin-B; Lactoferroxin-C]	710
+P32971	TNFSF8 CD30L CD30LG	Tumor necrosis factor ligand superfamily member 8 (CD30 ligand) (CD30-L) (CD antigen CD153)	234
+P09769	FGR SRC2	Tyrosine-protein kinase Fgr (EC 2.7.10.2) (Gardner-Rasheed feline sarcoma viral (v-fgr) oncogene homolog) (Proto-oncogene c-Fgr) (p55-Fgr) (p58-Fgr) (p58c-Fgr)	529
+O00401	WASL	Neural Wiskott-Aldrich syndrome protein (N-WASP)	505
+Q6UW15	REG3G PAP1B UNQ429/PRO162	Regenerating islet-derived protein 3-gamma (REG-3-gamma) (Pancreatitis-associated protein 1B) (PAP-1B) (Pancreatitis-associated protein IB) (PAP IB) (Regenerating islet-derived protein III-gamma) (REG III) (Reg III-gamma) [Cleaved into: Regenerating islet-derived protein 3-gamma 16.5 kDa form; Regenerating islet-derived protein 3-gamma 15 kDa form]	175
+P22792	CPN2 ACBP	Carboxypeptidase N subunit 2 (Carboxypeptidase N 83 kDa chain) (Carboxypeptidase N large subunit) (Carboxypeptidase N polypeptide 2) (Carboxypeptidase N regulatory subunit)	545
+B4DNJ1	PLAT	Tissue-type plasminogen activator (cDNA FLJ59358, highly similar to Tissue-type plasminogen activator)	436
+Q9UMF0	ICAM5 TLCN TLN	Intercellular adhesion molecule 5 (ICAM-5) (Telencephalin)	924
+P05109	S100A8 CAGA CFAG MRP8	Protein S100-A8 (Calgranulin-A) (Calprotectin L1L subunit) (Cystic fibrosis antigen) (CFAG) (Leukocyte L1 complex light chain) (Migration inhibitory factor-related protein 8) (MRP-8) (p8) (S100 calcium-binding protein A8) (Urinary stone protein band A)	93
+Q9BXR6	CFHR5 CFHL5 FHR5	Complement factor H-related protein 5 (FHR-5)	569
+P16885	PLCG2	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2 (EC 3.1.4.11) (Phosphoinositide phospholipase C-gamma-2) (Phospholipase C-IV) (PLC-IV) (Phospholipase C-gamma-2) (PLC-gamma-2)	1265
+B0I1T2	MYO1G HA2	Unconventional myosin-Ig [Cleaved into: Minor histocompatibility antigen HA-2 (mHag HA-2)]	1018
+P07858	CTSB CPSB	Cathepsin B (EC 3.4.22.1) (APP secretase) (APPS) (Cathepsin B1) [Cleaved into: Cathepsin B light chain; Cathepsin B heavy chain]	339
+P01624	IGKV3-15	Immunoglobulin kappa variable 3-15 (Ig kappa chain V-III region CLL) (Ig kappa chain V-III region POM)	115
+P07996	THBS1 TSP TSP1	Thrombospondin-1 (Glycoprotein G)	1170
+P28482	MAPK1 ERK2 PRKM1 PRKM2	Mitogen-activated protein kinase 1 (MAP kinase 1) (MAPK 1) (EC 2.7.11.24) (ERT1) (Extracellular signal-regulated kinase 2) (ERK-2) (MAP kinase isoform p42) (p42-MAPK) (Mitogen-activated protein kinase 2) (MAP kinase 2) (MAPK 2)	360
+P24071	FCAR CD89	Immunoglobulin alpha Fc receptor (IgA Fc receptor) (CD antigen CD89)	287
+P02746	C1QB	Complement C1q subcomponent subunit B	253
+P31994	FCGR2B CD32 FCG2 IGFR2	Low affinity immunoglobulin gamma Fc region receptor II-b (IgG Fc receptor II-b) (CDw32) (Fc-gamma RII-b) (Fc-gamma-RIIb) (FcRII-b) (CD antigen CD32)	310
+P0CG48	UBC	Polyubiquitin-C [Cleaved into: Ubiquitin]	685
+Q8WTV0	SCARB1 CD36L1 CLA1	Scavenger receptor class B member 1 (SRB1) (CD36 and LIMPII analogous 1) (CLA-1) (CD36 antigen-like 1) (Collagen type I receptor, thrombospondin receptor-like 1) (SR-BI) (CD antigen CD36)	552
+P08637	FCGR3A CD16A FCG3 FCGR3 IGFR3	Low affinity immunoglobulin gamma Fc region receptor III-A (CD16a antigen) (Fc-gamma RIII-alpha) (Fc-gamma RIII) (Fc-gamma RIIIa) (FcRIII) (FcRIIIa) (FcR-10) (IgG Fc receptor III-2) (CD antigen CD16a)	254
+P02741	CRP PTX1	C-reactive protein [Cleaved into: C-reactive protein(1-205)]	224
+P29274	ADORA2A ADORA2	Adenosine receptor A2a	412
+P49137	MAPKAPK2	MAP kinase-activated protein kinase 2 (MAPK-activated protein kinase 2) (MAPKAP kinase 2) (MAPKAP-K2) (MAPKAPK-2) (MK-2) (MK2) (EC 2.7.11.1)	400
+P01704	IGLV2-14	Immunoglobulin lambda variable 2-14 (Ig lambda chain V-II region NIG-84) (Ig lambda chain V-II region TOG) (Ig lambda chain V-II region VIL)	120
+P01709	IGLV2-8	Immunoglobulin lambda variable 2-8 (Ig lambda chain V-II region BO) (Ig lambda chain V-II region MGC)	118
+P10909	CLU APOJ CLI KUB1 AAG4	Clusterin (Aging-associated gene 4 protein) (Apolipoprotein J) (Apo-J) (Complement cytolysis inhibitor) (CLI) (Complement-associated protein SP-40,40) (Ku70-binding protein 1) (NA1/NA2) (Sulfated glycoprotein 2) (SGP-2) (Testosterone-repressed prostate message 2) (TRPM-2) [Cleaved into: Clusterin beta chain (ApoJalpha) (Complement cytolysis inhibitor a chain); Clusterin alpha chain (ApoJbeta) (Complement cytolysis inhibitor b chain)]	449
+O75951	LYZL6 LYC1 UNQ754/PRO1485	Lysozyme-like protein 6 (EC 3.2.1.17)	148
+P15391	CD19	B-lymphocyte antigen CD19 (B-lymphocyte surface antigen B4) (Differentiation antigen CD19) (T-cell surface antigen Leu-12) (CD antigen CD19)	556
+Q07954	LRP1 A2MR APR	Prolow-density lipoprotein receptor-related protein 1 (LRP-1) (Alpha-2-macroglobulin receptor) (A2MR) (Apolipoprotein E receptor) (APOER) (CD antigen CD91) [Cleaved into: Low-density lipoprotein receptor-related protein 1 85 kDa subunit (LRP-85); Low-density lipoprotein receptor-related protein 1 515 kDa subunit (LRP-515); Low-density lipoprotein receptor-related protein 1 intracellular domain (LRPICD)]	4544
+P15814	IGLL1 IGL1	Immunoglobulin lambda-like polypeptide 1 (CD179 antigen-like family member B) (Ig lambda-5) (Immunoglobulin omega polypeptide) (Immunoglobulin-related protein 14.1) (CD antigen CD179b)	213
+P01834	IGKC	Immunoglobulin kappa constant (Ig kappa chain C region) (Ig kappa chain C region AG) (Ig kappa chain C region CUM) (Ig kappa chain C region EU) (Ig kappa chain C region OU) (Ig kappa chain C region ROY) (Ig kappa chain C region TI)	107
+P11226	MBL2 COLEC1 MBL	Mannose-binding protein C (MBP-C) (Collectin-1) (MBP1) (Mannan-binding protein) (Mannose-binding lectin)	248
+P57053	H2BFS	Histone H2B type F-S (Histone H2B.s) (H2B/s)	126
+Q7L0X0	TRIL KIAA0644	TLR4 interactor with leucine rich repeats (Leucine-rich repeat-containing protein KIAA0644)	811
+Q08431	MFGE8	Lactadherin (Breast epithelial antigen BA46) (HMFG) (MFGM) (Milk fat globule-EGF factor 8) (MFG-E8) (SED1) [Cleaved into: Lactadherin short form; Medin]	387
+Q9NZC2	TREM2	Triggering receptor expressed on myeloid cells 2 (TREM-2) (Triggering receptor expressed on monocytes 2)	230
+Q01523	DEFA5 DEF5	Defensin-5 (Defensin, alpha 5) (HD5(20-94)) [Cleaved into: HD5(23-94); HD5(29-94); HD5(56-94); HD5(63-94)]	94
+P01023	A2M CPAMD5 FWP007	Alpha-2-macroglobulin (Alpha-2-M) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5)	1474
+Q9NR96	TLR9 UNQ5798/PRO19605	Toll-like receptor 9 (CD antigen CD289)	1032
+P10809	HSPD1 HSP60	60 kDa heat shock protein, mitochondrial (EC 5.6.1.7) (60 kDa chaperonin) (Chaperonin 60) (CPN60) (Heat shock protein 60) (HSP-60) (Hsp60) (HuCHA60) (Mitochondrial matrix protein P1) (P60 lymphocyte protein)	573
+Q14699	RFTN1 KIAA0084 MIG2	Raftlin (Cell migration-inducing gene 2 protein) (Raft-linking protein)	578
+H0YCA1	SERPING1	Plasma protease C1 inhibitor (Fragment)	86
+P61769	B2M CDABP0092 HDCMA22P	Beta-2-microglobulin [Cleaved into: Beta-2-microglobulin form pI 5.3]	119
+O00206	TLR4	Toll-like receptor 4 (hToll) (CD antigen CD284)	839
+Q7Z4W2	LYZL2	Lysozyme-like protein 2 (Lysozyme-2) (EC 3.2.1.17)	148
+P07360	C8G	Complement component C8 gamma chain	202
+Q9NPY3	CD93 C1QR1 MXRA4	Complement component C1q receptor (C1q/MBL/SPA receptor) (C1qR) (C1qR(p)) (C1qRp) (CDw93) (Complement component 1 q subcomponent receptor 1) (Matrix-remodeling-associated protein 4) (CD antigen CD93)	652
+P60763	RAC3	Ras-related C3 botulinum toxin substrate 3 (p21-Rac3)	192
+P35579	MYH9	Myosin-9 (Cellular myosin heavy chain, type A) (Myosin heavy chain 9) (Myosin heavy chain, non-muscle IIa) (Non-muscle myosin heavy chain A) (NMMHC-A) (Non-muscle myosin heavy chain IIa) (NMMHC II-a) (NMMHC-IIA)	1960
+P01742	IGHV1-69	Immunoglobulin heavy variable 1-69 (Ig heavy chain V-I region EU) (Ig heavy chain V-I region SIE) (Ig heavy chain V-I region WOL)	117
+P08571	CD14	Monocyte differentiation antigen CD14 (Myeloid cell-specific leucine-rich glycoprotein) (CD antigen CD14) [Cleaved into: Monocyte differentiation antigen CD14, urinary form; Monocyte differentiation antigen CD14, membrane-bound form]	375
+P42768	WAS IMD2	Wiskott-Aldrich syndrome protein (WASp)	502
+Q15399	TLR1 KIAA0012	Toll-like receptor 1 (Toll/interleukin-1 receptor-like protein) (TIL) (CD antigen CD281)	786
+Q9Y2A7	NCKAP1 HEM2 KIAA0587 NAP1	Nck-associated protein 1 (NAP 1) (Membrane-associated protein HEM-2) (p125Nap1)	1128
+P02538	KRT6A K6A KRT6D	Keratin, type II cytoskeletal 6A (Cytokeratin-6A) (CK-6A) (Cytokeratin-6D) (CK-6D) (Keratin-6A) (K6A) (Type-II keratin Kb6) (allergen Hom s 5)	564
+Q9Y6W5	WASF2 WAVE2	Wiskott-Aldrich syndrome protein family member 2 (WASP family protein member 2) (Protein WAVE-2) (Verprolin homology domain-containing protein 2)	498
+P27361	MAPK3 ERK1 PRKM3	Mitogen-activated protein kinase 3 (MAP kinase 3) (MAPK 3) (EC 2.7.11.24) (ERT2) (Extracellular signal-regulated kinase 1) (ERK-1) (Insulin-stimulated MAP2 kinase) (MAP kinase isoform p44) (p44-MAPK) (Microtubule-associated protein 2 kinase) (p44-ERK1)	379
+P01597	IGKV1-39	Immunoglobulin kappa variable 1-39 (Ig kappa chain V-I region DEE) (Ig kappa chain V-I region Hau) (Ig kappa chain V-I region Mev) (Ig kappa chain V-I region OU) (Ig kappa chain V-I region Walker)	117
+O75871	CEACAM4 CGM7	Carcinoembryonic antigen-related cell adhesion molecule 4 (Carcinoembryonic antigen CGM7) (Non-specific cross-reacting antigen W236)	244
+P12429	ANXA3 ANX3	Annexin A3 (35-alpha calcimedin) (Annexin III) (Annexin-3) (Inositol 1,2-cyclic phosphate 2-phosphohydrolase) (Lipocortin III) (Placental anticoagulant protein III) (PAP-III)	323
+P01701	IGLV1-51	Immunoglobulin lambda variable 1-51 (Ig lambda chain V-I region BL2) (Ig lambda chain V-I region EPS) (Ig lambda chain V-I region NEW) (Ig lambda chain V-I region NIG-64)	117
+P01374	LTA TNFB TNFSF1	Lymphotoxin-alpha (LT-alpha) (TNF-beta) (Tumor necrosis factor ligand superfamily member 1)	205
+P20023	CR2 C3DR	Complement receptor type 2 (Cr2) (Complement C3d receptor) (Epstein-Barr virus receptor) (EBV receptor) (CD antigen CD21)	1033
+A2NJV5	IGKV2-29	Immunoglobulin kappa variable 2-29	120
+P15529	CD46 MCP MIC10	Membrane cofactor protein (TLX) (Trophoblast leukocyte common antigen) (CD antigen CD46)	392
+P20701	ITGAL CD11A	Integrin alpha-L (CD11 antigen-like family member A) (Leukocyte adhesion glycoprotein LFA-1 alpha chain) (LFA-1A) (Leukocyte function-associated molecule 1 alpha chain) (CD antigen CD11a)	1170
+Q9NR97	TLR8 UNQ249/PRO286	Toll-like receptor 8 (CD antigen CD288)	1041
+A0A075B6P5	IGKV2-28	Immunoglobulin kappa variable 2-28	120
+Q05397	PTK2 FAK FAK1	Focal adhesion kinase 1 (FADK 1) (EC 2.7.10.2) (Focal adhesion kinase-related nonkinase) (FRNK) (Protein phosphatase 1 regulatory subunit 71) (PPP1R71) (Protein-tyrosine kinase 2) (p125FAK) (pp125FAK)	1052
+P43235	CTSK CTSO CTSO2	Cathepsin K (EC 3.4.22.38) (Cathepsin O) (Cathepsin O2) (Cathepsin X)	329
+P57764	GSDMD DFNA5L GSDMDC1 FKSG10	Gasdermin-D (Gasdermin domain-containing protein 1) [Cleaved into: Gasdermin-D, N-terminal (GSDMD-NT); Gasdermin-D, C-terminal (GSDMD-CT)]	484
+P05155	SERPING1 C1IN C1NH	Plasma protease C1 inhibitor (C1 Inh) (C1Inh) (C1 esterase inhibitor) (C1-inhibiting factor) (Serpin G1)	500
+Q03591	CFHR1 CFHL CFHL1 CFHL1P CFHR1P FHR1 HFL1 HFL2	Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (H-factor-like 1) (H36)	330
+Q5VX71	SUSD4 UNQ196/PRO222	Sushi domain-containing protein 4	490
+P16671	CD36 GP3B GP4	Platelet glycoprotein 4 (Fatty acid translocase) (FAT) (Glycoprotein IIIb) (GPIIIB) (Leukocyte differentiation antigen CD36) (PAS IV) (PAS-4) (Platelet collagen receptor) (Platelet glycoprotein IV) (GPIV) (Thrombospondin receptor) (CD antigen CD36)	472
+P61158	ACTR3 ARP3	Actin-related protein 3 (Actin-like protein 3)	418
+P03951	F11	Coagulation factor XI (FXI) (EC 3.4.21.27) (Plasma thromboplastin antecedent) (PTA) [Cleaved into: Coagulation factor XIa heavy chain; Coagulation factor XIa light chain]	625
+O15145	ARPC3 ARC21	Actin-related protein 2/3 complex subunit 3 (Arp2/3 complex 21 kDa subunit) (p21-ARC)	178
+Q8TDQ1	CD300LF CD300F CLM1 IGSF13 IREM1 NKIR UNQ3105/PRO10111	CMRF35-like molecule 1 (CLM-1) (CD300 antigen-like family member F) (Immune receptor expressed on myeloid cells 1) (IREM-1) (Immunoglobulin superfamily member 13) (IgSF13) (NK inhibitory receptor) (CD antigen CD300f)	290
+P23083	IGHV1-2	Immunoglobulin heavy variable 1-2 (Ig heavy chain V-I region ND) (Ig heavy chain V-I region V35)	117
+Q8IXA5	SPACA3 LYC3 LYZL3 SLLP1 SPRASA UNQ424/PRO862	Sperm acrosome membrane-associated protein 3 (Cancer/testis antigen 54) (CT54) (Lysozyme-like acrosomal sperm-specific secretory protein ALLP-17) (Lysozyme-like protein 3) (Sperm lysozyme-like protein 1) (Sperm protein reactive with antisperm antibodies) (Sperm protein reactive with ASA) [Cleaved into: Sperm acrosome membrane-associated protein 3, membrane form; Sperm acrosome membrane-associated protein 3, processed form]	215
+P78536	ADAM17 CSVP TACE	Disintegrin and metalloproteinase domain-containing protein 17 (ADAM 17) (EC 3.4.24.86) (Snake venom-like protease) (TNF-alpha convertase) (TNF-alpha-converting enzyme) (CD antigen CD156b)	824
+P04432	IGKV1D-39	Immunoglobulin kappa variable 1D-39 (Ig kappa chain V-I region Daudi)	117
+P0C0L5	C4B CO4 CPAMD3; C4B_2	Complement C4-B (Basic complement C4) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 3) [Cleaved into: Complement C4 beta chain; Complement C4-B alpha chain; C4a anaphylatoxin; C4b-B; C4d-B; Complement C4 gamma chain]	1744
+Q96QH8	SPACA5 LYZL5 SPACA5A UNQ6288/PRO20753; SPACA5B	Sperm acrosome-associated protein 5 (EC 3.2.1.17) (Lysozyme-like protein 5) (Sperm-specific lysozyme-like protein X) (SLLP-X)	159
+Q05655	PRKCD	Protein kinase C delta type (EC 2.7.11.13) (Tyrosine-protein kinase PRKCD) (EC 2.7.10.2) (nPKC-delta) [Cleaved into: Protein kinase C delta type regulatory subunit; Protein kinase C delta type catalytic subunit (Sphingosine-dependent protein kinase-1) (SDK1)]	676
+P62837	UBE2D2 PUBC1 UBC4 UBC5B UBCH4 UBCH5B	Ubiquitin-conjugating enzyme E2 D2 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme D2) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme D2) (Ubiquitin carrier protein D2) (Ubiquitin-conjugating enzyme E2(17)KB 2) (Ubiquitin-conjugating enzyme E2-17 kDa 2) (Ubiquitin-protein ligase D2) (p53-regulated ubiquitin-conjugating enzyme 1)	147
+P42336	PIK3CA	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (PI3-kinase subunit alpha) (PI3K-alpha) (PI3Kalpha) (PtdIns-3-kinase subunit alpha) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha) (PtdIns-3-kinase subunit p110-alpha) (p110alpha) (Phosphoinositide-3-kinase catalytic alpha polypeptide) (Serine/threonine protein kinase PIK3CA) (EC 2.7.11.1)	1068
+P01780	IGHV3-7	Immunoglobulin heavy variable 3-7 (Ig heavy chain V-III region GAL) (Ig heavy chain V-III region GAR) (Ig heavy chain V-III region JON)	117
+P05156	CFI IF	Complement factor I (EC 3.4.21.45) (C3B/C4B inactivator) [Cleaved into: Complement factor I heavy chain; Complement factor I light chain]	583
+P05556	ITGB1 FNRB MDF2 MSK12	Integrin beta-1 (Fibronectin receptor subunit beta) (Glycoprotein IIa) (GPIIA) (VLA-4 subunit beta) (CD antigen CD29)	798
+P01130	LDLR	Low-density lipoprotein receptor (LDL receptor)	860
+P0CG04	IGLC1	Immunoglobulin lambda constant 1 (Ig lambda chain C region MGC) (Ig lambda-1 chain C region)	106
+Q16778	HIST2H2BE H2BFQ	Histone H2B type 2-E (Histone H2B-GL105) (Histone H2B.q) (H2B/q)	126
+Q8IZY2	ABCA7	Phospholipid-transporting ATPase ABCA7 (EC 7.6.2.1) (ABCA-SSN) (ATP-binding cassette sub-family A member 7) (Autoantigen SS-N) (Macrophage ABC transporter)	2146
+P01705	IGLV2-23	Immunoglobulin lambda variable 2-23 (Ig lambda chain V-II region NEI)	113
+Q8IX05	CD302 CLEC13A DCL1 KIAA0022	CD302 antigen (C-type lectin BIMLEC) (C-type lectin domain family 13 member A) (DEC205-associated C-type lectin 1) (Type I transmembrane C-type lectin receptor DCL-1) (CD antigen CD302)	232
+P01824	IGHV4-39	Immunoglobulin heavy variable 4-39 (Ig heavy chain V-II region WAH)	125
+O60602	TLR5 TIL3	Toll-like receptor 5 (Toll/interleukin-1 receptor-like protein 3)	858
+P01602	IGKV1-5	Immunoglobulin kappa variable 1-5 (Ig kappa chain V-I region CAR) (Ig kappa chain V-I region EU) (Ig kappa chain V-I region HK102) (Ig kappa chain V-I region Kue)	117
+P09693	CD3G T3G	T-cell surface glycoprotein CD3 gamma chain (T-cell receptor T3 gamma chain) (CD antigen CD3g)	182
+Q96P20	NLRP3 C1orf7 CIAS1 NALP3 PYPAF1	NACHT, LRR and PYD domains-containing protein 3 (Angiotensin/vasopressin receptor AII/AVP-like) (Caterpiller protein 1.1) (CLR1.1) (Cold-induced autoinflammatory syndrome 1 protein) (Cryopyrin) (PYRIN-containing APAF1-like protein 1)	1036
+P59666	DEFA3 DEF3	Neutrophil defensin 3 (Defensin, alpha 3) (HNP-3) (HP-3) (HP3) [Cleaved into: HP 3-56; Neutrophil defensin 2 (HNP-2) (HP-2) (HP2)]	94
+P01717	IGLV3-25	Immunoglobulin lambda variable 3-25 (Ig lambda chain V-IV region Hil)	112
+Q8TDE3	RNASE8	Ribonuclease 8 (RNase 8) (EC 3.1.27.-)	154
+A0M8Q6	IGLC7	Immunoglobulin lambda constant 7 (Ig lambda-7 chain C region)	106
+P27918	CFP PFC	Properdin (Complement factor P)	469
+P04083	ANXA1 ANX1 LPC1	Annexin A1 (Annexin I) (Annexin-1) (Calpactin II) (Calpactin-2) (Chromobindin-9) (Lipocortin I) (Phospholipase A2 inhibitory protein) (p35)	346
+P01593	IGKV1D-33	Immunoglobulin kappa variable 1D-33 (Ig kappa chain V-I region AG) (Ig kappa chain V-I region Bi) (Ig kappa chain V-I region Lay) (Ig kappa chain V-I region Ni) (Ig kappa chain V-I region Rei) (Ig kappa chain V-I region Roy) (Ig kappa chain V-I region Scw) (Ig kappa chain V-I region WAT)	117

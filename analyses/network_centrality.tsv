@@ -1,0 +1,31 @@
+Gene_name	Protein names	Degree_centrality	Betweenness_centrality
+bgaA	Beta-galactosidase, putative	1.0	0.4518525655994565
+SPD_0250	Pullulanase, extracellular	0.7753164556962026	0.0819549074921897
+prtA	Cell wall-associated serine protease PrtA	0.6993670886075949	0.029249675747656544
+pcpA	Choline binding protein PcpA	0.6930379746835443	0.026478969920181984
+pck	Choline kinase	0.680379746835443	0.02239035229444655
+SPD_0537	Matrixin family protein	0.6708860759493671	0.019982704471951565
+eno	Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	0.6487341772151899	0.015419188991405553
+gatA	Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7)	0.6392405063291139	0.013786150552378315
+nanB	Sialidase B (EC 3.2.1.18)	0.6360759493670886	0.013316170278904593
+nanA	Sialidase A (EC 3.2.1.18)	0.6360759493670886	0.013316170278904593
+SPD_1321	Cell wall surface anchor family protein	0.6360759493670886	0.013316170278904593
+zmpB	Zinc metalloprotease ZmpB	0.6360759493670886	0.013316170278904593
+SPD_1789	Cell wall surface anchor family protein	0.6360759493670886	0.013316170278904593
+iga	Immunoglobulin A1 protease (EC 3.4.24.13)	0.6360759493670886	0.013316170278904593
+cbpE	Choline binding protein E	0.6265822784810127	0.012539393145296554
+SPD_0815	Hydrolase, carbon-nitrogen family protein	0.6265822784810127	0.012539393145296554
+proV	Choline transporter	0.620253164556962	0.01209575705755566
+SPD_0729	Hemolysin-related protein	0.620253164556962	0.01209575705755566
+ply	Pneumolysin (Thiol-activated cytolysin)	0.620253164556962	0.01209575705755566
+lytB	Endo-beta-N-acetylglucosaminidase, putative (EC 3.2.1.96)	0.620253164556962	0.01209575705755566
+SPD_0444	Endo-beta-N-acetylglucosaminidase, putative	0.620253164556962	0.01209575705755566
+proWX	Choline transporter (Glycine betaine transport system permease protein)	0.620253164556962	0.01209575705755566
+SPD_1617	Cell wall surface anchor family protein	0.620253164556962	0.01209575705755566
+adcA	Zinc ABC transporter, zinc-binding lipoprotein	0.6044303797468354	0.011362701454555079
+SPD_1463	ABC transporter, substrate binding lipoprotein	0.6044303797468354	0.011362701454555079
+lmb	Adhesion lipoprotein	0.6044303797468354	0.011362701454555079
+SPD_0335	Cell wall surface anchor family protein	0.6012658227848101	0.011236897835301685
+SPD_1376	G5 domain family protein	0.3639240506329114	0.003977611100032416
+tpx	Thiol peroxidase (Tpx) (EC 1.11.1.15) (Peroxiredoxin tpx) (Prx) (Thioredoxin peroxidase)	0.18670886075949367	0.0009933417402172133
+stkP	Serine/threonine-protein kinase StkP (Ser/Thr-protein kinase StkP) (EC 2.7.11.1) (Eukaryotic-type Ser/Thr protein kinase) (ESTPK)	0.12025316455696203	0.0003950925348305263

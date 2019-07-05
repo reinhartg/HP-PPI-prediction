@@ -1,0 +1,130 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 500px;
+            height: 500px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+        #config {
+            float: left;
+            width: 400px;
+            height: 600px;
+        }
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<div id = "config"></div>
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"color": "blue", "id": "SPD_1321", "label": "SPD_1321", "shape": "dot"}, {"color": "blue", "id": "tpx", "label": "tpx", "shape": "dot"}, {"color": "blue", "id": "pck", "label": "pck", "shape": "dot"}, {"color": "blue", "id": "gatA", "label": "gatA", "shape": "dot"}, {"color": "blue", "id": "lmb", "label": "lmb", "shape": "dot"}, {"color": "blue", "id": "SPD_1463", "label": "SPD_1463", "shape": "dot"}, {"color": "blue", "id": "SPD_1376", "label": "SPD_1376", "shape": "dot"}, {"color": "blue", "id": "SPD_1617", "label": "SPD_1617", "shape": "dot"}, {"color": "blue", "id": "ply", "label": "ply", "shape": "dot"}, {"color": "blue", "id": "iga", "label": "iga", "shape": "dot"}, {"color": "blue", "id": "nanA", "label": "nanA", "shape": "dot"}, {"color": "blue", "id": "nanB", "label": "nanB", "shape": "dot"}, {"color": "blue", "id": "zmpB", "label": "zmpB", "shape": "dot"}, {"color": "blue", "id": "pcpA", "label": "pcpA", "shape": "dot"}, {"color": "blue", "id": "proV", "label": "proV", "shape": "dot"}, {"color": "blue", "id": "prtA", "label": "prtA", "shape": "dot"}, {"color": "blue", "id": "SPD_1789", "label": "SPD_1789", "shape": "dot"}, {"color": "blue", "id": "lytB", "label": "lytB", "shape": "dot"}, {"color": "blue", "id": "SPD_0815", "label": "SPD_0815", "shape": "dot"}, {"color": "blue", "id": "SPD_0250", "label": "SPD_0250", "shape": "dot"}, {"color": "blue", "id": "proWX", "label": "proWX", "shape": "dot"}, {"color": "blue", "id": "eno", "label": "eno", "shape": "dot"}, {"color": "blue", "id": "stkP", "label": "stkP", "shape": "dot"}, {"color": "blue", "id": "SPD_0537", "label": "SPD_0537", "shape": "dot"}, {"color": "blue", "id": "SPD_0335", "label": "SPD_0335", "shape": "dot"}, {"color": "blue", "id": "adcA", "label": "adcA", "shape": "dot"}, {"color": "blue", "id": "SPD_0729", "label": "SPD_0729", "shape": "dot"}, {"color": "blue", "id": "cbpE", "label": "cbpE", "shape": "dot"}, {"color": "blue", "id": "SPD_0444", "label": "SPD_0444", "shape": "dot"}, {"color": "blue", "id": "bgaA", "label": "bgaA", "shape": "dot"}, {"color": "khaki", "id": "ACTB", "label": "ACTB", "shape": "dot"}, {"color": "khaki", "id": "MET", "label": "MET", "shape": "dot"}, {"color": "khaki", "id": "WASF2", "label": "WASF2", "shape": "dot"}, {"color": "khaki", "id": "ARPC4", "label": "ARPC4", "shape": "dot"}, {"color": "khaki", "id": "ITGB1", "label": "ITGB1", "shape": "dot"}, {"color": "khaki", "id": "WAS", "label": "WAS", "shape": "dot"}, {"color": "khaki", "id": "SRC", "label": "SRC", "shape": "dot"}, {"color": "khaki", "id": "ARPC1A", "label": "ARPC1A", "shape": "dot"}, {"color": "khaki", "id": "ACTG1", "label": "ACTG1", "shape": "dot"}, {"color": "khaki", "id": "CDC42", "label": "CDC42", "shape": "dot"}, {"color": "khaki", "id": "ARPC1B", "label": "ARPC1B", "shape": "dot"}, {"color": "khaki", "id": "PTK2", "label": "PTK2", "shape": "dot"}, {"color": "khaki", "id": "ARPC3", "label": "ARPC3", "shape": "dot"}, {"color": "khaki", "id": "ARPC2", "label": "ARPC2", "shape": "dot"}, {"color": "khaki", "id": "RAC1", "label": "RAC1", "shape": "dot"}, {"color": "khaki", "id": "PIK3CA", "label": "PIK3CA", "shape": "dot"}, {"color": "khaki", "id": "WASL", "label": "WASL", "shape": "dot"}, {"color": "khaki", "id": "CRK", "label": "CRK", "shape": "dot"}, {"color": "khaki", "id": "DNM2", "label": "DNM2", "shape": "dot"}]);
+        edges = new vis.DataSet([{"from": "SPD_1321", "to": "ITGB1"}, {"from": "SPD_1321", "to": "PTK2"}, {"from": "SPD_1321", "to": "ARPC3"}, {"from": "SPD_1321", "to": "ARPC2"}, {"from": "SPD_1321", "to": "ARPC4"}, {"from": "SPD_1321", "to": "DNM2"}, {"from": "SPD_1321", "to": "CRK"}, {"from": "SPD_1321", "to": "WASF2"}, {"from": "SPD_1321", "to": "WASL"}, {"from": "SPD_1321", "to": "WAS"}, {"from": "tpx", "to": "DNM2"}, {"from": "tpx", "to": "CRK"}, {"from": "tpx", "to": "WASL"}, {"from": "pck", "to": "ITGB1"}, {"from": "pck", "to": "ACTG1"}, {"from": "pck", "to": "ACTB"}, {"from": "pck", "to": "SRC"}, {"from": "pck", "to": "PTK2"}, {"from": "pck", "to": "ARPC3"}, {"from": "pck", "to": "ARPC2"}, {"from": "pck", "to": "ARPC4"}, {"from": "pck", "to": "DNM2"}, {"from": "pck", "to": "CRK"}, {"from": "pck", "to": "WASF2"}, {"from": "pck", "to": "WASL"}, {"from": "pck", "to": "WAS"}, {"from": "gatA", "to": "ITGB1"}, {"from": "gatA", "to": "PTK2"}, {"from": "gatA", "to": "ARPC3"}, {"from": "gatA", "to": "ARPC2"}, {"from": "gatA", "to": "ARPC4"}, {"from": "gatA", "to": "DNM2"}, {"from": "gatA", "to": "CRK"}, {"from": "gatA", "to": "WASF2"}, {"from": "gatA", "to": "WASL"}, {"from": "gatA", "to": "WAS"}, {"from": "CRK", "to": "eno"}, {"from": "CRK", "to": "ply"}, {"from": "CRK", "to": "SPD_0250"}, {"from": "CRK", "to": "zmpB"}, {"from": "CRK", "to": "iga"}, {"from": "CRK", "to": "SPD_0335"}, {"from": "CRK", "to": "prtA"}, {"from": "CRK", "to": "nanA"}, {"from": "CRK", "to": "bgaA"}, {"from": "CRK", "to": "SPD_1789"}, {"from": "CRK", "to": "SPD_0444"}, {"from": "CRK", "to": "SPD_1617"}, {"from": "CRK", "to": "SPD_1376"}, {"from": "CRK", "to": "SPD_0537"}, {"from": "CRK", "to": "stkP"}, {"from": "CRK", "to": "SPD_0729"}, {"from": "CRK", "to": "cbpE"}, {"from": "CRK", "to": "proWX"}, {"from": "CRK", "to": "proV"}, {"from": "CRK", "to": "pcpA"}, {"from": "CRK", "to": "nanB"}, {"from": "CRK", "to": "lytB"}, {"from": "CRK", "to": "SPD_0815"}, {"from": "CRK", "to": "lmb"}, {"from": "CRK", "to": "adcA"}, {"from": "CRK", "to": "SPD_1463"}, {"from": "lmb", "to": "ITGB1"}, {"from": "lmb", "to": "PTK2"}, {"from": "lmb", "to": "ARPC3"}, {"from": "lmb", "to": "ARPC2"}, {"from": "lmb", "to": "ARPC4"}, {"from": "lmb", "to": "DNM2"}, {"from": "lmb", "to": "WASF2"}, {"from": "lmb", "to": "WASL"}, {"from": "lmb", "to": "WAS"}, {"from": "SPD_1463", "to": "ITGB1"}, {"from": "SPD_1463", "to": "PTK2"}, {"from": "SPD_1463", "to": "ARPC3"}, {"from": "SPD_1463", "to": "ARPC2"}, {"from": "SPD_1463", "to": "ARPC4"}, {"from": "SPD_1463", "to": "DNM2"}, {"from": "SPD_1463", "to": "WASF2"}, {"from": "SPD_1463", "to": "WASL"}, {"from": "SPD_1463", "to": "WAS"}, {"from": "WAS", "to": "eno"}, {"from": "WAS", "to": "ply"}, {"from": "WAS", "to": "SPD_0250"}, {"from": "WAS", "to": "zmpB"}, {"from": "WAS", "to": "iga"}, {"from": "WAS", "to": "SPD_0335"}, {"from": "WAS", "to": "prtA"}, {"from": "WAS", "to": "nanA"}, {"from": "WAS", "to": "bgaA"}, {"from": "WAS", "to": "SPD_1789"}, {"from": "WAS", "to": "SPD_0444"}, {"from": "WAS", "to": "SPD_1617"}, {"from": "WAS", "to": "SPD_1376"}, {"from": "WAS", "to": "SPD_0537"}, {"from": "WAS", "to": "SPD_0729"}, {"from": "WAS", "to": "cbpE"}, {"from": "WAS", "to": "proWX"}, {"from": "WAS", "to": "proV"}, {"from": "WAS", "to": "pcpA"}, {"from": "WAS", "to": "nanB"}, {"from": "WAS", "to": "lytB"}, {"from": "WAS", "to": "SPD_0815"}, {"from": "WAS", "to": "adcA"}, {"from": "ARPC1B", "to": "SPD_0250"}, {"from": "ARPC1B", "to": "bgaA"}, {"from": "SPD_1376", "to": "ITGB1"}, {"from": "SPD_1376", "to": "DNM2"}, {"from": "SPD_1376", "to": "WASF2"}, {"from": "SPD_1376", "to": "WASL"}, {"from": "CDC42", "to": "bgaA"}, {"from": "SPD_1617", "to": "ITGB1"}, {"from": "SPD_1617", "to": "PTK2"}, {"from": "SPD_1617", "to": "ARPC3"}, {"from": "SPD_1617", "to": "ARPC2"}, {"from": "SPD_1617", "to": "ARPC4"}, {"from": "SPD_1617", "to": "DNM2"}, {"from": "SPD_1617", "to": "WASF2"}, {"from": "SPD_1617", "to": "WASL"}, {"from": "ply", "to": "ITGB1"}, {"from": "ply", "to": "PTK2"}, {"from": "ply", "to": "ARPC3"}, {"from": "ply", "to": "ARPC2"}, {"from": "ply", "to": "ARPC4"}, {"from": "ply", "to": "DNM2"}, {"from": "ply", "to": "WASF2"}, {"from": "ply", "to": "WASL"}, {"from": "ACTB", "to": "SPD_0250"}, {"from": "ACTB", "to": "prtA"}, {"from": "ACTB", "to": "bgaA"}, {"from": "ACTB", "to": "pcpA"}, {"from": "PIK3CA", "to": "SPD_0250"}, {"from": "PIK3CA", "to": "prtA"}, {"from": "PIK3CA", "to": "bgaA"}, {"from": "PIK3CA", "to": "pcpA"}, {"from": "ARPC4", "to": "eno"}, {"from": "ARPC4", "to": "SPD_0250"}, {"from": "ARPC4", "to": "zmpB"}, {"from": "ARPC4", "to": "iga"}, {"from": "ARPC4", "to": "SPD_0335"}, {"from": "ARPC4", "to": "prtA"}, {"from": "ARPC4", "to": "nanA"}, {"from": "ARPC4", "to": "bgaA"}, {"from": "ARPC4", "to": "SPD_1789"}, {"from": "ARPC4", "to": "SPD_0444"}, {"from": "ARPC4", "to": "SPD_0537"}, {"from": "ARPC4", "to": "SPD_0729"}, {"from": "ARPC4", "to": "cbpE"}, {"from": "ARPC4", "to": "proWX"}, {"from": "ARPC4", "to": "proV"}, {"from": "ARPC4", "to": "pcpA"}, {"from": "ARPC4", "to": "nanB"}, {"from": "ARPC4", "to": "lytB"}, {"from": "ARPC4", "to": "SPD_0815"}, {"from": "ARPC4", "to": "adcA"}, {"from": "ARPC2", "to": "eno"}, {"from": "ARPC2", "to": "SPD_0250"}, {"from": "ARPC2", "to": "zmpB"}, {"from": "ARPC2", "to": "iga"}, {"from": "ARPC2", "to": "SPD_0335"}, {"from": "ARPC2", "to": "prtA"}, {"from": "ARPC2", "to": "nanA"}, {"from": "ARPC2", "to": "bgaA"}, {"from": "ARPC2", "to": "SPD_1789"}, {"from": "ARPC2", "to": "SPD_0444"}, {"from": "ARPC2", "to": "SPD_0537"}, {"from": "ARPC2", "to": "SPD_0729"}, {"from": "ARPC2", "to": "cbpE"}, {"from": "ARPC2", "to": "proWX"}, {"from": "ARPC2", "to": "proV"}, {"from": "ARPC2", "to": "pcpA"}, {"from": "ARPC2", "to": "nanB"}, {"from": "ARPC2", "to": "lytB"}, {"from": "ARPC2", "to": "SPD_0815"}, {"from": "ARPC2", "to": "adcA"}, {"from": "iga", "to": "ITGB1"}, {"from": "iga", "to": "PTK2"}, {"from": "iga", "to": "ARPC3"}, {"from": "iga", "to": "DNM2"}, {"from": "iga", "to": "WASF2"}, {"from": "iga", "to": "WASL"}, {"from": "nanA", "to": "ITGB1"}, {"from": "nanA", "to": "PTK2"}, {"from": "nanA", "to": "ARPC3"}, {"from": "nanA", "to": "DNM2"}, {"from": "nanA", "to": "WASF2"}, {"from": "nanA", "to": "WASL"}, {"from": "nanB", "to": "ITGB1"}, {"from": "nanB", "to": "PTK2"}, {"from": "nanB", "to": "ARPC3"}, {"from": "nanB", "to": "DNM2"}, {"from": "nanB", "to": "WASF2"}, {"from": "nanB", "to": "WASL"}, {"from": "DNM2", "to": "eno"}, {"from": "DNM2", "to": "SPD_0250"}, {"from": "DNM2", "to": "zmpB"}, {"from": "DNM2", "to": "SPD_0335"}, {"from": "DNM2", "to": "prtA"}, {"from": "DNM2", "to": "bgaA"}, {"from": "DNM2", "to": "SPD_1789"}, {"from": "DNM2", "to": "SPD_0444"}, {"from": "DNM2", "to": "SPD_0537"}, {"from": "DNM2", "to": "stkP"}, {"from": "DNM2", "to": "SPD_0729"}, {"from": "DNM2", "to": "cbpE"}, {"from": "DNM2", "to": "proWX"}, {"from": "DNM2", "to": "proV"}, {"from": "DNM2", "to": "pcpA"}, {"from": "DNM2", "to": "lytB"}, {"from": "DNM2", "to": "SPD_0815"}, {"from": "DNM2", "to": "adcA"}, {"from": "zmpB", "to": "ITGB1"}, {"from": "zmpB", "to": "PTK2"}, {"from": "zmpB", "to": "ARPC3"}, {"from": "zmpB", "to": "WASF2"}, {"from": "zmpB", "to": "WASL"}, {"from": "pcpA", "to": "ITGB1"}, {"from": "pcpA", "to": "ACTG1"}, {"from": "pcpA", "to": "SRC"}, {"from": "pcpA", "to": "PTK2"}, {"from": "pcpA", "to": "ARPC3"}, {"from": "pcpA", "to": "WASF2"}, {"from": "pcpA", "to": "WASL"}, {"from": "proV", "to": "ITGB1"}, {"from": "proV", "to": "PTK2"}, {"from": "proV", "to": "ARPC3"}, {"from": "proV", "to": "WASF2"}, {"from": "proV", "to": "WASL"}, {"from": "prtA", "to": "ITGB1"}, {"from": "prtA", "to": "ACTG1"}, {"from": "prtA", "to": "SRC"}, {"from": "prtA", "to": "PTK2"}, {"from": "prtA", "to": "ARPC3"}, {"from": "prtA", "to": "WASF2"}, {"from": "prtA", "to": "WASL"}, {"from": "SPD_1789", "to": "ITGB1"}, {"from": "SPD_1789", "to": "PTK2"}, {"from": "SPD_1789", "to": "ARPC3"}, {"from": "SPD_1789", "to": "WASF2"}, {"from": "SPD_1789", "to": "WASL"}, {"from": "lytB", "to": "ITGB1"}, {"from": "lytB", "to": "PTK2"}, {"from": "lytB", "to": "ARPC3"}, {"from": "lytB", "to": "WASF2"}, {"from": "lytB", "to": "WASL"}, {"from": "SPD_0815", "to": "ITGB1"}, {"from": "SPD_0815", "to": "PTK2"}, {"from": "SPD_0815", "to": "ARPC3"}, {"from": "SPD_0815", "to": "WASF2"}, {"from": "SPD_0815", "to": "WASL"}, {"from": "WASL", "to": "eno"}, {"from": "WASL", "to": "SPD_0250"}, {"from": "WASL", "to": "SPD_0335"}, {"from": "WASL", "to": "bgaA"}, {"from": "WASL", "to": "SPD_0444"}, {"from": "WASL", "to": "SPD_0537"}, {"from": "WASL", "to": "SPD_0729"}, {"from": "WASL", "to": "cbpE"}, {"from": "WASL", "to": "proWX"}, {"from": "WASL", "to": "adcA"}, {"from": "ARPC1A", "to": "SPD_0250"}, {"from": "ARPC1A", "to": "bgaA"}, {"from": "SPD_0250", "to": "ITGB1"}, {"from": "SPD_0250", "to": "ACTG1"}, {"from": "SPD_0250", "to": "SRC"}, {"from": "SPD_0250", "to": "PTK2"}, {"from": "SPD_0250", "to": "ARPC3"}, {"from": "SPD_0250", "to": "WASF2"}, {"from": "ACTG1", "to": "bgaA"}, {"from": "proWX", "to": "ITGB1"}, {"from": "proWX", "to": "PTK2"}, {"from": "proWX", "to": "ARPC3"}, {"from": "proWX", "to": "WASF2"}, {"from": "eno", "to": "ITGB1"}, {"from": "eno", "to": "PTK2"}, {"from": "eno", "to": "ARPC3"}, {"from": "eno", "to": "WASF2"}, {"from": "ITGB1", "to": "SPD_0335"}, {"from": "ITGB1", "to": "bgaA"}, {"from": "ITGB1", "to": "SPD_0444"}, {"from": "ITGB1", "to": "SPD_0537"}, {"from": "ITGB1", "to": "SPD_0729"}, {"from": "ITGB1", "to": "cbpE"}, {"from": "ITGB1", "to": "adcA"}, {"from": "PTK2", "to": "SPD_0335"}, {"from": "PTK2", "to": "bgaA"}, {"from": "PTK2", "to": "SPD_0444"}, {"from": "PTK2", "to": "SPD_0537"}, {"from": "PTK2", "to": "SPD_0729"}, {"from": "PTK2", "to": "cbpE"}, {"from": "PTK2", "to": "adcA"}, {"from": "RAC1", "to": "bgaA"}, {"from": "MET", "to": "bgaA"}, {"from": "WASF2", "to": "SPD_0335"}, {"from": "WASF2", "to": "bgaA"}, {"from": "WASF2", "to": "SPD_0444"}, {"from": "WASF2", "to": "SPD_0537"}, {"from": "WASF2", "to": "SPD_0729"}, {"from": "WASF2", "to": "cbpE"}, {"from": "WASF2", "to": "adcA"}, {"from": "SPD_0537", "to": "SRC"}, {"from": "SPD_0537", "to": "ARPC3"}, {"from": "SPD_0335", "to": "ARPC3"}, {"from": "adcA", "to": "ARPC3"}, {"from": "SPD_0729", "to": "ARPC3"}, {"from": "cbpE", "to": "ARPC3"}, {"from": "SPD_0444", "to": "ARPC3"}, {"from": "ARPC3", "to": "bgaA"}, {"from": "bgaA", "to": "SRC"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": true
+    },
+    "edges": {
+        "color": {
+            "inherit": false
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0.2,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -200,
+            "springConstant": 0.08,
+            "springLength": 150
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        // default to using dot shape for nodes
+        options.nodes = {
+            shape: "dot"
+        }
+        
+        // if this network requires displaying the configure window,
+        // put it in its div
+        options.configure["container"] = document.getElementById("config");
+        
+
+        network = new vis.Network(container, data, options);
+
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
